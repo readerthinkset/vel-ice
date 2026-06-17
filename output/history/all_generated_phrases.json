@@ -174,7 +174,42 @@
       "transliteration": "Thoo ert farr, sannarlega.",
       "category": "Courage",
       "generated_at": "2026-06-17T16:59:52.160085"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "icelandic": "Takk, fyrir allt.",
+      "transliteration": "Tahk, fir-ir ahtlt.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-17T19:29:00.222013"
+    },
+    {
+      "english": "I appreciate, your help.",
+      "icelandic": "Ég met, hjálpina þína.",
+      "transliteration": "Yeg met, hyal-pin-a th-eena.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-17T19:29:00.222020"
+    },
+    {
+      "english": "So grateful, for this.",
+      "icelandic": "Svo þakklátur, fyrir þetta.",
+      "transliteration": "So thahk-klah-tur, fir-ir thet-ta.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-17T19:29:00.222022"
+    },
+    {
+      "english": "You are, a true friend.",
+      "icelandic": "Þú ert, sannur vinur.",
+      "transliteration": "Thoo ert, sahn-nur vin-ur.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-17T19:29:00.222023"
+    },
+    {
+      "english": "This means, so much.",
+      "icelandic": "Þetta þýðir, svo mikið.",
+      "transliteration": "Thet-ta th-eeder, so meek-ith.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-17T19:29:00.222024"
     }
   ],
-  "last_updated": "2026-06-17T16:59:52.160088"
+  "last_updated": "2026-06-17T19:29:00.222025"
 }
