@@ -1,5 +1,5 @@
 """
-VELOCITY SERBIAN - Unified Social Media Upload Script
+VELOCITY ICELANDIC - Unified Social Media Upload Script
 """
 
 import os, sys, json
@@ -43,25 +43,25 @@ def get_latest_reel():
     mf = latest.parent / "metadata.json"
     if mf.exists():
         with open(mf, encoding="utf-8") as f: meta = json.load(f)
-    return {"video_path": str(latest), "metadata": meta, "category": meta.get("category_english", "Serbian Learning"), "phrases": meta.get("phrases", [])}
+    return {"video_path": str(latest), "metadata": meta, "category": meta.get("category_english", "Icelandic Learning"), "phrases": meta.get("phrases", [])}
 
 
 def generate_caption(phrases, category, platform="facebook"):
-    base = [f"Learn Serbian with VELOCITY SERBIAN!", "", f"Category: {category}", "", f"Master Serbian one phrase at a time! Today's {category} lesson:", ""]
+    base = [f"Learn Icelandic with VELOCITY ICELANDIC!", "", f"Category: {category}", "", f"Master Icelandic one phrase at a time! Today's {category} lesson:", ""]
     for i, p in enumerate(phrases[:5], 0):
         base.append(f"{i+1}. {p['english']}")
-        base.append(f"   {p.get('serbian', '')}")
+        base.append(f"   {p.get('icelandic', '')}")
         base.append(f"   [{p.get('transliteration', '')}]")
         base.append("")
-    base.extend(["Tip: Repeat each phrase out loud 3 times!", "Like this video if you learned something new!", "Comment your favorite phrase below!", f"Follow for daily Serbian lessons!", ""])
-    base.extend([f"#learnserbian", f"#serbianlessons", f"#serbianforbeginners", "#languagelearning", f"#serbianvocabulary", f"#velocityserbian", f"#dailyserbian", f"#serbian", "#learnlanguages"])
+    base.extend(["Tip: Repeat each phrase out loud 3 times!", "Like this video if you learned something new!", "Comment your favorite phrase below!", f"Follow for daily Icelandic lessons!", ""])
+    base.extend([f"#learnicelandic", f"#icelandiclessons", f"#icelandicforbeginners", "#languagelearning", f"#icelandicvocabulary", f"#velocityicelandic", f"#dailyicelandic", f"#icelandic", "#learnlanguages"])
     return "\n".join(base)
 
 
 def upload_to_all_platforms(video_path, caption, category, phrases=None):
     results = {"timestamp": datetime.now().isoformat(), "category": category, "video": video_path, "uploads": {}, "platforms_attempted": [], "platforms_successful": [], "platforms_skipped": [], "platforms_failed": []}
     print("\n" + "="*80)
-    print(f"VELOCITY SERBIAN - MULTI-PLATFORM UPLOAD")
+    print(f"VELOCITY ICELANDIC - MULTI-PLATFORM UPLOAD")
     print("="*80)
     if not Path(video_path).exists(): print(f"Video not found"); return results
     platforms = [("facebook", "fb", "Facebook"), ("instagram", "ig", "Instagram"), ("youtube", "yt", "YouTube"), ("vk", "vk", "VK"), ("telegram", "tg", "Telegram"), ("twitter", "tw", "Twitter"), ("threads", "th", "Threads"), ("tiktok", "tk", "TikTok")]
@@ -75,7 +75,7 @@ def upload_to_all_platforms(video_path, caption, category, phrases=None):
                     yt_title, yt_desc, yt_tags = generate_video_metadata(category, len(phrases) if phrases else 5, phrases)
                     r = func(video_path=video_path, title=yt_title, description=yt_desc, tags=yt_tags, category_id='22')
                 elif pname == "vk":
-                    r = func(video_path=video_path, description=caption, title=f"Serbian: {category}")
+                    r = func(video_path=video_path, description=caption, title=f"Icelandic: {category}")
                 elif pname == "telegram":
                     r = func(video_path=video_path, caption=caption)
                 elif pname == "twitter":
@@ -85,7 +85,7 @@ def upload_to_all_platforms(video_path, caption, category, phrases=None):
                 elif pname == "tiktok":
                     r = func(video_path=video_path, description=caption)
                 elif pname == "facebook":
-                    r = func(video_path=video_path, description=caption, title=f"Serbian: {category}")
+                    r = func(video_path=video_path, description=caption, title=f"Icelandic: {category}")
                 elif pname == "instagram":
                     r = func(video_path=video_path, caption=caption, is_story=False)
                 if r:
@@ -108,7 +108,7 @@ def upload_to_all_platforms(video_path, caption, category, phrases=None):
 
 def main():
     print("\n" + "="*80)
-    print(f"VELOCITY SERBIAN - AUTOMATED UPLOAD")
+    print(f"VELOCITY ICELANDIC - AUTOMATED UPLOAD")
     print("="*80)
     reel = get_latest_reel()
     if not reel: print("No reel found"); sys.exit(1)

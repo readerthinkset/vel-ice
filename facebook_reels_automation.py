@@ -1,6 +1,6 @@
 """
-Facebook Reels Automation - Bilingual English/Serbian Content Generator
-IMPROVED VERSION: Better backgrounds, English categories, no repeats, VELOCITY SERBIAN branding
+Facebook Reels Automation - Bilingual English/Icelandic Content Generator
+IMPROVED VERSION: Better backgrounds, English categories, no repeats, VELOCITY ICELANDIC branding
 Rounded container style from Habla Verse
 """
 
@@ -81,45 +81,45 @@ CATEGORIES_ENGLISH = [
 ]
 
 CATEGORIES_NATIVE = {
-    "Greetings": "Pozdravi",
-    "Basic Phrases": "Osnovne Fraze",
-    "Common Expressions": "Uobičajeni Izrazi",
-    "Travel": "Putovanje",
-    "Restaurant": "Restoran",
-    "Shopping": "Kupovina",
-    "Emergency": "Hitno",
-    "Family Terms": "Porodični Termini",
-    "Numbers": "Brojevi",
-    "Time": "Vreme",
-    "Motivation": "Motivacija",
-    "Love": "Ljubav",
-    "Success": "Uspeh",
-    "Wisdom": "Mudrost",
-    "Happiness": "Sreća",
-    "Self Improvement": "Samopoboljšanje",
-    "Gratitude": "Zahvalnost",
-    "Friendship": "Prijateljstvo",
-    "Hope": "Nada",
-    "Creativity": "Kreativnost",
-    "Inner Peace": "Unutrašnji Mir",
-    "Confidence": "Samopouzdanje",
-    "Perseverance": "Ustrajnost",
-    "Inspiration": "Inspiracija",
-    "Positive Life": "Pozitivan Život",
-    "Courage": "Hrabrost",
-    "Kindness": "Ljubaznost",
-    "Patience": "Strpljenje",
-    "Forgiveness": "Oproštaj",
-    "Strength": "Snaga",
-    "Joy": "Radost",
-    "Balance": "Ravnoteža",
-    "Growth": "Rast",
-    "Purpose": "Svrha",
-    "Mindfulness": "Svesnost"
+    "Greetings": "Kveðjur",
+    "Basic Phrases": "Grunnsetningar",
+    "Common Expressions": "Algengar Orðasambönd",
+    "Travel": "Ferðalög",
+    "Restaurant": "Veitingastaður",
+    "Shopping": "Innkaup",
+    "Emergency": "Neyðarástand",
+    "Family Terms": "Fjölskylduorð",
+    "Numbers": "Tölur",
+    "Time": "Tími",
+    "Motivation": "Hvatning",
+    "Love": "Ást",
+    "Success": "Velgengni",
+    "Wisdom": "Viska",
+    "Happiness": "Hamingja",
+    "Self Improvement": "Sjálfsbæting",
+    "Gratitude": "Þakklæti",
+    "Friendship": "Vinátta",
+    "Hope": "Von",
+    "Creativity": "Sköpunargáfa",
+    "Inner Peace": "Innri Friður",
+    "Confidence": "Sjálfstraust",
+    "Perseverance": "Þrautseigja",
+    "Inspiration": "Innblástur",
+    "Positive Life": "Jákvætt Líf",
+    "Courage": "Hugrekki",
+    "Kindness": "Góðvild",
+    "Patience": "Þolinmæði",
+    "Forgiveness": "Fyrirgefning",
+    "Strength": "Styrkur",
+    "Joy": "Gleði",
+    "Balance": "Jafnvægi",
+    "Growth": "Vöxtur",
+    "Purpose": "Tilgangur",
+    "Mindfulness": "Núvitund"
 }
 
 ENGLISH_VOICE = "en-US-GuyNeural"
-NATIVE_VOICE = "sr-RS-NicholasNeural"
+NATIVE_VOICE = "is-IS-GunnarNeural"
 
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
 RECENT_CATEGORIES_FILE = HISTORY_DIR / "recent_categories.json"
@@ -150,7 +150,7 @@ def is_phrase_used(english_phrase):
 
 def add_phrases_to_history(phrases, category):
     history = load_phrase_history()
-    lang_key = "serbian"
+    lang_key = "icelandic"
     for phrase in phrases:
         history["phrases"].append({
             "english": phrase["english"],
@@ -207,7 +207,7 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
                 "Content-Type": "application/json"
             }
 
-            prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning Serbian.
+            prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning Icelandic.
 
 IMPORTANT RULES FOR NATURAL SPEECH:
 1. Keep phrases SHORT (5-12 words max per language)
@@ -215,25 +215,25 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 3. Use punctuation for breathing room in TTS
 4. Avoid long run-on sentences
 5. Each phrase should be speakable in 3-5 seconds
-6. Serbian text should be CLEAN - use standard Serbian script
-7. Do NOT include multiple versions or slashes - just ONE clean Serbian translation
+6. Icelandic text should be CLEAN - use standard Icelandic script
+7. Do NOT include multiple versions or slashes - just ONE clean Icelandic translation
 8. Transliteration should be in Roman script for pronunciation
 
 For each phrase:
 1. English phrase (with commas for natural pauses)
-2. Serbian translation (in Serbian script)
+2. Icelandic translation (in Icelandic script)
 3. Transliteration (Roman script pronunciation)
 
 Return as JSON array:
-[{{"english": "...", "serbian": "...", "transliteration": "..."}}]
+[{{"english": "...", "icelandic": "...", "transliteration": "..."}}]
 
 IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.
-IMPORTANT: Serbian text must be clean - no slashes, no multiple versions."""
+IMPORTANT: Icelandic text must be clean - no slashes, no multiple versions."""
 
             payload = {
                 "model": AI_MODEL,
                 "messages": [
-                    {"role": "system", "content": "You are a Serbian teacher. Create short, natural phrases with pauses."},
+                    {"role": "system", "content": "You are a Icelandic teacher. Create short, natural phrases with pauses."},
                     {"role": "user", "content": prompt}
                 ],
                 "temperature": 0.9
@@ -255,13 +255,13 @@ IMPORTANT: Serbian text must be clean - no slashes, no multiple versions."""
             for p in phrases:
                 if "transliteration" not in p and "romaji" in p:
                     p["transliteration"] = p.pop("romaji")
-                if "serbian" not in p:
-                    alt_keys = ["serbian_text", "native", "translation", p.get("language", "")]
+                if "icelandic" not in p:
+                    alt_keys = ["icelandic_text", "native", "translation", p.get("language", "")]
                     for k in alt_keys:
                         if k in p:
-                            p["serbian"] = p.pop(k)
+                            p["icelandic"] = p.pop(k)
                             break
-                if "serbian" not in p:
+                if "icelandic" not in p:
                     continue
 
             unique_phrases = []
@@ -288,22 +288,22 @@ IMPORTANT: Serbian text must be clean - no slashes, no multiple versions."""
 def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
     """Return simple English fallback phrases when AI generation fails"""
     generic_fallbacks = [
-        {"english": "Hello, nice to meet you.", "serbian": "[SK] Hello", "transliteration": "hello"},
-        {"english": "Thank you very much.", "serbian": "[SK] Thank you", "transliteration": "thank you"},
-        {"english": "Good morning, have a great day.", "serbian": "[SK] Good morning", "transliteration": "good morning"},
-        {"english": "I love learning new languages.", "serbian": "[SK] Love learning", "transliteration": "love learning"},
-        {"english": "Never give up on your dreams.", "serbian": "[SK] Never give up", "transliteration": "never give up"},
-        {"english": "Every day is a fresh start.", "serbian": "[SK] Fresh start", "transliteration": "fresh start"},
-        {"english": "Believe in yourself always.", "serbian": "[SK] Believe", "transliteration": "believe"},
-        {"english": "Small steps lead to big changes.", "serbian": "[SK] Small steps", "transliteration": "small steps"},
-        {"english": "You are stronger than you think.", "serbian": "[SK] Stronger", "transliteration": "stronger"},
-        {"english": "Happiness is a choice, choose it.", "serbian": "[SK] Happiness", "transliteration": "happiness"},
+        {"english": "Hello, nice to meet you.", "icelandic": "[SK] Hello", "transliteration": "hello"},
+        {"english": "Thank you very much.", "icelandic": "[SK] Thank you", "transliteration": "thank you"},
+        {"english": "Good morning, have a great day.", "icelandic": "[SK] Good morning", "transliteration": "good morning"},
+        {"english": "I love learning new languages.", "icelandic": "[SK] Love learning", "transliteration": "love learning"},
+        {"english": "Never give up on your dreams.", "icelandic": "[SK] Never give up", "transliteration": "never give up"},
+        {"english": "Every day is a fresh start.", "icelandic": "[SK] Fresh start", "transliteration": "fresh start"},
+        {"english": "Believe in yourself always.", "icelandic": "[SK] Believe", "transliteration": "believe"},
+        {"english": "Small steps lead to big changes.", "icelandic": "[SK] Small steps", "transliteration": "small steps"},
+        {"english": "You are stronger than you think.", "icelandic": "[SK] Stronger", "transliteration": "stronger"},
+        {"english": "Happiness is a choice, choose it.", "icelandic": "[SK] Happiness", "transliteration": "happiness"},
     ]
     fresh = [p for p in generic_fallbacks if not is_phrase_used(p["english"])]
     # Assign the right language key
-    lang_key = "serbian"
+    lang_key = "icelandic"
     for p in fresh:
-        p[lang_key] = p.pop("serbian")
+        p[lang_key] = p.pop("icelandic")
     return fresh[:num_phrases]
 async def generate_single_audio(text: str, voice: str, output_path: str):
     try:
@@ -350,13 +350,13 @@ def generate_all_audio(phrases: list, output_dir: str):
 
         print(f"\n  Phrase {i+1}:")
         print(f"    EN: {phrase['english']}")
-        print(f"    RS: {phrase['serbian']}")
+        print(f"    IS: {phrase['icelandic']}")
 
-        nat_success = asyncio.run(generate_audio_with_retries(phrase["serbian"], NATIVE_VOICE, str(native_file)))
+        nat_success = asyncio.run(generate_audio_with_retries(phrase["icelandic"], NATIVE_VOICE, str(native_file)))
         if nat_success:
-            print(f"    - Serbian: {native_file.name}")
+            print(f"    - Icelandic: {native_file.name}")
         else:
-            print(f"    - Serbian: SILENCE FALLBACK (TTS failed)")
+            print(f"    - Icelandic: SILENCE FALLBACK (TTS failed)")
             cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(native_file)]
             subprocess.run(cmd, capture_output=True)
 
@@ -1292,7 +1292,7 @@ def create_impressive_background(category_english: str):
 
 def find_font(bold=False, size=40):
     from PIL import ImageFont
-    font_file = FONTS_DIR / "NotoSansSerbian-Bold.ttf"
+    font_file = FONTS_DIR / "NotoSansIcelandic-Bold.ttf"
     if font_file.exists():
         try:
             return ImageFont.truetype(str(font_file), size)
@@ -1356,7 +1356,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     font_branding = find_font(bold=True, size=SIZE_BRANDING)
     font_progress = find_font(bold=False, size=SIZE_PROGRESS)
 
-    native = phrase_data.get("serbian", "")
+    native = phrase_data.get("icelandic", "")
     english = phrase_data.get("english", "")
     transliteration = phrase_data.get("transliteration", "")
 
@@ -1491,7 +1491,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
               fill=(180, 180, 180), font=font_progress, anchor="mm")
 
     # Branding (rounded)
-    brand_text = "VELOCITY SERBIAN"
+    brand_text = "VELOCITY ICELANDIC"
     brand_bb = draw.textbbox((0, 0), brand_text, font=font_branding)
     brand_tw = brand_bb[2] - brand_bb[0]
     brand_th = brand_bb[3] - brand_bb[1]
@@ -1597,7 +1597,7 @@ def generate_reel(category_english: str = None):
     phrases = generate_phrases(category_english, num_phrases=5)
 
     for i, phrase in enumerate(phrases, 1):
-        print(f"  {i}. {phrase['english']} -> {phrase['serbian']}")
+        print(f"  {i}. {phrase['english']} -> {phrase['icelandic']}")
 
     print("\n[2/4] Generating images with impressive backgrounds...")
     for i, phrase in enumerate(phrases):
@@ -1605,7 +1605,7 @@ def generate_reel(category_english: str = None):
         generate_complete_image(phrase, category_english, str(output_path), phrase_index=i, total_phrases=len(phrases))
         print(f"  Image {i+1}: {phrase['english'][:40]}...")
 
-    print("\n[3/4] Generating audio (English + Serbian with 500ms pause)...")
+    print("\n[3/4] Generating audio (English + Icelandic with 500ms pause)...")
     audio_files = generate_all_audio(phrases, str(reel_dir))
 
     final_audio = reel_dir / "narration.mp3"
@@ -1639,7 +1639,7 @@ def generate_reel(category_english: str = None):
     print(f"REEL COMPLETE!")
     print(f"  {reel_dir}")
     print(f"  {output_video.name}")
-    print(f"  Branding: VELOCITY SERBIAN")
+    print(f"  Branding: VELOCITY ICELANDIC")
     print(f"{'='*80}\n")
 
     return metadata
@@ -1647,14 +1647,14 @@ def generate_reel(category_english: str = None):
 
 if __name__ == "__main__":
     print("\n" + "="*80)
-    print(f"VELOCITY SERBIAN - FACEBOOK REELS AUTOMATION")
+    print(f"VELOCITY ICELANDIC - FACEBOOK REELS AUTOMATION")
     print("="*80)
     print("\nFEATURES:")
     print("  - Natural pauses with commas (non-robotic TTS)")
     print("  - Perfect audio-video synchronization")
     print("  - Complete audio playback guaranteed")
     print("  - English category names (for learners)")
-    print(f"  - VELOCITY SERBIAN branding at bottom")
+    print(f"  - VELOCITY ICELANDIC branding at bottom")
     print("  - NEVER repeats phrases (permanent history tracking)")
     print(f"\nAVAILABLE CATEGORIES ({len(CATEGORIES_ENGLISH)} total):")
     for i, cat in enumerate(CATEGORIES_ENGLISH, 1):
