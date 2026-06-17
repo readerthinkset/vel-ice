@@ -69,7 +69,42 @@
       "transliteration": "Gevst ekki up, vinur.",
       "category": "Success",
       "generated_at": "2026-06-17T12:05:59.128543"
+    },
+    {
+      "english": "A table for two, please.",
+      "icelandic": "Borð fyrir tvo, takk.",
+      "transliteration": "Borth fir-ee tvoh, tak.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-17T12:38:44.857105"
+    },
+    {
+      "english": "Can I see the menu?",
+      "icelandic": "Má ég sjá matseðilinn?",
+      "transliteration": "Mow yeh syow mat-seh-dil-in?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-17T12:38:44.857114"
+    },
+    {
+      "english": "What do you recommend?",
+      "icelandic": "Hvað mælirðu með?",
+      "transliteration": "Hvað my-lir-thoo meth?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-17T12:38:44.857115"
+    },
+    {
+      "english": "I'll have the fish.",
+      "icelandic": "Ég tek fiskinn.",
+      "transliteration": "Yeh tek fisk-in.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-17T12:38:44.857117"
+    },
+    {
+      "english": "This is delicious, thank you.",
+      "icelandic": "Þetta er ljúffengt, takk fyrir.",
+      "transliteration": "Thet-ta er lyoo-fengt, tak fir-ir.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-17T12:38:44.857118"
     }
   ],
-  "last_updated": "2026-06-17T12:05:59.128545"
+  "last_updated": "2026-06-17T12:38:44.857119"
 }
