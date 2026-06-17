@@ -104,7 +104,42 @@
       "transliteration": "Thet-ta er lyoo-fengt, tak fir-ir.",
       "category": "Restaurant",
       "generated_at": "2026-06-17T12:38:44.857118"
+    },
+    {
+      "english": "Breathe in, breathe out.",
+      "icelandic": "Anda inn, anda út.",
+      "transliteration": "An-da een, an-da oot.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-17T15:48:07.905025"
+    },
+    {
+      "english": "Feel the ground, beneath you.",
+      "icelandic": "Finndu jörðina, undir þér.",
+      "transliteration": "Fint-thoo yor-thee-na, un-deer thyer.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-17T15:48:07.905034"
+    },
+    {
+      "english": "Just be, in this moment.",
+      "icelandic": "Vertu bara, í augnablikinu.",
+      "transliteration": "Vert-oo ba-ra, ee oy-gnab-lik-ee-noo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-17T15:48:07.905038"
+    },
+    {
+      "english": "Listen closely, to your breath.",
+      "icelandic": "Hlustaðu vel, á öndunina þína.",
+      "transliteration": "Hloos-ta-thoo vel, ow on-thoo-nee-na thee-na.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-17T15:48:07.905040"
+    },
+    {
+      "english": "Let thoughts drift, like clouds.",
+      "icelandic": "Láttu hugsanir reika, eins og ský.",
+      "transliteration": "Laow-thoo hoog-san-ir ray-ka, eins og skee.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-17T15:48:07.905041"
     }
   ],
-  "last_updated": "2026-06-17T12:38:44.857119"
+  "last_updated": "2026-06-17T15:48:07.905042"
 }
