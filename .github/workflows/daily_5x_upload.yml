@@ -112,7 +112,7 @@ jobs:
           echo "TIMEZONE_OFFSET_HOURS=-5" >> .env
           echo ".env file created"
 
-      - name: Generate Slovak Learning Reel
+      - name: Generate Icelandic Learning Reel
         run: |
           echo "Starting VELOCITY ICELANDIC content generation..."
           python facebook_reels_automation.py
