@@ -1,5 +1,5 @@
 """
-TikTok Upload - VELOCITY ICELANDIC
+TikTok Upload - VELOCITY SERBIAN
 """
 def upload_to_tiktok(video_path, description):
     print(f"TikTok upload placeholder: {video_path}")
