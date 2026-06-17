@@ -1,5 +1,5 @@
 """
-Upload to VK - VELOCITY SERBIAN
+Upload to VK - VELOCITY ICELANDIC
 """
 import os, vk_api
 from pathlib import Path
@@ -16,8 +16,8 @@ def upload_to_vk(video_path, description="", title=""):
     try:
         vk_session = vk_api.VkApi(token=access_token)
         vk = vk_session.get_api(); upload = vk_api.VkUpload(vk_session)
-        message = description or "Learn with VELOCITY SERBIAN!"
-        video = upload.video(video_file=str(video_path), name=title or 'VELOCITY SERBIAN', description=description[:220] if description else '', group_id=group_id_int, wallpost=0)
+        message = description or "Learn with VELOCITY ICELANDIC!"
+        video = upload.video(video_file=str(video_path), name=title or 'VELOCITY ICELANDIC', description=description[:220] if description else '', group_id=group_id_int, wallpost=0)
         attachment = f"video{video['owner_id']}_{video['video_id']}"
         post = vk.wall.post(owner_id=-group_id_int, from_group=1, message=message, attachments=attachment)
         return {'success': True, 'video_id': video['video_id'], 'post_id': post['post_id'], 'post_url': f"https://vk.com/wall-{group_id_int}_{post['post_id']}"}

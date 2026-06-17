@@ -1,5 +1,5 @@
 """
-Threads Upload - VELOCITY SERBIAN
+Threads Upload - VELOCITY ICELANDIC
 """
 import os, requests, time
 from pathlib import Path

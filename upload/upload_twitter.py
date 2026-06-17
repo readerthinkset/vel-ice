@@ -1,5 +1,5 @@
 """
-Twitter/X Upload - VELOCITY SERBIAN
+Twitter/X Upload - VELOCITY ICELANDIC
 """
 import os, sys, time, tweepy
 from pathlib import Path

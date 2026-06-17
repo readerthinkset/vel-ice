@@ -1,5 +1,5 @@
 """
-YouTube Upload Script - VELOCITY SERBIAN
+YouTube Upload Script - VELOCITY ICELANDIC
 """
 import os
 from pathlib import Path
@@ -25,16 +25,16 @@ def get_authenticated_service():
     return build('youtube', 'v3', credentials=creds)
 
 def generate_video_metadata(category, num_phrases, phrases=None):
-    title = f"Serbian Learning: {num_phrases} Essential {category} Phrases"
-    lines = [f"Learn Serbian with VELOCITY SERBIAN!", "", f"Category: {category}", "", f"Master Serbian one phrase at a time! Today's {category} lesson:", ""]
+    title = f"Icelandic Learning: {num_phrases} Essential {category} Phrases"
+    lines = [f"Learn Icelandic with VELOCITY ICELANDIC!", "", f"Category: {category}", "", f"Master Icelandic one phrase at a time! Today's {category} lesson:", ""]
     if phrases:
         for i, p in enumerate(phrases[:5], 0):
             lines.append(f"{i+1}. {p['english']}")
-            lines.append(f"   {p.get('serbian', '')}")
+            lines.append(f"   {p.get('icelandic', '')}")
             lines.append(f"   [{p.get('transliteration', '')}]")
             lines.append("")
-    lines.extend(["Tip: Repeat each phrase out loud 3 times!", "Like this video if you learned something new!", "Subscribe for daily serbian lessons!", "", f"#LearnSerbian #SerbianLessons #SerbianForBeginners #LanguageLearning", f"#Serbian #Education #Tutorial #DailySerbian #{category.replace(' ', '')}", f"#VELOCITYSERBIAN #SerbianPhrases #SpeakSerbian"])
-    tags = [f"learn serbian", f"serbian lessons", f"serbian for beginners", f"serbian phrases", "language learning", f"speak serbian", category.lower(), "education", f"daily serbian", "velocity serbian", f"serbian learning"]
+    lines.extend(["Tip: Repeat each phrase out loud 3 times!", "Like this video if you learned something new!", "Subscribe for daily icelandic lessons!", "", f"#LearnIcelandic #IcelandicLessons #IcelandicForBeginners #LanguageLearning", f"#Icelandic #Education #Tutorial #DailyIcelandic #{category.replace(' ', '')}", f"#VELOCITYICELANDIC #IcelandicPhrases #SpeakIcelandic"])
+    tags = [f"learn icelandic", f"icelandic lessons", f"icelandic for beginners", f"icelandic phrases", "language learning", f"speak icelandic", category.lower(), "education", f"daily icelandic", "velocity icelandic", f"icelandic learning"]
     return title, "\n".join(lines), tags
 
 def upload_to_youtube(video_path, title, description, tags=None, category_id='22'):
@@ -54,7 +54,7 @@ def upload_to_youtube(video_path, title, description, tags=None, category_id='22
 def main():
     video_file = Path('final_video.mp4')
     if not video_file.exists(): return
-    try: upload_to_youtube(video_path=video_file, title=f"Learn Serbian Daily", description=f"#shorts #learnserbian #serbian #language #education", tags=[hashtag, 'education', 'language learning'], category_id='22')
+    try: upload_to_youtube(video_path=video_file, title=f"Learn Icelandic Daily", description=f"#shorts #learnicelandic #icelandic #language #education", tags=[hashtag, 'education', 'language learning'], category_id='22')
     except Exception as e: print(f"[youtube] Failed: {e}"); raise
 
 if __name__ == '__main__': main()

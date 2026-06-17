@@ -1,5 +1,5 @@
 """
-Upload to Telegram - VELOCITY SERBIAN
+Upload to Telegram - VELOCITY ICELANDIC
 """
 import os, requests
 from pathlib import Path

@@ -1,5 +1,5 @@
 """
-Instagram Reels Upload - VELOCITY SERBIAN
+Instagram Reels Upload - VELOCITY ICELANDIC
 """
 import os, requests, time
 from pathlib import Path
