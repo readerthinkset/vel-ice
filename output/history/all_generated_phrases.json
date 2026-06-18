@@ -279,7 +279,42 @@
       "transliteration": "Lítil gjörð, skiptir máli.",
       "category": "Kindness",
       "generated_at": "2026-06-18T02:16:48.932558"
+    },
+    {
+      "english": "Now, let's begin.",
+      "icelandic": "Nú, byrjum.",
+      "transliteration": "Noo, bir-yoom.",
+      "category": "Time",
+      "generated_at": "2026-06-18T15:38:55.370590"
+    },
+    {
+      "english": "Soon, we will see.",
+      "icelandic": "Brátt, sjáum við.",
+      "transliteration": "Braht, syow-oom vee.",
+      "category": "Time",
+      "generated_at": "2026-06-18T15:38:55.370598"
+    },
+    {
+      "english": "Later, perhaps.",
+      "icelandic": "Seinna, kannski.",
+      "transliteration": "Sey-nah, kahn-skee.",
+      "category": "Time",
+      "generated_at": "2026-06-18T15:38:55.370600"
+    },
+    {
+      "english": "Always, remember this.",
+      "icelandic": "Alltaf, mundu þetta.",
+      "transliteration": "Ahl-taf, moond-oo thet-tah.",
+      "category": "Time",
+      "generated_at": "2026-06-18T15:38:55.370601"
+    },
+    {
+      "english": "Yesterday, it rained.",
+      "icelandic": "Í gær, rigndi.",
+      "transliteration": "Ee gyer, rig-n-dee.",
+      "category": "Time",
+      "generated_at": "2026-06-18T15:38:55.370602"
     }
   ],
-  "last_updated": "2026-06-18T02:16:48.932559"
+  "last_updated": "2026-06-18T15:38:55.370604"
 }
