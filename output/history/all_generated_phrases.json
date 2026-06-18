@@ -349,7 +349,42 @@
       "transliteration": "Fath-mah-thoo fer-tha-lah-theed, ekk-i bara ah-fang-a-stath-in.",
       "category": "Positive Life",
       "generated_at": "2026-06-18T17:23:49.623464"
+    },
+    {
+      "english": "Hello, may I help you?",
+      "icelandic": "Halló, get ég aðstoðað?",
+      "transliteration": "Hah-loh, get yeh ah-STOH-thahth?",
+      "category": "Shopping",
+      "generated_at": "2026-06-18T19:37:50.633941"
+    },
+    {
+      "english": "I'm just looking, thanks.",
+      "icelandic": "Ég er bara að skoða, takk.",
+      "transliteration": "Yehg er BAH-rah ahth SKOH-thah, takk.",
+      "category": "Shopping",
+      "generated_at": "2026-06-18T19:37:50.633951"
+    },
+    {
+      "english": "How much is this?",
+      "icelandic": "Hvað kostar þetta?",
+      "transliteration": "Kwath KOS-tar THET-tah?",
+      "category": "Shopping",
+      "generated_at": "2026-06-18T19:37:50.633953"
+    },
+    {
+      "english": "Can I try it on?",
+      "icelandic": "Má ég máta það?",
+      "transliteration": "Mow yeh MAOW-tah thahth?",
+      "category": "Shopping",
+      "generated_at": "2026-06-18T19:37:50.633954"
+    },
+    {
+      "english": "Do you have this, smaller?",
+      "icelandic": "Eruð þið með þetta, minna?",
+      "transliteration": "EH-rooth theeth meth THET-tah, MIN-nah?",
+      "category": "Shopping",
+      "generated_at": "2026-06-18T19:37:50.633955"
     }
   ],
-  "last_updated": "2026-06-18T17:23:49.623465"
+  "last_updated": "2026-06-18T19:37:50.633957"
 }
