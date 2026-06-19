@@ -489,7 +489,42 @@
       "transliteration": "Amma meen, hoon say-eer so-gur.",
       "category": "Family Terms",
       "generated_at": "2026-06-19T15:31:42.838190"
+    },
+    {
+      "english": "Hello, where is the bus stop?",
+      "icelandic": "Hæ, hvar er strætóskýli?",
+      "transliteration": "Hai, kver er strai-toe-ski-li?",
+      "category": "Travel",
+      "generated_at": "2026-06-19T16:35:24.671098"
+    },
+    {
+      "english": "Can I have the bill, please?",
+      "icelandic": "Má ég fá reikninginn, vinsamlegast?",
+      "transliteration": "Mau yeg vao reik-ning-in, vin-sam-le-gast?",
+      "category": "Travel",
+      "generated_at": "2026-06-19T16:35:24.671108"
+    },
+    {
+      "english": "This is beautiful, thank you.",
+      "icelandic": "Þetta er fallegt, takk fyrir.",
+      "transliteration": "Thet-ta er fal-legt, takk fir-ir.",
+      "category": "Travel",
+      "generated_at": "2026-06-19T16:35:24.671109"
+    },
+    {
+      "english": "Excuse me, I need help.",
+      "icelandic": "Fyrirgefðu, ég þarf aðstoð.",
+      "transliteration": "Fir-ir-geif-thoo, yeg tharf ath-stoth.",
+      "category": "Travel",
+      "generated_at": "2026-06-19T16:35:24.671111"
+    },
+    {
+      "english": "Where can I find a taxi?",
+      "icelandic": "Hvar finn ég leigubíl?",
+      "transliteration": "Kver fin yeg ley-gu-beel?",
+      "category": "Travel",
+      "generated_at": "2026-06-19T16:35:24.671112"
     }
   ],
-  "last_updated": "2026-06-19T15:31:42.838192"
+  "last_updated": "2026-06-19T16:35:24.671113"
 }
