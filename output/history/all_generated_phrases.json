@@ -524,7 +524,42 @@
       "transliteration": "Kver fin yeg ley-gu-beel?",
       "category": "Travel",
       "generated_at": "2026-06-19T16:35:24.671112"
+    },
+    {
+      "english": "Hello, how are you?",
+      "icelandic": "Halló, hvað segirðu?",
+      "transliteration": "Hah-loh, kvath sey-ir-thoo?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-19T18:59:16.664732"
+    },
+    {
+      "english": "Thank you, very much.",
+      "icelandic": "Takk, fyrirgefðu mikið.",
+      "transliteration": "Tahk, fir-ir-gyev-thoo mee-kith.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-19T18:59:16.664741"
+    },
+    {
+      "english": "Excuse me, please.",
+      "icelandic": "Fyrirgefðu, vinsamlegast.",
+      "transliteration": "Fir-ir-gyev-thoo, vin-sam-leh-gast.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-19T18:59:16.664743"
+    },
+    {
+      "english": "Yes, of course.",
+      "icelandic": "Já, auðvitað.",
+      "transliteration": "Yow, oyth-vi-thath.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-19T18:59:16.664744"
+    },
+    {
+      "english": "No, thank you.",
+      "icelandic": "Nei, takk.",
+      "transliteration": "Nay, tahk.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-19T18:59:16.664747"
     }
   ],
-  "last_updated": "2026-06-19T16:35:24.671113"
+  "last_updated": "2026-06-19T18:59:16.664749"
 }
