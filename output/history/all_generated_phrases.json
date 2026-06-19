@@ -454,7 +454,42 @@
       "transliteration": "Byahr-tah-ree dah-gur mun ko-mah.",
       "category": "Hope",
       "generated_at": "2026-06-19T02:45:26.875673"
+    },
+    {
+      "english": "My mother, she is kind.",
+      "icelandic": "Mamma mín, hún er góð.",
+      "transliteration": "Mamma meen, hoon er gooth.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T15:31:42.838179"
+    },
+    {
+      "english": "My father, he works hard.",
+      "icelandic": "Pabbi minn, hann vinnur mikið.",
+      "transliteration": "Pabbi minn, hann vin-nur mee-keeth.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T15:31:42.838186"
+    },
+    {
+      "english": "My sister, she sings well.",
+      "icelandic": "Systir mín, hún syngur vel.",
+      "transliteration": "Sist-eer meen, hoon sing-ur vel.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T15:31:42.838188"
+    },
+    {
+      "english": "My brother, he plays soccer.",
+      "icelandic": "Bróðir minn, hann spilar fótbolta.",
+      "transliteration": "Broth-eer minn, hann spee-lar foot-bol-ta.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T15:31:42.838189"
+    },
+    {
+      "english": "My grandmother, she tells stories.",
+      "icelandic": "Amma mín, hún segir sögur.",
+      "transliteration": "Amma meen, hoon say-eer so-gur.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T15:31:42.838190"
     }
   ],
-  "last_updated": "2026-06-19T02:45:26.875675"
+  "last_updated": "2026-06-19T15:31:42.838192"
 }
