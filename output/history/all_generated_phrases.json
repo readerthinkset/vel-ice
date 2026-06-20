@@ -734,7 +734,42 @@
       "transliteration": "Heil, oo-kun-ni.",
       "category": "Greetings",
       "generated_at": "2026-06-20T18:16:53.191825"
+    },
+    {
+      "english": "One, two, three, go!",
+      "icelandic": "Einn, tveir, þrír, hljóð!",
+      "transliteration": "Eyn, tveyr, threer, hloy'd!",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T21:15:43.820596"
+    },
+    {
+      "english": "Four, five, six, done.",
+      "icelandic": "Fjórir, fimm, sex, búið.",
+      "transliteration": "Fyo-reer, fim, sex, boo-ith.",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T21:15:43.820607"
+    },
+    {
+      "english": "Seven, eight, nine, ten.",
+      "icelandic": "Sjö, átta, níu, tíu.",
+      "transliteration": "Syo, owt-ta, nee-oo, tee-oo.",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T21:15:43.820609"
+    },
+    {
+      "english": "Just one more, please.",
+      "icelandic": "Bara einn í viðbót, vinsamlegast.",
+      "transliteration": "Ba-ra eyn ee veeth-bo't, vin-sam-le-gast.",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T21:15:43.820610"
+    },
+    {
+      "english": "How many, exactly?",
+      "icelandic": "Hversu margir, nákvæmlega?",
+      "transliteration": "Kvers-oo mar-geer, now-kvaym-le-ga?",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T21:15:43.820611"
     }
   ],
-  "last_updated": "2026-06-20T18:16:53.191827"
+  "last_updated": "2026-06-20T21:15:43.820613"
 }
