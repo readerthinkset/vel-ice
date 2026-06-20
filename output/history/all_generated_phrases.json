@@ -629,7 +629,42 @@
       "transliteration": "Awr-stin meen, fi-rir thig, veks.",
       "category": "Love",
       "generated_at": "2026-06-20T02:05:01.599055"
+    },
+    {
+      "english": "Help, please.",
+      "icelandic": "Hjálp, vinsamlegast.",
+      "transliteration": "Hyaulp, vinsam-le-gast.",
+      "category": "Emergency",
+      "generated_at": "2026-06-20T14:14:23.519894"
+    },
+    {
+      "english": "I need a doctor.",
+      "icelandic": "Ég þarf lækni.",
+      "transliteration": "Yeg tharf lyek-ni.",
+      "category": "Emergency",
+      "generated_at": "2026-06-20T14:14:23.519902"
+    },
+    {
+      "english": "Call the police.",
+      "icelandic": "Hringdu í lögregluna.",
+      "transliteration": "Hring-du ee log-reh-glu-na.",
+      "category": "Emergency",
+      "generated_at": "2026-06-20T14:14:23.519904"
+    },
+    {
+      "english": "Where is the hospital?",
+      "icelandic": "Hvar er sjúkrahúsið?",
+      "transliteration": "Kvar er syo-kra-hoo-sid?",
+      "category": "Emergency",
+      "generated_at": "2026-06-20T14:14:23.519905"
+    },
+    {
+      "english": "Fire, fire!",
+      "icelandic": "Eldur, eldur!",
+      "transliteration": "Eld-ur, eld-ur!",
+      "category": "Emergency",
+      "generated_at": "2026-06-20T14:14:23.519907"
     }
   ],
-  "last_updated": "2026-06-20T02:05:01.599057"
+  "last_updated": "2026-06-20T14:14:23.519908"
 }
