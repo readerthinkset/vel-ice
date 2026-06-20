@@ -664,7 +664,42 @@
       "transliteration": "Eld-ur, eld-ur!",
       "category": "Emergency",
       "generated_at": "2026-06-20T14:14:23.519907"
+    },
+    {
+      "english": "Be strong, my friend.",
+      "icelandic": "Vertu sterkur, vinur minn.",
+      "transliteration": "Vertu sterkur, vinur minn.",
+      "category": "Strength",
+      "generated_at": "2026-06-20T15:48:45.017110"
+    },
+    {
+      "english": "Your spirit is mighty.",
+      "icelandic": "Andi þinn er voldugur.",
+      "transliteration": "Andi þinn er voldugur.",
+      "category": "Strength",
+      "generated_at": "2026-06-20T15:48:45.017121"
+    },
+    {
+      "english": "Courage grows within.",
+      "icelandic": "Hugrekki vex innanverður.",
+      "transliteration": "Hugrekki vex innanverður.",
+      "category": "Strength",
+      "generated_at": "2026-06-20T15:48:45.017126"
+    },
+    {
+      "english": "Face challenges, bravely.",
+      "icelandic": "Mættu áskorunum, hugrökk.",
+      "transliteration": "Mættu áskorunum, hugrökk.",
+      "category": "Strength",
+      "generated_at": "2026-06-20T15:48:45.017127"
+    },
+    {
+      "english": "You have inner power.",
+      "icelandic": "Þú hefur innri kraft.",
+      "transliteration": "Þú hefur innri kraft.",
+      "category": "Strength",
+      "generated_at": "2026-06-20T15:48:45.017128"
     }
   ],
-  "last_updated": "2026-06-20T14:14:23.519908"
+  "last_updated": "2026-06-20T15:48:45.017130"
 }
