@@ -699,7 +699,42 @@
       "transliteration": "Þú hefur innri kraft.",
       "category": "Strength",
       "generated_at": "2026-06-20T15:48:45.017128"
+    },
+    {
+      "english": "Hello there, good day.",
+      "icelandic": "Halló, góðan dag.",
+      "transliteration": "Ha-loh, go-than dahg.",
+      "category": "Greetings",
+      "generated_at": "2026-06-20T18:16:53.191810"
+    },
+    {
+      "english": "Welcome, friend, nice to meet you.",
+      "icelandic": "Velkomin, vinur, gaman að kynnast þér.",
+      "transliteration": "Vel-ko-min, vi-nir, ga-man ath kin-nast thair.",
+      "category": "Greetings",
+      "generated_at": "2026-06-20T18:16:53.191821"
+    },
+    {
+      "english": "Hi, how are things?",
+      "icelandic": "Hæ, hvað segirðu?",
+      "transliteration": "Hye, kvath sey-ir-thu?",
+      "category": "Greetings",
+      "generated_at": "2026-06-20T18:16:53.191823"
+    },
+    {
+      "english": "Good morning, sleep well?",
+      "icelandic": "Góðan daginn, svafstu vel?",
+      "transliteration": "Go-than dah-yin, svaf-stu vel?",
+      "category": "Greetings",
+      "generated_at": "2026-06-20T18:16:53.191824"
+    },
+    {
+      "english": "Greetings, stranger.",
+      "icelandic": "Heill, ókunni.",
+      "transliteration": "Heil, oo-kun-ni.",
+      "category": "Greetings",
+      "generated_at": "2026-06-20T18:16:53.191825"
     }
   ],
-  "last_updated": "2026-06-20T15:48:45.017130"
+  "last_updated": "2026-06-20T18:16:53.191827"
 }
