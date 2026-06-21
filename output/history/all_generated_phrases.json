@@ -839,7 +839,42 @@
       "transliteration": "Lif-thoo lee-fee-noo, fill-ee-lay-ga.",
       "category": "Happiness",
       "generated_at": "2026-06-21T14:21:50.473059"
+    },
+    {
+      "english": "I'm so lucky, to know you.",
+      "icelandic": "Ég er svo heppinn, að þekkja þig.",
+      "transliteration": "Yeg er so hep-pin, ath thek-kya thig.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-21T15:59:28.245974"
+    },
+    {
+      "english": "Truly thankful, for your time.",
+      "icelandic": "Innilega þakklátur, fyrir tímann þinn.",
+      "transliteration": "In-ni-leh-ga thahk-klah-tur, fir-ir tee-mahn thinn.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-21T15:59:28.245983"
+    },
+    {
+      "english": "A wonderful gift, thank you.",
+      "icelandic": "Frábær gjöf, takk fyrir.",
+      "transliteration": "Frah-bair gyuff, tahk fir-ir.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-21T15:59:28.245985"
+    },
+    {
+      "english": "We are grateful, for your kindness.",
+      "icelandic": "Við erum þakklát, fyrir góðmennsku þína.",
+      "transliteration": "Vith er-um thahk-klah-t, fir-ir gooth-menn-sku th-eena.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-21T15:59:28.245986"
+    },
+    {
+      "english": "Heartfelt thanks, to you.",
+      "icelandic": "Hjartans þakkir, til þín.",
+      "transliteration": "Hyart-ans thahk-kir, til th-een.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-21T15:59:28.245987"
     }
   ],
-  "last_updated": "2026-06-21T14:21:50.473061"
+  "last_updated": "2026-06-21T15:59:28.245988"
 }
