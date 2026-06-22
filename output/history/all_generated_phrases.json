@@ -909,7 +909,42 @@
       "transliteration": "Vill-ur eru kenn-sla, ott-astu þær ekki.",
       "category": "Motivation",
       "generated_at": "2026-06-21T18:21:57.856586"
+    },
+    {
+      "english": "Hello, nice to meet you.",
+      "icelandic": "Hæ, gaman að kynnast þér.",
+      "transliteration": "Hai, gam-an ath kynn-ast thair.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-22T02:32:12.974757"
+    },
+    {
+      "english": "How are you, today?",
+      "icelandic": "Hvernig hefurðu það, í dag?",
+      "transliteration": "Hvern-ig heff-ur thu thah, ee dahg?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-22T02:32:12.974767"
+    },
+    {
+      "english": "I don't understand, sorry.",
+      "icelandic": "Ég skil ekki, fyrirgefðu.",
+      "transliteration": "Yegg sk-eel ek-kee, f-ee-ri-g-eth-thu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-22T02:32:12.974769"
+    },
+    {
+      "english": "Can you help me, please?",
+      "icelandic": "Geturðu hjálpað mér, vinsamlegast?",
+      "transliteration": "Gett-ur thu hyal-p-ath mehr, v-een-sam-leg-ast?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-22T02:32:12.974773"
+    },
+    {
+      "english": "Where is the bathroom?",
+      "icelandic": "Hvar er salernið?",
+      "transliteration": "Kvar er sal-ern-id?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-22T02:32:12.974775"
     }
   ],
-  "last_updated": "2026-06-21T18:21:57.856588"
+  "last_updated": "2026-06-22T02:32:12.974777"
 }
