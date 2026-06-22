@@ -944,7 +944,42 @@
       "transliteration": "Kvar er sal-ern-id?",
       "category": "Common Expressions",
       "generated_at": "2026-06-22T02:32:12.974775"
+    },
+    {
+      "english": "This moment, perfect.",
+      "icelandic": "Þessi stund, fullkomin.",
+      "transliteration": "Thes-si stund, full-ko-min.",
+      "category": "Joy",
+      "generated_at": "2026-06-22T17:06:07.443605"
+    },
+    {
+      "english": "All is well, really.",
+      "icelandic": "Allt er gott, í raun.",
+      "transliteration": "Al-t er gott, ee ryn.",
+      "category": "Joy",
+      "generated_at": "2026-06-22T17:06:07.443615"
+    },
+    {
+      "english": "Smiling, a lot, yes.",
+      "icelandic": "Brosandi, mikið, já.",
+      "transliteration": "Bros-an-dee, mee-keeth, yao.",
+      "category": "Joy",
+      "generated_at": "2026-06-22T17:06:07.443617"
+    },
+    {
+      "english": "Such delight, I have.",
+      "icelandic": "Svo mikil unun, ég hef.",
+      "transliteration": "So mee-keel u-nun, yeg hev.",
+      "category": "Joy",
+      "generated_at": "2026-06-22T17:06:07.443618"
+    },
+    {
+      "english": "Contentment, fills me.",
+      "icelandic": "Sælu, fyllir mig.",
+      "transliteration": "Sae-lu, fill-ir meg.",
+      "category": "Joy",
+      "generated_at": "2026-06-22T17:06:07.443625"
     }
   ],
-  "last_updated": "2026-06-22T02:32:12.974777"
+  "last_updated": "2026-06-22T17:06:07.443626"
 }
