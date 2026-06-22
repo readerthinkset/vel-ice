@@ -1049,7 +1049,42 @@
       "transliteration": "Fliotlega talarthoo reipandi.",
       "category": "Success",
       "generated_at": "2026-06-22T20:10:26.983887"
+    },
+    {
+      "english": "Where is the changing room?",
+      "icelandic": "Hvar er mátunarklefan?",
+      "transliteration": "Kwar er MAOW-too-nar-KLEH-van?",
+      "category": "Shopping",
+      "generated_at": "2026-06-22T22:01:07.925194"
+    },
+    {
+      "english": "I'll take this one, please.",
+      "icelandic": "Ég tek þennan, vinsamlegast.",
+      "transliteration": "Yehg tek THET-nan, VIN-sahm-leh-gahst.",
+      "category": "Shopping",
+      "generated_at": "2026-06-22T22:01:07.925218"
+    },
+    {
+      "english": "Can I pay with card?",
+      "icelandic": "Get ég borgað með korti?",
+      "transliteration": "Get yeh BOR-gahth meth KOR-tee?",
+      "category": "Shopping",
+      "generated_at": "2026-06-22T22:01:07.925220"
+    },
+    {
+      "english": "Do you have a bag?",
+      "icelandic": "Eruð þið með poka?",
+      "transliteration": "EH-rooth theeth meth POH-kah?",
+      "category": "Shopping",
+      "generated_at": "2026-06-22T22:01:07.925221"
+    },
+    {
+      "english": "Thank you for your help.",
+      "icelandic": "Takk fyrir aðstoðina.",
+      "transliteration": "Takk FIHR-ir AH-stoh-thee-nah.",
+      "category": "Shopping",
+      "generated_at": "2026-06-22T22:01:07.925222"
     }
   ],
-  "last_updated": "2026-06-22T20:10:26.983888"
+  "last_updated": "2026-06-22T22:01:07.925224"
 }
