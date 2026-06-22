@@ -1014,7 +1014,42 @@
       "transliteration": "Les-too oft, skri-fah-thoo may-rah.",
       "category": "Purpose",
       "generated_at": "2026-06-22T18:15:48.513023"
+    },
+    {
+      "english": "Practice makes perfect.",
+      "icelandic": "Æfingin skapar meistara.",
+      "transliteration": "Aifinghin skapar meistara.",
+      "category": "Success",
+      "generated_at": "2026-06-22T20:10:26.983876"
+    },
+    {
+      "english": "You're doing great!",
+      "icelandic": "Þú ert frábær!",
+      "transliteration": "Thoo ert fraibair!",
+      "category": "Success",
+      "generated_at": "2026-06-22T20:10:26.983882"
+    },
+    {
+      "english": "One step at a time.",
+      "icelandic": "Eitt skref í einu.",
+      "transliteration": "Eitt skref ee einu.",
+      "category": "Success",
+      "generated_at": "2026-06-22T20:10:26.983884"
+    },
+    {
+      "english": "Your progress is visible.",
+      "icelandic": "Framfarir þínar sjást.",
+      "transliteration": "Framfarir theenar sjaust.",
+      "category": "Success",
+      "generated_at": "2026-06-22T20:10:26.983885"
+    },
+    {
+      "english": "Soon you will speak fluently.",
+      "icelandic": "Fljótlega talarðu reipandi.",
+      "transliteration": "Fliotlega talarthoo reipandi.",
+      "category": "Success",
+      "generated_at": "2026-06-22T20:10:26.983887"
     }
   ],
-  "last_updated": "2026-06-22T18:15:48.513024"
+  "last_updated": "2026-06-22T20:10:26.983888"
 }
