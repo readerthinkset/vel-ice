@@ -1154,7 +1154,42 @@
       "transliteration": "Smawm-or skref ah-fram, mik-ill ah-rang-ur.",
       "category": "Confidence",
       "generated_at": "2026-06-23T15:12:33.206145"
+    },
+    {
+      "english": "I'm sorry, let's move on.",
+      "icelandic": "Fyrirgefðu, förum áfram.",
+      "transliteration": "Fur-geif-thoo, fur-um a-fram.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T21:42:22.304503"
+    },
+    {
+      "english": "Can you forgive me, please?",
+      "icelandic": "Geturðu fyrirgefið mér, vinsamlegast?",
+      "transliteration": "Get-ur-thoo fur-geif-ith mere, vin-sam-leg-ast?",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T21:42:22.304513"
+    },
+    {
+      "english": "My apologies, I was wrong.",
+      "icelandic": "Mínar afsakanir, ég hafði rangt fyrir mér.",
+      "transliteration": "Mee-nar af-sa-ka-neer, yeg haf-the rangt fur-ir mere.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T21:42:22.304515"
+    },
+    {
+      "english": "Let's leave this behind us.",
+      "icelandic": "Látum þetta vera að baki.",
+      "transliteration": "La-tum thet-ta ver-a ath ba-ki.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T21:42:22.304516"
+    },
+    {
+      "english": "I hope you can forgive me.",
+      "icelandic": "Ég vona að þú getir fyrirgefið mér.",
+      "transliteration": "Yeg vo-na ath thoo get-ir fur-geif-ith mere.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T21:42:22.304517"
     }
   ],
-  "last_updated": "2026-06-23T15:12:33.206147"
+  "last_updated": "2026-06-23T21:42:22.304522"
 }
