@@ -1119,7 +1119,42 @@
       "transliteration": "Blohm-stra-thoo thar sem thoo ert groh-thur-set-tur/t.",
       "category": "Growth",
       "generated_at": "2026-06-23T01:59:08.788198"
+    },
+    {
+      "english": "You can do this, believe it.",
+      "icelandic": "Þú getur þetta, trúðu því.",
+      "transliteration": "Thoo geh-tur thyet-tah, troo-thoo thvee.",
+      "category": "Confidence",
+      "generated_at": "2026-06-23T15:12:33.206130"
+    },
+    {
+      "english": "Speak slowly, take your time.",
+      "icelandic": "Talaðu hægt, taktu þinn tíma.",
+      "transliteration": "Tah-lah-thoo hight, tahk-too thinn tee-mah.",
+      "category": "Confidence",
+      "generated_at": "2026-06-23T15:12:33.206141"
+    },
+    {
+      "english": "Every word counts, don't worry.",
+      "icelandic": "Sérhvert orð skiptir máli, ekki hafa áhyggjur.",
+      "transliteration": "Sehr-hvurt orth skipt-ir mah-lee, ehk-kee hav-ah ah-hygg-yur.",
+      "category": "Confidence",
+      "generated_at": "2026-06-23T15:12:33.206143"
+    },
+    {
+      "english": "Keep practicing, you're learning.",
+      "icelandic": "Æfðu áfram, þú ert að læra.",
+      "transliteration": "Eyef-thoo ah-fram, thoo ert ath lye-rah.",
+      "category": "Confidence",
+      "generated_at": "2026-06-23T15:12:33.206144"
+    },
+    {
+      "english": "Small steps forward, great progress.",
+      "icelandic": "Smámör skref áfram, mikill árangur.",
+      "transliteration": "Smawm-or skref ah-fram, mik-ill ah-rang-ur.",
+      "category": "Confidence",
+      "generated_at": "2026-06-23T15:12:33.206145"
     }
   ],
-  "last_updated": "2026-06-23T01:59:08.788199"
+  "last_updated": "2026-06-23T15:12:33.206147"
 }
