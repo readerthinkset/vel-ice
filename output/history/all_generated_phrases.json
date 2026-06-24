@@ -1259,7 +1259,42 @@
       "transliteration": "VEH-rah FOR-vit-in, ALT-taf.",
       "category": "Creativity",
       "generated_at": "2026-06-24T14:42:50.974151"
+    },
+    {
+      "english": "Hello, my name is...",
+      "icelandic": "Halló, ég heiti...",
+      "transliteration": "Ha-loh, yeg hey-ti...",
+      "category": "Greetings",
+      "generated_at": "2026-06-24T16:27:00.380188"
+    },
+    {
+      "english": "Nice to see you, again.",
+      "icelandic": "Gaman að sjá þig, aftur.",
+      "transliteration": "Ga-man ath syow thig, aft-ur.",
+      "category": "Greetings",
+      "generated_at": "2026-06-24T16:27:00.380197"
+    },
+    {
+      "english": "How is your day?",
+      "icelandic": "Hvernig líður þér í dag?",
+      "transliteration": "Kver-nigg lee-thur thair ee dahg?",
+      "category": "Greetings",
+      "generated_at": "2026-06-24T16:27:00.380198"
+    },
+    {
+      "english": "Hello, hope you're well.",
+      "icelandic": "Halló, vonandi líður þér vel.",
+      "transliteration": "Ha-loh, vo-nan-di lee-thur thair vel.",
+      "category": "Greetings",
+      "generated_at": "2026-06-24T16:27:00.380199"
+    },
+    {
+      "english": "A warm hello.",
+      "icelandic": "Hlýjar kveðjur.",
+      "transliteration": "Hlee-yar kvet-thyor.",
+      "category": "Greetings",
+      "generated_at": "2026-06-24T16:27:00.380200"
     }
   ],
-  "last_updated": "2026-06-24T14:42:50.974152"
+  "last_updated": "2026-06-24T16:27:00.380201"
 }
