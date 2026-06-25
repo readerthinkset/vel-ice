@@ -78,7 +78,27 @@ CATEGORIES_ENGLISH = [
     "Growth",
     "Purpose",
     "Mindfulness"
-]
+
+    "Daily Routine",
+    "Weather",
+    "Feelings",
+    "Food",
+    "Health",
+    "Work",
+    "Technology",
+    "Nature",
+    "Animals",
+    "Colors",
+    "Directions",
+    "Body Parts",
+    "Clothes",
+    "Music",
+    "Sports",
+    "Holidays",
+    "Education",
+    "Culture",
+    "Finance",
+    "Relationships",]
 
 CATEGORIES_NATIVE = {
     "Greetings": "Kveðjur",
@@ -123,7 +143,7 @@ NATIVE_VOICE = "is-IS-GunnarNeural"
 
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
 RECENT_CATEGORIES_FILE = HISTORY_DIR / "recent_categories.json"
-MAX_RECENT_CATEGORIES = 15
+MAX_RECENT_CATEGORIES = 25
 
 
 def load_phrase_history():
@@ -198,6 +218,10 @@ def get_available_category():
 def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
     category_native = CATEGORIES_NATIVE[category_english]
     max_attempts = 3
+
+    history = load_phrase_history()
+    recent_english = [p["english"] for p in history.get("phrases", []) if p.get("category") == category_english][-30:]
+
     for attempt in range(max_attempts):
         try:
             import requests
@@ -207,7 +231,11 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
                 "Content-Type": "application/json"
             }
 
-            prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning Icelandic.
+            avoid_text = ""
+            if recent_english:
+                avoid_text = "\nABSOLUTELY AVOID these already-used phrases:\n" + "\n".join(f"- {p}" for p in recent_english)
+
+            prompt = f"""Create {num_phrases * 6} unique and creative {category_english} phrases for English speakers learning Icelandic.{avoid_text}
 
 IMPORTANT RULES FOR NATURAL SPEECH:
 1. Keep phrases SHORT (5-12 words max per language)
@@ -218,6 +246,7 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 6. Icelandic text should be CLEAN - use standard Icelandic script
 7. Do NOT include multiple versions or slashes - just ONE clean Icelandic translation
 8. Transliteration should be in Roman script for pronunciation
+9. BE CREATIVE AND VARIED - do NOT repeat themes from the avoid list
 
 For each phrase:
 1. English phrase (with commas for natural pauses)
@@ -233,10 +262,10 @@ IMPORTANT: Icelandic text must be clean - no slashes, no multiple versions."""
             payload = {
                 "model": AI_MODEL,
                 "messages": [
-                    {"role": "system", "content": "You are a Icelandic teacher. Create short, natural phrases with pauses."},
+                    {"role": "system", "content": "You are a Icelandic teacher. Create short, natural phrases with pauses. Each generation must produce completely different, creative phrases."},
                     {"role": "user", "content": prompt}
                 ],
-                "temperature": 0.9
+                "temperature": min(0.95 + attempt * 0.03, 1.0)
             }
 
             response = requests.post(url, headers=headers, json=payload, timeout=60)
@@ -277,6 +306,11 @@ IMPORTANT: Icelandic text must be clean - no slashes, no multiple versions."""
                 add_phrases_to_history(unique_phrases[:num_phrases], category_english)
                 return unique_phrases[:num_phrases]
 
+            print(f"[content] Attempt {attempt + 1}: API returned {len(phrases)} phrases, only {len(unique_phrases)} are new (need {num_phrases})")
+            for p in unique_phrases:
+                if p["english"] not in recent_english:
+                    recent_english.append(p["english"])
+
         except Exception as e:
             print(f"[content] Attempt {attempt + 1} failed: {e}")
 
@@ -288,22 +322,58 @@ IMPORTANT: Icelandic text must be clean - no slashes, no multiple versions."""
 def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
     """Return simple English fallback phrases when AI generation fails"""
     generic_fallbacks = [
-        {"english": "Hello, nice to meet you.", "icelandic": "[SK] Hello", "transliteration": "hello"},
-        {"english": "Thank you very much.", "icelandic": "[SK] Thank you", "transliteration": "thank you"},
-        {"english": "Good morning, have a great day.", "icelandic": "[SK] Good morning", "transliteration": "good morning"},
-        {"english": "I love learning new languages.", "icelandic": "[SK] Love learning", "transliteration": "love learning"},
-        {"english": "Never give up on your dreams.", "icelandic": "[SK] Never give up", "transliteration": "never give up"},
-        {"english": "Every day is a fresh start.", "icelandic": "[SK] Fresh start", "transliteration": "fresh start"},
-        {"english": "Believe in yourself always.", "icelandic": "[SK] Believe", "transliteration": "believe"},
-        {"english": "Small steps lead to big changes.", "icelandic": "[SK] Small steps", "transliteration": "small steps"},
-        {"english": "You are stronger than you think.", "icelandic": "[SK] Stronger", "transliteration": "stronger"},
-        {"english": "Happiness is a choice, choose it.", "icelandic": "[SK] Happiness", "transliteration": "happiness"},
+        {"english": "Hello, nice to meet you.", "icelandic": "Hall\u00f3, gaman a\u00f0 kynnast \u00fe\u00e9r.", "transliteration": "Hall\u00f3, gaman a\u00f0 kynnast \u00fe\u00e9r."},
+        {"english": "Thank you very much.", "icelandic": "Takk fyrir mj\u00f6g miki\u00f0.", "transliteration": "Takk fyrir mj\u00f6g miki\u00f0."},
+        {"english": "Good morning, have a great day.", "icelandic": "G\u00f3\u00f0an daginn, eigi\u00f0 g\u00f3\u00f0an dag.", "transliteration": "G\u00f3\u00f0an daginn, eigi\u00f0 g\u00f3\u00f0an dag."},
+        {"english": "I love learning new languages.", "icelandic": "\u00c9g elska a\u00f0 l\u00e6ra n\u00fd tungum\u00e1l.", "transliteration": "\u00c9g elska a\u00f0 l\u00e6ra n\u00fd tungum\u00e1l."},
+        {"english": "Never give up on your dreams.", "icelandic": "Gef\u00f0u aldrei upp drauma \u00fe\u00edna.", "transliteration": "Gef\u00f0u aldrei upp drauma \u00fe\u00edna."},
+        {"english": "Every day is a fresh start.", "icelandic": "Hver dagur er n\u00fd byrjun.", "transliteration": "Hver dagur er n\u00fd byrjun."},
+        {"english": "Believe in yourself always.", "icelandic": "Tr\u00fa\u00f0u alltaf \u00e1 sj\u00e1lfan \u00feig.", "transliteration": "Tr\u00fa\u00f0u alltaf \u00e1 sj\u00e1lfan \u00feig."},
+        {"english": "Small steps lead to big changes.", "icelandic": "L\u00edtil skref lei\u00f0a til st\u00f3rra breytinga.", "transliteration": "L\u00edtil skref lei\u00f0a til st\u00f3rra breytinga."},
+        {"english": "You are stronger than you think.", "icelandic": "\u00de\u00fa ert sterkari en \u00fe\u00fa heldur.", "transliteration": "\u00de\u00fa ert sterkari en \u00fe\u00fa heldur."},
+        {"english": "Happiness is a choice, choose it.", "icelandic": "Hamingja er val, veldu hana.", "transliteration": "Hamingja er val, veldu hana."},
+        {"english": "What time is it please.", "icelandic": "Hva\u00f0 er klukkan vinsamlegast.", "transliteration": "Hva\u00f0 er klukkan vinsamlegast."},
+        {"english": "Where is the train station.", "icelandic": "Hvar er lestarst\u00f6\u00f0in.", "transliteration": "Hvar er lestarst\u00f6\u00f0in."},
+        {"english": "How much does this cost.", "icelandic": "Hva\u00f0 kostar \u00feetta.", "transliteration": "Hva\u00f0 kostar \u00feetta."},
+        {"english": "Can you help me please.", "icelandic": "Getur\u00f0u hj\u00e1lpa\u00f0 m\u00e9r vinsamlegast.", "transliteration": "Getur\u00f0u hj\u00e1lpa\u00f0 m\u00e9r vinsamlegast."},
+        {"english": "I would like a coffee please.", "icelandic": "\u00c9g vildi f\u00e1 kaffi vinsamlegast.", "transliteration": "\u00c9g vildi f\u00e1 kaffi vinsamlegast."},
+        {"english": "The food is delicious today.", "icelandic": "Maturinn er lj\u00faffengur \u00ed dag.", "transliteration": "Maturinn er lj\u00faffengur \u00ed dag."},
+        {"english": "Have a wonderful weekend.", "icelandic": "Eigi\u00f0 yndislegt helgi.", "transliteration": "Eigi\u00f0 yndislegt helgi."},
+        {"english": "Take care of yourself.", "icelandic": "Passa\u00f0u \u00feig.", "transliteration": "Passa\u00f0u \u00feig."},
+        {"english": "See you tomorrow my friend.", "icelandic": "Sj\u00e1umst \u00e1 morgun vinur minn.", "transliteration": "Sj\u00e1umst \u00e1 morgun vinur minn."},
+        {"english": "The weather is beautiful outside.", "icelandic": "Ve\u00f0ri\u00f0 er fallegt \u00fati.", "transliteration": "Ve\u00f0ri\u00f0 er fallegt \u00fati."},
+        {"english": "I am very happy today.", "icelandic": "\u00c9g er mj\u00f6g \u00e1n\u00e6g\u00f0ur/\u00e1n\u00e6g\u00f0 \u00ed dag.", "transliteration": "\u00c9g er mj\u00f6g \u00e1n\u00e6g\u00f0ur/\u00e1n\u00e6g\u00f0 \u00ed dag."},
+        {"english": "Learning a language opens new doors.", "icelandic": "A\u00f0 l\u00e6ra tungum\u00e1l opnar n\u00fdjar dyr.", "transliteration": "A\u00f0 l\u00e6ra tungum\u00e1l opnar n\u00fdjar dyr."},
+        {"english": "Keep practicing every single day.", "icelandic": "\u00c6f\u00f0u \u00feig \u00e1 hverjum einasta degi.", "transliteration": "\u00c6f\u00f0u \u00feig \u00e1 hverjum einasta degi."},
+        {"english": "You can achieve anything you want.", "icelandic": "\u00de\u00fa getur n\u00e1\u00f0 \u00f6llu sem \u00fe\u00fa vilt.", "transliteration": "\u00de\u00fa getur n\u00e1\u00f0 \u00f6llu sem \u00fe\u00fa vilt."},
+        {"english": "Rest when you are tired.", "icelandic": "Hv\u00edldu \u00feegar \u00fe\u00fa ert \u00fereyttur/\u00fereytt.", "transliteration": "Hv\u00edldu \u00feegar \u00fe\u00fa ert \u00fereyttur/\u00fereytt."},
+        {"english": "Focus on the positive things.", "icelandic": "Einbeittu \u00fe\u00e9r a\u00f0 j\u00e1kv\u00e6\u00f0u hlutunum.", "transliteration": "Einbeittu \u00fe\u00e9r a\u00f0 j\u00e1kv\u00e6\u00f0u hlutunum."},
+        {"english": "Learn from your mistakes.", "icelandic": "L\u00e6r\u00f0u af mist\u00f6kum \u00fe\u00ednum.", "transliteration": "L\u00e6r\u00f0u af mist\u00f6kum \u00fe\u00ednum."},
+        {"english": "Trust the process completely.", "icelandic": "Treystu ferlinu algj\u00f6rlega.", "transliteration": "Treystu ferlinu algj\u00f6rlega."},
+        {"english": "Breathe deeply and stay calm.", "icelandic": "Anda\u00f0u dj\u00fapt og vertu r\u00f3legur/r\u00f3leg.", "transliteration": "Anda\u00f0u dj\u00fapt og vertu r\u00f3legur/r\u00f3leg."},
+        {"english": "Enjoy the little moments in life.", "icelandic": "Nj\u00f3ttu litlu stundanna \u00ed l\u00edfinu.", "transliteration": "Nj\u00f3ttu litlu stundanna \u00ed l\u00edfinu."},
+        {"english": "Smile more, worry less.", "icelandic": "Brosandi meira, \u00e1hyggjulausari.", "transliteration": "Brosandi meira, \u00e1hyggjulausari."},
+        {"english": "Be kind to everyone you meet.", "icelandic": "Vertu g\u00f3\u00f0ur vi\u00f0 alla sem \u00fe\u00fa hittir.", "transliteration": "Vertu g\u00f3\u00f0ur vi\u00f0 alla sem \u00fe\u00fa hittir."},
+        {"english": "Help others without expecting anything back.", "icelandic": "Hj\u00e1lpa\u00f0u \u00f6\u00f0rum \u00e1n \u00feess a\u00f0 b\u00faast vi\u00f0 neinu til baka.", "transliteration": "Hj\u00e1lpa\u00f0u \u00f6\u00f0rum \u00e1n \u00feess a\u00f0 b\u00faast vi\u00f0 neinu til baka."},
+        {"english": "Forgive yourself and move forward.", "icelandic": "Fyrirgefi\u00f0 sj\u00e1lfum ykkur og haldi\u00f0 \u00e1fram.", "transliteration": "Fyrirgefi\u00f0 sj\u00e1lfum ykkur og haldi\u00f0 \u00e1fram."},
+        {"english": "Stay strong in difficult times.", "icelandic": "Vertu sterkur/sterk \u00ed erfi\u00f0um t\u00edmum.", "transliteration": "Vertu sterkur/sterk \u00ed erfi\u00f0um t\u00edmum."},
+        {"english": "Every moment is a new beginning.", "icelandic": "Hver stund er n\u00fd byrjun.", "transliteration": "Hver stund er n\u00fd byrjun."},
+        {"english": "Listen to your heart always.", "icelandic": " Hlusta\u00f0u alltaf \u00e1 hjarta \u00feitt.", "transliteration": "Hlusta\u00f0u alltaf \u00e1 hjarta \u00feitt."},
+        {"english": "Do what makes you happy.", "icelandic": "Ger\u00f0u \u00fea\u00f0 sem gerir \u00feig hamingjusaman/hamingjusama.", "transliteration": "Ger\u00f0u \u00fea\u00f0 sem gerir \u00feig hamingjusaman/hamingjusama."},
+        {"english": "Your potential is unlimited.", "icelandic": "H\u00e6fileikar \u00fe\u00ednir eru takmarkalausir.", "transliteration": "H\u00e6fileikar \u00fe\u00ednir eru takmarkalausir."},
+        {"english": "Be brave and take risks.", "icelandic": "Vertu hugrakkur/hugr\u00f6kk og taktu \u00e1h\u00e6ttu.", "transliteration": "Vertu hugrakkur/hugr\u00f6kk og taktu \u00e1h\u00e6ttu."},
+        {"english": "Celebrate your progress every day.", "icelandic": "Fagna\u00f0u framf\u00f6rum \u00fe\u00ednum \u00e1 hverjum degi.", "transliteration": "Fagna\u00f0u framf\u00f6rum \u00fe\u00ednum \u00e1 hverjum degi."},
+        {"english": "Surround yourself with good people.", "icelandic": "Umkringdu \u00feig g\u00f3\u00f0u f\u00f3lki.", "transliteration": "Umkringdu \u00feig g\u00f3\u00f0u f\u00f3lki."},
+        {"english": "Read books and grow your mind.", "icelandic": "Lestu b\u00e6kur og r\u00e6kta\u00f0u hugann.", "transliteration": "Lestu b\u00e6kur og r\u00e6kta\u00f0u hugann."},
+        {"english": "Travel and discover new places.", "icelandic": "Fer\u00f0ast og uppg\u00f6tva n\u00fdja sta\u00f0i.", "transliteration": "Fer\u00f0ast og uppg\u00f6tva n\u00fdja sta\u00f0i."},
+        {"english": "Appreciate what you already have.", "icelandic": "Meta \u00fea\u00f0 sem \u00fe\u00fa hefur \u00feegar.", "transliteration": "Meta \u00fea\u00f0 sem \u00fe\u00fa hefur \u00feegar."},
+        {"english": "Dance like nobody is watching.", "icelandic": "Dansa\u00f0u eins og enginn s\u00e9 a\u00f0 horfa.", "transliteration": "Dansa\u00f0u eins og enginn s\u00e9 a\u00f0 horfa."},
+        {"english": "Sing from your heart out loud.", "icelandic": "Syngdu af hjarta \u00fe\u00ednu h\u00e1tt.", "transliteration": "Syngdu af hjarta \u00fe\u00ednu h\u00e1tt."},
+        {"english": "Plant seeds of kindness everywhere.", "icelandic": "S\u00e1\u00f0u fr\u00e6jum g\u00f3\u00f0vildar alls sta\u00f0ar.", "transliteration": "S\u00e1\u00f0u fr\u00e6jum g\u00f3\u00f0vildar alls sta\u00f0ar."},
+        {"english": "Let go of what you cannot control.", "icelandic": "Slepptu \u00fev\u00ed sem \u00fe\u00fa getur ekki stj\u00f3rna\u00f0.", "transliteration": "Slepptu \u00fev\u00ed sem \u00fe\u00fa getur ekki stj\u00f3rna\u00f0."},
+        {"english": "Be present in the here and now.", "icelandic": "Vertu til sta\u00f0ar h\u00e9r og n\u00fa.", "transliteration": "Vertu til sta\u00f0ar h\u00e9r og n\u00fa."}
     ]
     fresh = [p for p in generic_fallbacks if not is_phrase_used(p["english"])]
-    # Assign the right language key
-    lang_key = "icelandic"
-    for p in fresh:
-        p[lang_key] = p.pop("icelandic")
     return fresh[:num_phrases]
 async def generate_single_audio(text: str, voice: str, output_path: str):
     try:
