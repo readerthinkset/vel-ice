@@ -1504,7 +1504,42 @@
       "transliteration": "Vert-oo veeth-stadd-oor, thar sem lee-vith ger-ist.",
       "category": "Positive Life",
       "generated_at": "2026-06-27T18:08:27.451173"
+    },
+    {
+      "english": "The sky, is a lovely blue.",
+      "icelandic": "Himinninn, er yndislega blár.",
+      "transliteration": "Him-in-inn, er yn-dis-le-ga blahr.",
+      "category": "Weather",
+      "generated_at": "2026-06-27T21:00:25.678861"
+    },
+    {
+      "english": "Sun is shining, brightly today.",
+      "icelandic": "Sólin skín, bjart í dag.",
+      "transliteration": "So-lin sheen, byart ee dahg.",
+      "category": "Weather",
+      "generated_at": "2026-06-27T21:00:25.678869"
+    },
+    {
+      "english": "Clouds are drifting, slowly by.",
+      "icelandic": "Skýin reka, hægt framhjá.",
+      "transliteration": "Skee-in reh-ka, hyekt frahm-hyow.",
+      "category": "Weather",
+      "generated_at": "2026-06-27T21:00:25.678870"
+    },
+    {
+      "english": "Rain is falling, gently now.",
+      "icelandic": "Rigningin fellur, mjúklega núna.",
+      "transliteration": "Rig-nin-gin fel-lür, myook-leh-ga noo-na.",
+      "category": "Weather",
+      "generated_at": "2026-06-27T21:00:25.678872"
+    },
+    {
+      "english": "Wind is blowing, a strong gust.",
+      "icelandic": "Vindurinn blæs, mikill vindhraði.",
+      "transliteration": "Vin-dur-inn blayss, mik-ill vin-drah-dhi.",
+      "category": "Weather",
+      "generated_at": "2026-06-27T21:00:25.678873"
     }
   ],
-  "last_updated": "2026-06-27T18:08:27.451175"
+  "last_updated": "2026-06-27T21:00:25.678874"
 }
