@@ -77,8 +77,7 @@ CATEGORIES_ENGLISH = [
     "Balance",
     "Growth",
     "Purpose",
-    "Mindfulness"
-
+    "Mindfulness",
     "Daily Routine",
     "Weather",
     "Feelings",
@@ -135,7 +134,27 @@ CATEGORIES_NATIVE = {
     "Balance": "Jafnvægi",
     "Growth": "Vöxtur",
     "Purpose": "Tilgangur",
-    "Mindfulness": "Núvitund"
+    "Mindfulness": "Núvitund",
+    "Daily Routine": "Dagleg venja",
+    "Weather": "Veður",
+    "Feelings": "Tilfinningar",
+    "Food": "Matur",
+    "Health": "Heilsa",
+    "Work": "Vinna",
+    "Technology": "Tækni",
+    "Nature": "Náttúra",
+    "Animals": "Dýr",
+    "Colors": "Litir",
+    "Directions": "Áttir",
+    "Body Parts": "Líkamshlutar",
+    "Clothes": "Föt",
+    "Music": "Tónlist",
+    "Sports": "Íþóttir",
+    "Holidays": "Frídagar",
+    "Education": "Menntun",
+    "Culture": "Menning",
+    "Finance": "Fjármál",
+    "Relationships": "Tengsl"
 }
 
 ENGLISH_VOICE = "en-US-GuyNeural"
