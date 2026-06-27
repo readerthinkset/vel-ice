@@ -1434,7 +1434,42 @@
       "transliteration": "Doh-gun rees, nee vohrn.",
       "category": "Time",
       "generated_at": "2026-06-27T13:53:50.075770"
+    },
+    {
+      "english": "My new sweater, feels so warm.",
+      "icelandic": "Nýju peysuna mína, finnst svo hlý.",
+      "transliteration": "Nee-yoo pey-suh-nuh mee-nuh, finst soh hlee.",
+      "category": "Clothes",
+      "generated_at": "2026-06-27T15:20:57.993999"
+    },
+    {
+      "english": "These boots, are perfect for rain.",
+      "icelandic": "Þessir stígvél, eru fullkomnir fyrir rigningu.",
+      "transliteration": "Thess-ir stee-g-vayl, eh-roo ful-kom-nir fir-ir rig-ning-u.",
+      "category": "Clothes",
+      "generated_at": "2026-06-27T15:20:57.994007"
+    },
+    {
+      "english": "A stylish scarf, for the winter.",
+      "icelandic": "Flottur trefill, fyrir veturinn.",
+      "transliteration": "Flott-ur tre-fill, fir-ir ve-tur-inn.",
+      "category": "Clothes",
+      "generated_at": "2026-06-27T15:20:57.994008"
+    },
+    {
+      "english": "My favorite shirt, has a stain.",
+      "icelandic": "Uppáhalds skyrtan mín, er með blett.",
+      "transliteration": "Up-pah-halds skir-tan meen, er meth blett.",
+      "category": "Clothes",
+      "generated_at": "2026-06-27T15:20:57.994009"
+    },
+    {
+      "english": "These jeans, are a bit tight.",
+      "icelandic": "Þessar gallabuxur, eru smá þröngar.",
+      "transliteration": "Thess-ar gal-la-bux-ur, eh-roo smah throng-ar.",
+      "category": "Clothes",
+      "generated_at": "2026-06-27T15:20:57.994011"
     }
   ],
-  "last_updated": "2026-06-27T13:53:50.075772"
+  "last_updated": "2026-06-27T15:20:57.994012"
 }
