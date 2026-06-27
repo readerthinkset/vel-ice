@@ -1399,7 +1399,42 @@
       "transliteration": "Hug(s)jown thee(n) skeen, byort.",
       "category": "Courage",
       "generated_at": "2026-06-25T02:02:17.796794"
+    },
+    {
+      "english": "Morning light, gentle start.",
+      "icelandic": "Morgunbirtan, blíð byrjun.",
+      "transliteration": "Morgun-birr-tan, bleeth birr-jun.",
+      "category": "Time",
+      "generated_at": "2026-06-27T13:53:50.075755"
+    },
+    {
+      "english": "Midday sun, bright warmth.",
+      "icelandic": "Hádegi, skær hlýja.",
+      "transliteration": "Hye-deh-gi, skye-r hlee-ya.",
+      "category": "Time",
+      "generated_at": "2026-06-27T13:53:50.075766"
+    },
+    {
+      "english": "Evening calm, peaceful end.",
+      "icelandic": "Kvöldkyrrð, friðsæl endir.",
+      "transliteration": "Kvoht-kirrth, friith-sye-l en-dir.",
+      "category": "Time",
+      "generated_at": "2026-06-27T13:53:50.075768"
+    },
+    {
+      "english": "Night falls, stars appear.",
+      "icelandic": "Nóttin lækkar, stjörnur sjást.",
+      "transliteration": "Nohtt-in lyk-kar, styur-nur syahst.",
+      "category": "Time",
+      "generated_at": "2026-06-27T13:53:50.075769"
+    },
+    {
+      "english": "Dawn breaks, new hope.",
+      "icelandic": "Dögun rís, ný von.",
+      "transliteration": "Doh-gun rees, nee vohrn.",
+      "category": "Time",
+      "generated_at": "2026-06-27T13:53:50.075770"
     }
   ],
-  "last_updated": "2026-06-25T02:02:17.796796"
+  "last_updated": "2026-06-27T13:53:50.075772"
 }
