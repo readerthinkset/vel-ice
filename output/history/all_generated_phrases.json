@@ -2029,7 +2029,42 @@
       "transliteration": "Hlustaadhu aa öldurnar, thær segja sögur.",
       "category": "Culture",
       "generated_at": "2026-06-30T18:59:33.961653"
+    },
+    {
+      "english": "Good day, traveler.",
+      "icelandic": "Góðan dag, vegfarandi.",
+      "transliteration": "Goh-than dahg, vehg-fah-ran-dee.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-30T21:26:46.328273"
+    },
+    {
+      "english": "This is lovely.",
+      "icelandic": "Þetta er yndislegt.",
+      "transliteration": "Thet-tah ehr in-dis-leht.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-30T21:26:46.328280"
+    },
+    {
+      "english": "I understand, a little.",
+      "icelandic": "Ég skil, smátt.",
+      "transliteration": "Yehg skil, smoht.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-30T21:26:46.328282"
+    },
+    {
+      "english": "Where is the bus?",
+      "icelandic": "Hvar er strætóinn?",
+      "transliteration": "Kvar ehr strai-toh-in?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-30T21:26:46.328283"
+    },
+    {
+      "english": "My name is Anna.",
+      "icelandic": "Ég heiti Anna.",
+      "transliteration": "Yehg hay-teh An-nah.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-30T21:26:46.328284"
     }
   ],
-  "last_updated": "2026-06-30T18:59:33.961655"
+  "last_updated": "2026-06-30T21:26:46.328286"
 }
