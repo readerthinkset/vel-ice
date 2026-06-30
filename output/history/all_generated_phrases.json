@@ -1889,7 +1889,42 @@
       "transliteration": "Hoo-sah-thoo aa ees-lens-koo, ta-la-thoo fraa-ls-leh-ga.",
       "category": "Purpose",
       "generated_at": "2026-06-29T21:24:31.492894"
+    },
+    {
+      "english": "Bright blue, like the sky.",
+      "icelandic": "Hvíta blátt, eins og himinninn.",
+      "transliteration": "Vee-ta blautt, eins og him-in-nin.",
+      "category": "Colors",
+      "generated_at": "2026-06-30T02:03:25.213545"
+    },
+    {
+      "english": "Deep red, like a fire.",
+      "icelandic": "Djúpt rautt, eins og eldur.",
+      "transliteration": "Djooppt rautt, eins og el-dur.",
+      "category": "Colors",
+      "generated_at": "2026-06-30T02:03:25.213557"
+    },
+    {
+      "english": "Soft green, like moss.",
+      "icelandic": "Mjúkt grænt, eins og mosi.",
+      "transliteration": "M-yoo-kt graent, eins og mo-si.",
+      "category": "Colors",
+      "generated_at": "2026-06-30T02:03:25.213559"
+    },
+    {
+      "english": "Sunny yellow, a happy color.",
+      "icelandic": "Sólar gult, dásamlegur litur.",
+      "transliteration": "Sow-lar gult, da-sam-le-gur li-tur.",
+      "category": "Colors",
+      "generated_at": "2026-06-30T02:03:25.213560"
+    },
+    {
+      "english": "Dark purple, mysterious shade.",
+      "icelandic": "Myrkt fjólublátt, leyndardómsfullur.",
+      "transliteration": "Mirk-t fyo-lu-blautt, leynd-ar-doms-ful-lur.",
+      "category": "Colors",
+      "generated_at": "2026-06-30T02:03:25.213562"
     }
   ],
-  "last_updated": "2026-06-29T21:24:31.492896"
+  "last_updated": "2026-06-30T02:03:25.213564"
 }
