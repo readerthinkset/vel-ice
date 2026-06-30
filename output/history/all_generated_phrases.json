@@ -1924,7 +1924,42 @@
       "transliteration": "Mirk-t fyo-lu-blautt, leynd-ar-doms-ful-lur.",
       "category": "Colors",
       "generated_at": "2026-06-30T02:03:25.213562"
+    },
+    {
+      "english": "New words, new world.",
+      "icelandic": "Ný orð, nýr heimur.",
+      "transliteration": "Nee ord, neer hey-mur.",
+      "category": "Success",
+      "generated_at": "2026-06-30T14:29:35.950323"
+    },
+    {
+      "english": "Listen closely, then speak.",
+      "icelandic": "Hlustar vel, talar svo.",
+      "transliteration": "Hlus-tar vel, tal-ar so.",
+      "category": "Success",
+      "generated_at": "2026-06-30T14:29:35.950333"
+    },
+    {
+      "english": "Every sentence, a victory.",
+      "icelandic": "Hver setning, sigur.",
+      "transliteration": "Kver set-ning, sig-ur.",
+      "category": "Success",
+      "generated_at": "2026-06-30T14:29:35.950335"
+    },
+    {
+      "english": "Your voice, growing stronger.",
+      "icelandic": "Rödd þín, sterkari.",
+      "transliteration": "Rurth theen, sterk-a-ri.",
+      "category": "Success",
+      "generated_at": "2026-06-30T14:29:35.950337"
+    },
+    {
+      "english": "Understand the rhythm, find the flow.",
+      "icelandic": "Fáðu tak, finndu flæði.",
+      "transliteration": "Fao-thu tak, fin-thu flay-thi.",
+      "category": "Success",
+      "generated_at": "2026-06-30T14:29:35.950339"
     }
   ],
-  "last_updated": "2026-06-30T02:03:25.213564"
+  "last_updated": "2026-06-30T14:29:35.950340"
 }
