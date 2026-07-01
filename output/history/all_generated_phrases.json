@@ -2134,7 +2134,42 @@
       "transliteration": "Slep-ttoo la-us-um, thee-neem stuh-duu-ga kraft-ee.",
       "category": "Strength",
       "generated_at": "2026-07-01T14:48:03.298693"
+    },
+    {
+      "english": "The air here, feels so crisp.",
+      "icelandic": "Loftið hérna, er svo hreint.",
+      "transliteration": "Loft-ith heh-re-na, er so hraynt.",
+      "category": "Travel",
+      "generated_at": "2026-07-01T16:31:24.879024"
+    },
+    {
+      "english": "My feet, are ready for adventure.",
+      "icelandic": "Fæturnir mínir, eru til ævintýra.",
+      "transliteration": "Fai-tur-nir mee-nir, eh-ru til ai-vin-too-ra.",
+      "category": "Travel",
+      "generated_at": "2026-07-01T16:31:24.879032"
+    },
+    {
+      "english": "What a view, absolutely stunning.",
+      "icelandic": "Þvílíkt útsýni, algjörlega töfrandi.",
+      "transliteration": "Thvee-likh oot-sveen-ee, al-gyr-leh-ga tot-fran-dee.",
+      "category": "Travel",
+      "generated_at": "2026-07-01T16:31:24.879034"
+    },
+    {
+      "english": "This taste, is quite unique.",
+      "icelandic": "Þessi bragð, er mjög sérstakur.",
+      "transliteration": "Thes-see brakh, er myo-yur ser-sta-kur.",
+      "category": "Travel",
+      "generated_at": "2026-07-01T16:31:24.879035"
+    },
+    {
+      "english": "Can we walk, a little further?",
+      "icelandic": "Getum við gengið, aðeins lengra?",
+      "transliteration": "Geh-tum veeth ghen-gith, a-deens leng-ra?",
+      "category": "Travel",
+      "generated_at": "2026-07-01T16:31:24.879037"
     }
   ],
-  "last_updated": "2026-07-01T14:48:03.298694"
+  "last_updated": "2026-07-01T16:31:24.879039"
 }
