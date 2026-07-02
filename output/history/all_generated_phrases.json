@@ -2344,7 +2344,42 @@
       "transliteration": "Hver sekunda, skiptir maali.",
       "category": "Time",
       "generated_at": "2026-07-02T18:28:13.256295"
+    },
+    {
+      "english": "Let's reset, shall we?",
+      "icelandic": "Við skulum byrja upp á nýtt, hvað segirðu?",
+      "transliteration": "Vith skulum bibirja uph aa niith, kvath segirthu?",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-02T21:02:42.744138"
+    },
+    {
+      "english": "I truly regret that.",
+      "icelandic": "Ég iðrast þess innilega.",
+      "transliteration": "Yegg ithrast tharss innilega.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-02T21:02:42.744147"
+    },
+    {
+      "english": "Can we turn the page?",
+      "icelandic": "Getum við snúið blaðinu?",
+      "transliteration": "Getum vith snuith blathinu?",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-02T21:02:42.744149"
+    },
+    {
+      "english": "My heart feels heavy.",
+      "icelandic": "Hjartað mitt líður þungt.",
+      "transliteration": "Hjartath mitt liithur thungt.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-02T21:02:42.744150"
+    },
+    {
+      "english": "Let's find peace together.",
+      "icelandic": "Við skulum finna frið saman.",
+      "transliteration": "Vith skulum finna frith saman.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-02T21:02:42.744167"
     }
   ],
-  "last_updated": "2026-07-02T18:28:13.256297"
+  "last_updated": "2026-07-02T21:02:42.744169"
 }
