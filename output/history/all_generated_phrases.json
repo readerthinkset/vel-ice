@@ -2309,7 +2309,42 @@
       "transliteration": "E-ru til, græn-met-is-ret-tir?",
       "category": "Restaurant",
       "generated_at": "2026-07-02T14:13:02.438866"
+    },
+    {
+      "english": "This moment, precious.",
+      "icelandic": "Þetta augnablik, dýrmætt.",
+      "transliteration": "Thetta augnablik, dyrmaett.",
+      "category": "Time",
+      "generated_at": "2026-07-02T18:28:13.256281"
+    },
+    {
+      "english": "In a while, we'll go.",
+      "icelandic": "Eftir smá, förum við.",
+      "transliteration": "Eftir smaa, forum vid.",
+      "category": "Time",
+      "generated_at": "2026-07-02T18:28:13.256291"
+    },
+    {
+      "english": "The clock, ticks on.",
+      "icelandic": "Klakið, gengur áfram.",
+      "transliteration": "Klakid, gengur afram.",
+      "category": "Time",
+      "generated_at": "2026-07-02T18:28:13.256293"
+    },
+    {
+      "english": "Just then, it happened.",
+      "icelandic": "Rétt þá, gerðist það.",
+      "transliteration": "Rett tha, gerdst stha.",
+      "category": "Time",
+      "generated_at": "2026-07-02T18:28:13.256294"
+    },
+    {
+      "english": "Each second, counts.",
+      "icelandic": "Hver sekúnda, skiptir máli.",
+      "transliteration": "Hver sekunda, skiptir maali.",
+      "category": "Time",
+      "generated_at": "2026-07-02T18:28:13.256295"
     }
   ],
-  "last_updated": "2026-07-02T14:13:02.438868"
+  "last_updated": "2026-07-02T18:28:13.256297"
 }
