@@ -2274,7 +2274,42 @@
       "transliteration": "Styur-nur-nar tind-rar, kos-meesk gleh-thee.",
       "category": "Joy",
       "generated_at": "2026-07-02T02:01:38.578640"
+    },
+    {
+      "english": "We're ready, to order now.",
+      "icelandic": "Við erum tilbúin, að panta núna.",
+      "transliteration": "Vith erum til-búin, ath pan-ta nu-na.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-02T14:13:02.438852"
+    },
+    {
+      "english": "Could we, get some water?",
+      "icelandic": "Mættum við, fá vatn?",
+      "transliteration": "Mait-um vith, fau vatn?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-02T14:13:02.438862"
+    },
+    {
+      "english": "What's today's, special dish?",
+      "icelandic": "Hver er, dagsins réttur?",
+      "transliteration": "Hver er, dags-ins ret-tur?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-02T14:13:02.438864"
+    },
+    {
+      "english": "This soup, is very warm.",
+      "icelandic": "Þessi súpa, er mjög heit.",
+      "transliteration": "Thess-i su-pa, er my-yuh heit.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-02T14:13:02.438865"
+    },
+    {
+      "english": "Are there, vegetarian options?",
+      "icelandic": "Eru til, grænmetisréttir?",
+      "transliteration": "E-ru til, græn-met-is-ret-tir?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-02T14:13:02.438866"
     }
   ],
-  "last_updated": "2026-07-02T02:01:38.578642"
+  "last_updated": "2026-07-02T14:13:02.438868"
 }
