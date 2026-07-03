@@ -2449,7 +2449,42 @@
       "transliteration": "SOH-lin GYAY-gist, GYEG-num SKWEE-inn.",
       "category": "Weather",
       "generated_at": "2026-07-03T14:20:17.840638"
+    },
+    {
+      "english": "New day, new tasks.",
+      "icelandic": "Nýr dagur, ný verkefni.",
+      "transliteration": "Neer dah-gur, nee verk-ef-ni.",
+      "category": "Work",
+      "generated_at": "2026-07-03T15:55:24.355637"
+    },
+    {
+      "english": "Let's start, quietly.",
+      "icelandic": "Byrjum, rólega.",
+      "transliteration": "Bir-yum, roo-eh-la.",
+      "category": "Work",
+      "generated_at": "2026-07-03T15:55:24.355646"
+    },
+    {
+      "english": "Focus now, please.",
+      "icelandic": "Einbeittu þér nú, vinsamlegast.",
+      "transliteration": "Ein-beit-tu yair noo, vin-sam-le-gast.",
+      "category": "Work",
+      "generated_at": "2026-07-03T15:55:24.355648"
+    },
+    {
+      "english": "Teamwork, makes it easy.",
+      "icelandic": "Samvinna, gerir þetta auðvelt.",
+      "transliteration": "Sam-vin-na, ge-rir yeth-ta oyd-velt.",
+      "category": "Work",
+      "generated_at": "2026-07-03T15:55:24.355649"
+    },
+    {
+      "english": "One step, at a time.",
+      "icelandic": "Eitt skref, í einu.",
+      "transliteration": "Eet skref, ee ein-oo.",
+      "category": "Work",
+      "generated_at": "2026-07-03T15:55:24.355651"
     }
   ],
-  "last_updated": "2026-07-03T14:20:17.840639"
+  "last_updated": "2026-07-03T15:55:24.355652"
 }
