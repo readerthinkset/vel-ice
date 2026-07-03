@@ -2519,7 +2519,42 @@
       "transliteration": "Kver an-dar-drat-tur, lyoo-v gyov.",
       "category": "Positive Life",
       "generated_at": "2026-07-03T18:16:11.780950"
+    },
+    {
+      "english": "What a lovely day, isn't it?",
+      "icelandic": "Vá, fallegur dagur, er það ekki?",
+      "transliteration": "Vow, fal-le-gur da-gur, er thad eth-ki?",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-03T21:02:29.970151"
+    },
+    {
+      "english": "Could you repeat that, please?",
+      "icelandic": "Gætirðu endurtekið það, vinsamlegast?",
+      "transliteration": "Gai-thur-thu en-dur-te-kith thad, vin-sam-le-gast?",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-03T21:02:29.970159"
+    },
+    {
+      "english": "This coffee is delicious.",
+      "icelandic": "Þessi kaffi, er ljúffengur.",
+      "transliteration": "Thes-si kaf-fi, er lyoo-feng-ur.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-03T21:02:29.970161"
+    },
+    {
+      "english": "I'm learning Icelandic, slowly.",
+      "icelandic": "Ég er að læra íslensku, hægt.",
+      "transliteration": "Yeh er ath lye-ra ees-lens-ku, hight.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-03T21:02:29.970162"
+    },
+    {
+      "english": "Where can I buy a souvenir?",
+      "icelandic": "Hvar get ég keypt minjagrip?",
+      "transliteration": "Hvar get yeh kyept min-ya-grip?",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-03T21:02:29.970163"
     }
   ],
-  "last_updated": "2026-07-03T18:16:11.780952"
+  "last_updated": "2026-07-03T21:02:29.970165"
 }
