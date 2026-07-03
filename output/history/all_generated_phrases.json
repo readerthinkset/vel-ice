@@ -2414,7 +2414,42 @@
       "transliteration": "Spur-thoo spur-tin-gah, ley-ta-thoo svah-rah.",
       "category": "Education",
       "generated_at": "2026-07-03T01:44:49.548665"
+    },
+    {
+      "english": "Misty morning, quiet and cool.",
+      "icelandic": "Mogulegt, rólegt og svalt.",
+      "transliteration": "MOH-goo-lehgt, ROH-lehgt ohg SVOLT.",
+      "category": "Weather",
+      "generated_at": "2026-07-03T14:20:17.840625"
+    },
+    {
+      "english": "A little drizzle, just enough.",
+      "icelandic": "Lítið strjáls, bara nægilegt.",
+      "transliteration": "LEE-teet STRJOWLS, BAH-rah NYEH-gih-lehgt.",
+      "category": "Weather",
+      "generated_at": "2026-07-03T14:20:17.840633"
+    },
+    {
+      "english": "Sky is gray, all day long.",
+      "icelandic": "Himinn grár, allan daginn.",
+      "transliteration": "HIM-inn GRAWR, AHL-lahn DAH-yinn.",
+      "category": "Weather",
+      "generated_at": "2026-07-03T14:20:17.840635"
+    },
+    {
+      "english": "Snow is falling, soft and white.",
+      "icelandic": "Snjór fellur, mjúkur og hvítur.",
+      "transliteration": "SNYOHR FEHL-lur, MJYOO-kur ohg KHWEE-tur.",
+      "category": "Weather",
+      "generated_at": "2026-07-03T14:20:17.840636"
+    },
+    {
+      "english": "Sun peeking, through the clouds.",
+      "icelandic": "Sólin gægist, gegnum skýin.",
+      "transliteration": "SOH-lin GYAY-gist, GYEG-num SKWEE-inn.",
+      "category": "Weather",
+      "generated_at": "2026-07-03T14:20:17.840638"
     }
   ],
-  "last_updated": "2026-07-03T01:44:49.548667"
+  "last_updated": "2026-07-03T14:20:17.840639"
 }
