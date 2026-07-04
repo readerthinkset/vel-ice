@@ -2589,7 +2589,42 @@
       "transliteration": "Tel fra el-left-a, oop ee tohlf-ta.",
       "category": "Numbers",
       "generated_at": "2026-07-04T01:44:19.227103"
+    },
+    {
+      "english": "My son, he's a quick learner.",
+      "icelandic": "Sonur minn, hann lærir hratt.",
+      "transliteration": "Son-ur minn, hann lair hratt.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-04T13:45:02.382291"
+    },
+    {
+      "english": "My daughter, she loves to paint.",
+      "icelandic": "Dóttir mín, hún elskar að mála.",
+      "transliteration": "Dott-ir min, hun elskar ath ma-la.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-04T13:45:02.382301"
+    },
+    {
+      "english": "My parents, they travel often.",
+      "icelandic": "Foreldrar mínir, þeir ferðast oft.",
+      "transliteration": "Foreld-rar min-ir, their ferthast oft.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-04T13:45:02.382302"
+    },
+    {
+      "english": "My grandpa, he's always smiling.",
+      "icelandic": "Afi minn, hann brosir alltaf.",
+      "transliteration": "Afi minn, hann bros-ir all-taf.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-04T13:45:02.382304"
+    },
+    {
+      "english": "My grandma, she bakes delicious bread.",
+      "icelandic": "Amma mín, hún bakar ljúffengt brauð.",
+      "transliteration": "Amma min, hun bak-ar lyuff-engt brauth.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-04T13:45:02.382305"
     }
   ],
-  "last_updated": "2026-07-04T01:44:19.227105"
+  "last_updated": "2026-07-04T13:45:02.382307"
 }
