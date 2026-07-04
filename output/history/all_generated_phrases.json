@@ -2554,7 +2554,42 @@
       "transliteration": "Hvar get yeh kyept min-ya-grip?",
       "category": "Common Expressions",
       "generated_at": "2026-07-03T21:02:29.970163"
+    },
+    {
+      "english": "Found one, lost two, looking for three.",
+      "icelandic": "Fann einn, týndi tvo, leita að þremur.",
+      "transliteration": "Fann ayn, teendi tvo, leita ath threm-ur.",
+      "category": "Numbers",
+      "generated_at": "2026-07-04T01:44:19.227087"
+    },
+    {
+      "english": "Four days, five nights, six hours.",
+      "icelandic": "Fjórir dagar, fimm nætur, sex klukkustundir.",
+      "transliteration": "Fyoo-rir da-gar, fim nait-ur, sex kloo-ka-stoon-dir.",
+      "category": "Numbers",
+      "generated_at": "2026-07-04T01:44:19.227099"
+    },
+    {
+      "english": "Seven dreams, eight wishes, nine hopes.",
+      "icelandic": "Sjö draumar, átta óskir, níu vonir.",
+      "transliteration": "Syo drau-mar, aow-ta oosh-kir, nee-oo vo-nir.",
+      "category": "Numbers",
+      "generated_at": "2026-07-04T01:44:19.227100"
+    },
+    {
+      "english": "Ten steps, then a pause.",
+      "icelandic": "Tíu skref, svo hlé.",
+      "transliteration": "Tee-oo skref, svo hlay.",
+      "category": "Numbers",
+      "generated_at": "2026-07-04T01:44:19.227102"
+    },
+    {
+      "english": "Counting from eleven, up to twelve.",
+      "icelandic": "Tel frá ellefta, upp í tólfta.",
+      "transliteration": "Tel fra el-left-a, oop ee tohlf-ta.",
+      "category": "Numbers",
+      "generated_at": "2026-07-04T01:44:19.227103"
     }
   ],
-  "last_updated": "2026-07-03T21:02:29.970165"
+  "last_updated": "2026-07-04T01:44:19.227105"
 }
