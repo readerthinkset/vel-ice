@@ -2729,7 +2729,42 @@
       "transliteration": "Við deilum, öllu.",
       "category": "Relationships",
       "generated_at": "2026-07-04T20:54:13.446599"
+    },
+    {
+      "english": "This color, is it new?",
+      "icelandic": "Þessi litur, er hann nýr?",
+      "transliteration": "Thessi litur, er hann neer?",
+      "category": "Shopping",
+      "generated_at": "2026-07-05T01:48:19.705234"
+    },
+    {
+      "english": "Do you have, something lighter?",
+      "icelandic": "Hafið þið, eitthvað léttara?",
+      "transliteration": "Havith thith, eithvath lyettara?",
+      "category": "Shopping",
+      "generated_at": "2026-07-05T01:48:19.705244"
+    },
+    {
+      "english": "Where can I find, wool socks?",
+      "icelandic": "Hvar finn ég, ullarsokka?",
+      "transliteration": "Kvar finn yeh, ullarsokka?",
+      "category": "Shopping",
+      "generated_at": "2026-07-05T01:48:19.705246"
+    },
+    {
+      "english": "Is this, handmade?",
+      "icelandic": "Er þetta, handgert?",
+      "transliteration": "Er thetta, handgert?",
+      "category": "Shopping",
+      "generated_at": "2026-07-05T01:48:19.705247"
+    },
+    {
+      "english": "I need, a gift idea.",
+      "icelandic": "Ég þarf, gjafahugmynd.",
+      "transliteration": "Yeh tharf, gyavahugmynd.",
+      "category": "Shopping",
+      "generated_at": "2026-07-05T01:48:19.705248"
     }
   ],
-  "last_updated": "2026-07-04T20:54:13.446600"
+  "last_updated": "2026-07-05T01:48:19.705250"
 }
