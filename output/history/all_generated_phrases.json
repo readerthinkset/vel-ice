@@ -2834,7 +2834,42 @@
       "transliteration": "Finn-du þí-na rödd, í þess-u máli.",
       "category": "Purpose",
       "generated_at": "2026-07-05T15:18:07.342076"
+    },
+    {
+      "english": "Icelandic whispers, listen closely.",
+      "icelandic": "Íslenskan hvísla, hlustaðu vel.",
+      "transliteration": "EEs-lens-kahn HVEES-tlah, HLOOS-tah-doo VEL.",
+      "category": "Motivation",
+      "generated_at": "2026-07-05T18:07:42.016969"
+    },
+    {
+      "english": "Your voice, Iceland's echo.",
+      "icelandic": "Þín rödd, Íslands ómur.",
+      "transliteration": "THEEN RUTHD, EES-lands OH-moor.",
+      "category": "Motivation",
+      "generated_at": "2026-07-05T18:07:42.016978"
+    },
+    {
+      "english": "Discover Iceland, phrase by phrase.",
+      "icelandic": "Uppgötvaðu Ísland, setning fyrir setningu.",
+      "transliteration": "OOP-gut-vah-thoo EES-land, SET-ning FIHR-ir SET-ning-oo.",
+      "category": "Motivation",
+      "generated_at": "2026-07-05T18:07:42.016980"
+    },
+    {
+      "english": "Brave the grammar, find your flow.",
+      "icelandic": "Veðja á málfræðina, finna þína flæði.",
+      "transliteration": "VEHD-jah OH MAL-frey-thee-nah, FIN-nah THEE-nah FLAY-thee.",
+      "category": "Motivation",
+      "generated_at": "2026-07-05T18:07:42.016981"
+    },
+    {
+      "english": "Each day, a new Icelandic spark.",
+      "icelandic": "Hver dagur, nýr íslenskur neisti.",
+      "transliteration": "KVER DAH-gur, NEER EES-lens-kur NEYS-tee.",
+      "category": "Motivation",
+      "generated_at": "2026-07-05T18:07:42.016983"
     }
   ],
-  "last_updated": "2026-07-05T15:18:07.342077"
+  "last_updated": "2026-07-05T18:07:42.016984"
 }
