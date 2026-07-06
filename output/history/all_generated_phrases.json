@@ -2939,7 +2939,42 @@
       "transliteration": "My-too aask-oh-run-oom, baynt aow mo-ti.",
       "category": "Courage",
       "generated_at": "2026-07-06T01:54:57.006535"
+    },
+    {
+      "english": "Kind regards, traveler.",
+      "icelandic": "Með bestu kveðjum, ferðalangur.",
+      "transliteration": "Meth bestu kvedjum, ferðalangur.",
+      "category": "Greetings",
+      "generated_at": "2026-07-06T15:43:33.017369"
+    },
+    {
+      "english": "A bright welcome, indeed.",
+      "icelandic": "Skært velkomin, sannarlega.",
+      "transliteration": "Skairt velkomin, sannarlega.",
+      "category": "Greetings",
+      "generated_at": "2026-07-06T15:43:33.017382"
+    },
+    {
+      "english": "May your path be clear.",
+      "icelandic": "Megir vegur þinn vera greið.",
+      "transliteration": "Megir vegur thinn vera greið.",
+      "category": "Greetings",
+      "generated_at": "2026-07-06T15:43:33.017384"
+    },
+    {
+      "english": "Joyful greetings to you.",
+      "icelandic": "Glaðlegar kveðjur til þín.",
+      "transliteration": "Glaðlegar kvedjur til thín.",
+      "category": "Greetings",
+      "generated_at": "2026-07-06T15:43:33.017385"
+    },
+    {
+      "english": "Hope this finds you well.",
+      "icelandic": "Vona að þetta finni þig vel.",
+      "transliteration": "Vona að thetta finni thig vel.",
+      "category": "Greetings",
+      "generated_at": "2026-07-06T15:43:33.017386"
     }
   ],
-  "last_updated": "2026-07-06T01:54:57.006537"
+  "last_updated": "2026-07-06T15:43:33.017388"
 }
