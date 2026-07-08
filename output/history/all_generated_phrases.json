@@ -3254,7 +3254,42 @@
       "transliteration": "Inn-ree rohh, stuh-digt lyoh-mar.",
       "category": "Joy",
       "generated_at": "2026-07-08T14:26:43.082973"
+    },
+    {
+      "english": "Sky is clearing, finally.",
+      "icelandic": "Himinninn, bj Hvítnar loksins.",
+      "transliteration": "Himinninn, bj Hvít-nar loksins.",
+      "category": "Weather",
+      "generated_at": "2026-07-08T16:05:14.402813"
+    },
+    {
+      "english": "Air feels crisp, bracing.",
+      "icelandic": "Loftið, finnst það stökkt, hressandi.",
+      "transliteration": "Loft-id, finnst það stökkt, hress-andi.",
+      "category": "Weather",
+      "generated_at": "2026-07-08T16:05:14.402824"
+    },
+    {
+      "english": "Heavy fog, rolling in.",
+      "icelandic": "Þétt þoka, rúllar inn.",
+      "transliteration": "Þétt þó-ka, rúll-ar inn.",
+      "category": "Weather",
+      "generated_at": "2026-07-08T16:05:14.402826"
+    },
+    {
+      "english": "Sun is peeking, a shy smile.",
+      "icelandic": "Sólin, kíkir fram, eins og feimin bros.",
+      "transliteration": "Sól-in, kíkir fram, eins og feim-in bros.",
+      "category": "Weather",
+      "generated_at": "2026-07-08T16:05:14.402828"
+    },
+    {
+      "english": "Gentle breeze, stirs leaves.",
+      "icelandic": "Leynileg gola, hrærir laufblöð.",
+      "transliteration": "Leys-in-leg góla, hrærir lauf-blöð.",
+      "category": "Weather",
+      "generated_at": "2026-07-08T16:05:14.402829"
     }
   ],
-  "last_updated": "2026-07-08T14:26:43.082975"
+  "last_updated": "2026-07-08T16:05:14.402831"
 }
