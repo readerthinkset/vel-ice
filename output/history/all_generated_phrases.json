@@ -3744,7 +3744,42 @@
       "transliteration": "Myair LEE-thur myoog OH-glatt.",
       "category": "Emergency",
       "generated_at": "2026-07-11T01:22:17.664999"
+    },
+    {
+      "english": "A cozy corner, perhaps?",
+      "icelandic": "Rúmgóður blettur, kannski?",
+      "transliteration": "Room-goh-thur blet-tur, kahn-ski?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-11T13:37:55.798941"
+    },
+    {
+      "english": "Something light, please.",
+      "icelandic": "Eitthvað létt, takk.",
+      "transliteration": "Eith-vath lyett, takk.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-11T13:37:55.798949"
+    },
+    {
+      "english": "Could we, share this?",
+      "icelandic": "Mega, við deila þessu?",
+      "transliteration": "Meh-ga, vid deh-la thess-oo?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-11T13:37:55.798950"
+    },
+    {
+      "english": "Just a small bite.",
+      "icelandic": "Bara, smá biti.",
+      "transliteration": "Bah-rah, smah bi-ti.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-11T13:37:55.798952"
+    },
+    {
+      "english": "Surprise me, with flavor.",
+      "icelandic": "Hundsaðu mig, með bragði.",
+      "transliteration": "Hund-sah-thoo meg, meth brah-th-i.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-11T13:37:55.798953"
     }
   ],
-  "last_updated": "2026-07-11T01:22:17.665001"
+  "last_updated": "2026-07-11T13:37:55.798954"
 }
