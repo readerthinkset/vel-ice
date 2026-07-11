@@ -3709,7 +3709,42 @@
       "transliteration": "Er til, afsláttur í boði?",
       "category": "Shopping",
       "generated_at": "2026-07-10T21:04:15.441723"
+    },
+    {
+      "english": "My leg, it's broken.",
+      "icelandic": "Fóturinn minn, hann er brotinn.",
+      "transliteration": "FOH-tur-inn MINN, hahn ehr BROH-tin.",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T01:22:17.664986"
+    },
+    {
+      "english": "I've lost my way.",
+      "icelandic": "Ég hef villzt af leið.",
+      "transliteration": "Yeh HEHV viltst ahf LAYTH.",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T01:22:17.664995"
+    },
+    {
+      "english": "Can you help me, soon?",
+      "icelandic": "Geturðu hjálpað mér, brátt?",
+      "transliteration": "GET-ur-thoo HYAL-pahth MYAIR, brautht?",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T01:22:17.664997"
+    },
+    {
+      "english": "Someone is following me.",
+      "icelandic": "Einhver er að elta mig.",
+      "transliteration": "EYN-kver ehr ahth EL-tah me.",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T01:22:17.664998"
+    },
+    {
+      "english": "I feel very dizzy.",
+      "icelandic": "Mér líður mjög óglatt.",
+      "transliteration": "Myair LEE-thur myoog OH-glatt.",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T01:22:17.664999"
     }
   ],
-  "last_updated": "2026-07-10T21:04:15.441725"
+  "last_updated": "2026-07-11T01:22:17.665001"
 }
