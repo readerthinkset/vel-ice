@@ -4094,7 +4094,42 @@
       "transliteration": "Ren-noo up leynd-ar-mawl, eytt hlyowth.",
       "category": "Motivation",
       "generated_at": "2026-07-13T01:25:27.666106"
+    },
+    {
+      "english": "Feeling hopeful, today.",
+      "icelandic": "Vonríkur, í dag.",
+      "transliteration": "Von-reek-ur, ee daag.",
+      "category": "Feelings",
+      "generated_at": "2026-07-13T14:54:41.139696"
+    },
+    {
+      "english": "A little tired, maybe.",
+      "icelandic": "Lítið þreyttur, kannski.",
+      "transliteration": "Lee-tit threytt-ur, kan-skee.",
+      "category": "Feelings",
+      "generated_at": "2026-07-13T14:54:41.139706"
+    },
+    {
+      "english": "So excited, truly.",
+      "icelandic": "Svo spenntur, svo sannarlega.",
+      "transliteration": "So spent-ur, so san-nar-la-ga.",
+      "category": "Feelings",
+      "generated_at": "2026-07-13T14:54:41.139708"
+    },
+    {
+      "english": "Feeling content, now.",
+      "icelandic": "Kyrr, núna.",
+      "transliteration": "Keer, noo-na.",
+      "category": "Feelings",
+      "generated_at": "2026-07-13T14:54:41.139709"
+    },
+    {
+      "english": "A bit confused, honestly.",
+      "icelandic": "Smá ruglaður, heiðarlega.",
+      "transliteration": "Smaa rug-la-thur, hey-dar-le-ga.",
+      "category": "Feelings",
+      "generated_at": "2026-07-13T14:54:41.139710"
     }
   ],
-  "last_updated": "2026-07-13T01:25:27.666107"
+  "last_updated": "2026-07-13T14:54:41.139712"
 }
