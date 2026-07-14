@@ -4374,7 +4374,42 @@
       "transliteration": "KVER-a-goo-vah, REES HAKT.",
       "category": "Nature",
       "generated_at": "2026-07-14T18:09:01.082700"
+    },
+    {
+      "english": "Ocean waves, a calming teal.",
+      "icelandic": "Hafsbylgjur, róandi teal.",
+      "transliteration": "Hafs-bilg-yur, ro-an-di teal.",
+      "category": "Colors",
+      "generated_at": "2026-07-14T20:59:21.692284"
+    },
+    {
+      "english": "Volcanic ash, a muted charcoal.",
+      "icelandic": "Hrafnagris, dauf kolsvört.",
+      "transliteration": "Hrafna-gris, dauf kol-svurt.",
+      "category": "Colors",
+      "generated_at": "2026-07-14T20:59:21.692295"
+    },
+    {
+      "english": "Arctic ice, a pale, clear hue.",
+      "icelandic": "Norðurskautsís, ljós, tær litur.",
+      "transliteration": "Nor-dur-skauts-is, lyos, tyer lit-ur.",
+      "category": "Colors",
+      "generated_at": "2026-07-14T20:59:21.692297"
+    },
+    {
+      "english": "Lava rock, a warm sienna.",
+      "icelandic": "Hraunsteinn, hlý siklabeige.",
+      "transliteration": "Hraun-stein, hly sikla-beige.",
+      "category": "Colors",
+      "generated_at": "2026-07-14T20:59:21.692298"
+    },
+    {
+      "english": "Midnight sky, inky indigo.",
+      "icelandic": "Miðnæturský, dökk indigo.",
+      "transliteration": "Mid-na-tur-sky, dokk indigo.",
+      "category": "Colors",
+      "generated_at": "2026-07-14T20:59:21.692299"
     }
   ],
-  "last_updated": "2026-07-14T18:09:01.082701"
+  "last_updated": "2026-07-14T20:59:21.692300"
 }
