@@ -4479,7 +4479,42 @@
       "transliteration": "Room var ekk-i bigth, ah ein-um de-gi.",
       "category": "Patience",
       "generated_at": "2026-07-15T13:53:01.369704"
+    },
+    {
+      "english": "Your Icelandic, it's blooming.",
+      "icelandic": "Þitt íslenska, það er að blómstra.",
+      "transliteration": "Thitt islenska, thad er ad blomsra.",
+      "category": "Confidence",
+      "generated_at": "2026-07-15T15:39:20.709984"
+    },
+    {
+      "english": "Unlock new words, with courage.",
+      "icelandic": "Opnaðu ný orð, með hugrekki.",
+      "transliteration": "Opnadu nee ord, med hugrekki.",
+      "category": "Confidence",
+      "generated_at": "2026-07-15T15:39:20.709998"
+    },
+    {
+      "english": "Each sentence, a victory.",
+      "icelandic": "Hver setning, sigur.",
+      "transliteration": "Hver setning, sigur.",
+      "category": "Confidence",
+      "generated_at": "2026-07-15T15:39:20.710000"
+    },
+    {
+      "english": "Your effort, it shines through.",
+      "icelandic": "Fjör þitt, það skín í gegn.",
+      "transliteration": "Fjor thitt, thad skean ee gegn.",
+      "category": "Confidence",
+      "generated_at": "2026-07-15T15:39:20.710002"
+    },
+    {
+      "english": "Speak freely, hear yourself.",
+      "icelandic": "Talaðu frjálst, hlustaðu á þig.",
+      "transliteration": "Taladu frjalsht, hlustaðu ah thig.",
+      "category": "Confidence",
+      "generated_at": "2026-07-15T15:39:20.710003"
     }
   ],
-  "last_updated": "2026-07-15T13:53:01.369705"
+  "last_updated": "2026-07-15T15:39:20.710005"
 }
