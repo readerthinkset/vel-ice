@@ -4864,7 +4864,42 @@
       "transliteration": "Stud-ning-ur thinn, lyft-ir mjer.",
       "category": "Relationships",
       "generated_at": "2026-07-17T18:09:34.428051"
+    },
+    {
+      "english": "Such a beautiful sky, isn't it?",
+      "icelandic": "Svo fallegur himinn, er það ekki?",
+      "transliteration": "Svo fal-leg-ur him-inn, er thad ekki?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-17T20:52:01.940305"
+    },
+    {
+      "english": "This coffee, is quite good.",
+      "icelandic": "Þessi kaffi, er ansi góður.",
+      "transliteration": "Th-essi kaff-i, er an-si go-dur.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-17T20:52:01.940314"
+    },
+    {
+      "english": "May I help you, with something?",
+      "icelandic": "Má ég aðstoða þig, með eitthvað?",
+      "transliteration": "Maw yeg ath-stod-a thig, med eth-vad?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-17T20:52:01.940315"
+    },
+    {
+      "english": "What an interesting idea.",
+      "icelandic": "Þvílík áhugaverð hugmynd.",
+      "transliteration": "Thvi-lik ah-hu-ga-verd hug-mynd.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-17T20:52:01.940317"
+    },
+    {
+      "english": "I am looking for, a quiet spot.",
+      "icelandic": "Ég leitar að, rólegum stað.",
+      "transliteration": "Yeg ley-tar ath, ro-le-gum stad.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-17T20:52:01.940318"
     }
   ],
-  "last_updated": "2026-07-17T18:09:34.428053"
+  "last_updated": "2026-07-17T20:52:01.940320"
 }
