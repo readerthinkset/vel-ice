@@ -5039,7 +5039,42 @@
       "transliteration": "Hyair ehr neey-oom ai-vin-tee-room.",
       "category": "Greetings",
       "generated_at": "2026-07-18T17:59:18.280835"
+    },
+    {
+      "english": "The alarm sings, softly.",
+      "icelandic": "Vekjaraklukkan syngur, blítt.",
+      "transliteration": "Vekjaraklokkan sing-ur, blit.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-18T20:43:20.106974"
+    },
+    {
+      "english": "Out of bed, slowly.",
+      "icelandic": "Úr rúminu, rólega.",
+      "transliteration": "Oor roo-mi-no, ro-le-ga.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-18T20:43:20.106984"
+    },
+    {
+      "english": "A yawn escapes, stretches.",
+      "icelandic": "Ginnræn losnar, teygir sig.",
+      "transliteration": "Ginn-ren los-nar, teyg-ir sig.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-18T20:43:20.106985"
+    },
+    {
+      "english": "Water is running, cold.",
+      "icelandic": "Vatn er að renna, kalt.",
+      "transliteration": "Vatn er ath ren-na, kalt.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-18T20:43:20.106987"
+    },
+    {
+      "english": "Toothpaste is minty, fresh.",
+      "icelandic": "Tannkrem er myntukennt, ferskt.",
+      "transliteration": "Tann-krem er mint-u-kennt, ferst.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-18T20:43:20.106988"
     }
   ],
-  "last_updated": "2026-07-18T17:59:18.280836"
+  "last_updated": "2026-07-18T20:43:20.106989"
 }
