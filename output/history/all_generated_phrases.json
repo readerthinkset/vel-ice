@@ -4899,7 +4899,42 @@
       "transliteration": "Yeg ley-tar ath, ro-le-gum stad.",
       "category": "Basic Phrases",
       "generated_at": "2026-07-17T20:52:01.940318"
+    },
+    {
+      "english": "Click here, if you dare.",
+      "icelandic": "Smelltu hér, ef þú þorir.",
+      "transliteration": "Smell-tu herr, ef tho-rir.",
+      "category": "Technology",
+      "generated_at": "2026-07-18T01:16:16.913656"
+    },
+    {
+      "english": "The future, is digital.",
+      "icelandic": "Framtíðin, er stafræn.",
+      "transliteration": "Fram-ti-thin, err stahf-rahn.",
+      "category": "Technology",
+      "generated_at": "2026-07-18T01:16:16.913666"
+    },
+    {
+      "english": "Log in, or stay out.",
+      "icelandic": "Skráðu þig inn, eða farðu út.",
+      "transliteration": "Skrah-thoo thig in, eh-tha far-thoo oot.",
+      "category": "Technology",
+      "generated_at": "2026-07-18T01:16:16.913668"
+    },
+    {
+      "english": "My code, works perfectly.",
+      "icelandic": "Kóðinn minn, virkar fullkomlega.",
+      "transliteration": "Koh-thin min, virk-ar full-kom-leh-gah.",
+      "category": "Technology",
+      "generated_at": "2026-07-18T01:16:16.913669"
+    },
+    {
+      "english": "This app, is amazing.",
+      "icelandic": "Þessi app, er dásamleg.",
+      "transliteration": "Thess-i app, err dah-sahm-leg.",
+      "category": "Technology",
+      "generated_at": "2026-07-18T01:16:16.913670"
     }
   ],
-  "last_updated": "2026-07-17T20:52:01.940320"
+  "last_updated": "2026-07-18T01:16:16.913672"
 }
