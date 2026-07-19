@@ -5074,7 +5074,42 @@
       "transliteration": "Tann-krem er mint-u-kennt, ferst.",
       "category": "Daily Routine",
       "generated_at": "2026-07-18T20:43:20.106988"
+    },
+    {
+      "english": "Urgent situation, need assistance.",
+      "icelandic": "Brýnt mál, þarf aðstoð.",
+      "transliteration": "Breen-t maul, tharf asth-oht.",
+      "category": "Emergency",
+      "generated_at": "2026-07-19T01:22:08.137932"
+    },
+    {
+      "english": "Is there a pharmacist nearby?",
+      "icelandic": "Er apótek, hérna nálægt?",
+      "transliteration": "Er ap-oh-tek, hyer-nah naul-aykt?",
+      "category": "Emergency",
+      "generated_at": "2026-07-19T01:22:08.137940"
+    },
+    {
+      "english": "My phone is dead, no signal.",
+      "icelandic": "Síminn, minn er dauður, engin merki.",
+      "transliteration": "See-minn, minn er dau-thur, eng-in merk-i.",
+      "category": "Emergency",
+      "generated_at": "2026-07-19T01:22:08.137942"
+    },
+    {
+      "english": "I need to contact someone, quickly.",
+      "icelandic": "Ég þarf, að hafa samband, fljótt.",
+      "transliteration": "Yeh tharf, ath hah-vah sam-band, flowt.",
+      "category": "Emergency",
+      "generated_at": "2026-07-19T01:22:08.137943"
+    },
+    {
+      "english": "This location is unsafe, we must move.",
+      "icelandic": "Þessi staður, er ekki öruggur, við verðum að fara.",
+      "transliteration": "Thess-i stath-ur, er ekk-i uh-rugg-ur, vith ver-thum ath fah-rah.",
+      "category": "Emergency",
+      "generated_at": "2026-07-19T01:22:08.137945"
     }
   ],
-  "last_updated": "2026-07-18T20:43:20.106989"
+  "last_updated": "2026-07-19T01:22:08.137946"
 }
