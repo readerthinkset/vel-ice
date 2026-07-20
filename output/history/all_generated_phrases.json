@@ -5354,7 +5354,42 @@
       "transliteration": "Fim vin-ir, dey-la hlaht-ri.",
       "category": "Numbers",
       "generated_at": "2026-07-20T15:56:18.371074"
+    },
+    {
+      "english": "Whispering wind, a pale grey.",
+      "icelandic": "Hjúpur vindur, ljósgrár.",
+      "transliteration": "Hjoo-pur vin-dur, ljohs-graur.",
+      "category": "Colors",
+      "generated_at": "2026-07-20T18:56:12.279264"
+    },
+    {
+      "english": "Forest floor, earthy brown.",
+      "icelandic": "Skógarbotn, jarðbrúnn.",
+      "transliteration": "Skoh-gar-botn, yar-broon.",
+      "category": "Colors",
+      "generated_at": "2026-07-20T18:56:12.279274"
+    },
+    {
+      "english": "Sunset blush, soft rose.",
+      "icelandic": "Sólarupprás, mildur rósbleikur.",
+      "transliteration": "Soh-lar-oop-ras, mil-dur rohs-blei-kur.",
+      "category": "Colors",
+      "generated_at": "2026-07-20T18:56:12.279276"
+    },
+    {
+      "english": "Glacier melt, crystal clear.",
+      "icelandic": "Jökulvatn, kristaltært.",
+      "transliteration": "Juh-kul-vatn, kris-tal-tyert.",
+      "category": "Colors",
+      "generated_at": "2026-07-20T18:56:12.279277"
+    },
+    {
+      "english": "Volcanic steam, ghostly white.",
+      "icelandic": "Hveragufa, draugaleg hvít.",
+      "transliteration": "Kver-a-gu-fa, drau-ga-leg hveet.",
+      "category": "Colors",
+      "generated_at": "2026-07-20T18:56:12.279278"
     }
   ],
-  "last_updated": "2026-07-20T15:56:18.371076"
+  "last_updated": "2026-07-20T18:56:12.279279"
 }
