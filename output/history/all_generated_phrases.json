@@ -5494,7 +5494,42 @@
       "transliteration": "Mehd th-air, tee-minn, bra-thnar bah-rah burt.",
       "category": "Love",
       "generated_at": "2026-07-21T14:04:43.158636"
+    },
+    {
+      "english": "The air, is thick, with anticipation.",
+      "icelandic": "Loftið, er þykkt, af eftirvæntingu.",
+      "transliteration": "Loft-ith, er thikkt, af eft-ir-vy-k-tin-gu.",
+      "category": "Weather",
+      "generated_at": "2026-07-21T15:47:56.813207"
+    },
+    {
+      "english": "A chill, creeps in, the evening.",
+      "icelandic": "Köldi, læðist að, kvöldinu.",
+      "transliteration": "Kold-i, ly-thist ath, kvold-i-nu.",
+      "category": "Weather",
+      "generated_at": "2026-07-21T15:47:56.813219"
+    },
+    {
+      "english": "Sunbeams, paint the mountains, golden.",
+      "icelandic": "Sóargeislar, mála fjöllin, gyllt.",
+      "transliteration": "So-ar-geis-l-ar, ma-la fjoll-in, gyllt.",
+      "category": "Weather",
+      "generated_at": "2026-07-21T15:47:56.813221"
+    },
+    {
+      "english": "The frost, paints patterns, on the glass.",
+      "icelandic": "Hrím, teiknar munstur, á glerið.",
+      "transliteration": "Hreem, teik-nar munst-ur, a gl-er-ith.",
+      "category": "Weather",
+      "generated_at": "2026-07-21T15:47:56.813222"
+    },
+    {
+      "english": "A soft downpour, nourishes the earth.",
+      "icelandic": "Mild steypa, nærir jörðina.",
+      "transliteration": "Mild stey-pa, nyr-ir jor-thi-na.",
+      "category": "Weather",
+      "generated_at": "2026-07-21T15:47:56.813223"
     }
   ],
-  "last_updated": "2026-07-21T14:04:43.158637"
+  "last_updated": "2026-07-21T15:47:56.813225"
 }
