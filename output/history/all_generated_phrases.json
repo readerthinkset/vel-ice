@@ -5564,7 +5564,42 @@
       "transliteration": "Ta-la-thu meth sai-f-strau-sti, Ees-land bee-thur.",
       "category": "Education",
       "generated_at": "2026-07-21T18:17:54.396396"
+    },
+    {
+      "english": "This aroma, is quite inviting.",
+      "icelandic": "Þessi ilmur, er mjög aðlaðandi.",
+      "transliteration": "Thersi ilmur, er myow athladandi.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-21T21:05:37.542999"
+    },
+    {
+      "english": "A quiet spot, would be lovely.",
+      "icelandic": "Rólegur staður, væri notalegur.",
+      "transliteration": "Rohlegur stathur, væri notalegur.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-21T21:05:37.543011"
+    },
+    {
+      "english": "What local delights, can you suggest?",
+      "icelandic": "Hvaða staðbundnir hnallþórur, geturðu bent á?",
+      "transliteration": "Hva-tha stathbundnir hnullthorur, gettur ethur benth ow?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-21T21:05:37.543013"
+    },
+    {
+      "english": "Is this dish, very spicy?",
+      "icelandic": "Er þessi réttur, mjög sterkur?",
+      "transliteration": "Er thersi rettur, myow sterkur?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-21T21:05:37.543014"
+    },
+    {
+      "english": "Could I have, something to drink first?",
+      "icelandic": "Mætti ég fá, eitthvað að drekka fyrst?",
+      "transliteration": "Mætti eth sky fow, eithvað ath drekka fyrst?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-21T21:05:37.543016"
     }
   ],
-  "last_updated": "2026-07-21T18:17:54.396398"
+  "last_updated": "2026-07-21T21:05:37.543018"
 }
