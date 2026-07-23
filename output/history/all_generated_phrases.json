@@ -5879,7 +5879,42 @@
       "transliteration": "FRITH-ur NAHT-too-run-NAR, INN-ra medh THAIR.",
       "category": "Health",
       "generated_at": "2026-07-23T18:52:44.852177"
+    },
+    {
+      "english": "Wiggle your toes, feel the floor.",
+      "icelandic": "Hreyfðu tærnar, finndu gólfið.",
+      "transliteration": "Hreyf-thoo tighr-nar, fin-noo goll-fith.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-23T21:00:27.472445"
+    },
+    {
+      "english": "Nod your head, yes or no.",
+      "icelandic": "Hristu höfuðið, já eða nei.",
+      "transliteration": "Hrist-oo hef-oo-thith, yow eh-tha nay.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-23T21:00:27.472456"
+    },
+    {
+      "english": "Touch your nose, with fingertips.",
+      "icelandic": "Snertu nef þitt, með fingurgómum.",
+      "transliteration": "Snert-oo nef tith, meth fin-nur-goom-um.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-23T21:00:27.472458"
+    },
+    {
+      "english": "Open your mouth, say 'ah'.",
+      "icelandic": "Opnaðu munninn, segðu 'ah'.",
+      "transliteration": "Op-na-thoo moon-ninn, seg-thoo 'ah'.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-23T21:00:27.472460"
+    },
+    {
+      "english": "Clench your fists, then release.",
+      "icelandic": "Hnepptu hnefana, svo slepptu.",
+      "transliteration": "Hnep-too hnev-a-na, svoh slep-tóo.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-23T21:00:27.472461"
     }
   ],
-  "last_updated": "2026-07-23T18:52:44.852178"
+  "last_updated": "2026-07-23T21:00:27.472463"
 }
