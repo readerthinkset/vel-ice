@@ -5984,7 +5984,42 @@
       "transliteration": "Ver-i hug-san-ir þín-ar, skýr-ar.",
       "category": "Greetings",
       "generated_at": "2026-07-24T07:19:23.261266"
+    },
+    {
+      "english": "Try again, slightly different.",
+      "icelandic": "Prófaðu aftur, aðeins öðruvísi.",
+      "transliteration": "Proh-fath-oo af-toor, ath-in-is odd-roo-vees-i.",
+      "category": "Directions",
+      "generated_at": "2026-07-24T13:55:46.260785"
+    },
+    {
+      "english": "Read that softly, please.",
+      "icelandic": "Lestu það mjúklega, vinsamlegast.",
+      "transliteration": "Les-too thah myook-leh-gah, vin-sam-leh-gast.",
+      "category": "Directions",
+      "generated_at": "2026-07-24T13:55:46.260794"
+    },
+    {
+      "english": "Repeat that, slowly now.",
+      "icelandic": "Endurtaktu það, hægt núna.",
+      "transliteration": "En-dur-tak-too thah, heyt noo-nah.",
+      "category": "Directions",
+      "generated_at": "2026-07-24T13:55:46.260796"
+    },
+    {
+      "english": "Think before you write.",
+      "icelandic": "Hugsaðu áður en þú skrifar.",
+      "transliteration": "Hug-sath-oo ow-thoor en thoo skri-far.",
+      "category": "Directions",
+      "generated_at": "2026-07-24T13:55:46.260798"
+    },
+    {
+      "english": "Say this word, clearly.",
+      "icelandic": "Segðu þetta orð, greinilega.",
+      "transliteration": "Seyth-oo thet-tah orth, grein-ih-leh-gah.",
+      "category": "Directions",
+      "generated_at": "2026-07-24T13:55:46.260799"
     }
   ],
-  "last_updated": "2026-07-24T07:19:23.261268"
+  "last_updated": "2026-07-24T13:55:46.260801"
 }
