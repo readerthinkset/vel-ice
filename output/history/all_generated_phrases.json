@@ -6089,7 +6089,42 @@
       "transliteration": "In-nree thuhgn, yth-ree ro.",
       "category": "Balance",
       "generated_at": "2026-07-25T13:45:37.327927"
+    },
+    {
+      "english": "Aurora dances, a silent show.",
+      "icelandic": "Norðurljós dansa, þögul sýning.",
+      "transliteration": "Nord-ur-lyos dan-sa, thog-ul see-ning.",
+      "category": "Nature",
+      "generated_at": "2026-07-25T15:09:50.753935"
+    },
+    {
+      "english": "Glacier groans, a deep rumble.",
+      "icelandic": "Jökull muldrar, djúpt þrum.",
+      "transliteration": "Yok-ul mul-drar, dyoo-pt thrum.",
+      "category": "Nature",
+      "generated_at": "2026-07-25T15:09:50.753946"
+    },
+    {
+      "english": "Geyser bursts, hot spray high.",
+      "icelandic": "Hver gýs, heitt úðasam fljótt.",
+      "transliteration": "Kver gees, heyt ood-ah-sam flyawt.",
+      "category": "Nature",
+      "generated_at": "2026-07-25T15:09:50.753948"
+    },
+    {
+      "english": "Lava flows, a fiery river.",
+      "icelandic": "Hraun rennur, eldurfljót.",
+      "transliteration": "Hra-oon ren-nur, el-dur-flyawt.",
+      "category": "Nature",
+      "generated_at": "2026-07-25T15:09:50.753949"
+    },
+    {
+      "english": "Steam rises, from the earth.",
+      "icelandic": "Guufa rís, frá jörðinni.",
+      "transliteration": "Goo-fah rees, frah yord-in-nee.",
+      "category": "Nature",
+      "generated_at": "2026-07-25T15:09:50.753951"
     }
   ],
-  "last_updated": "2026-07-25T13:45:37.327928"
+  "last_updated": "2026-07-25T15:09:50.753952"
 }
