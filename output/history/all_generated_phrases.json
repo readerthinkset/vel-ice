@@ -6334,7 +6334,42 @@
       "transliteration": "Hvurt fer, seth-ee li-kur?",
       "category": "Travel",
       "generated_at": "2026-07-26T18:03:28.469094"
+    },
+    {
+      "english": "This weather, is quite brisk.",
+      "icelandic": "Þetta veður, er ansi kalt.",
+      "transliteration": "Thetta vedhur, er ansi kalt.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-26T20:55:26.247104"
+    },
+    {
+      "english": "Can I have, some water?",
+      "icelandic": "Má ég fá, smá vatn?",
+      "transliteration": "Mau iag fa, sma vatn?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-26T20:55:26.247113"
+    },
+    {
+      "english": "Where should I, sit down?",
+      "icelandic": "Hvar á ég, að setjast?",
+      "transliteration": "Kvar au iag, ath setjast?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-26T20:55:26.247115"
+    },
+    {
+      "english": "That sounds, interesting.",
+      "icelandic": "Það hljómar, áhugavert.",
+      "transliteration": "Thath hljomar, ahugavert.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-26T20:55:26.247116"
+    },
+    {
+      "english": "Could you, repeat that?",
+      "icelandic": "Gætirðu, endurtekið það?",
+      "transliteration": "Gaitirthu, endurtekið thadh?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-26T20:55:26.247117"
     }
   ],
-  "last_updated": "2026-07-26T18:03:28.469096"
+  "last_updated": "2026-07-26T20:55:26.247119"
 }
