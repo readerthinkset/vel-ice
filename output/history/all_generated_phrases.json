@@ -6229,7 +6229,42 @@
       "transliteration": "Low-too freed-inn, fill-ah sahl thee-nah.",
       "category": "Happiness",
       "generated_at": "2026-07-26T01:27:40.293067"
+    },
+    {
+      "english": "Attention, please, a situation!",
+      "icelandic": "Athygli, vinsamlegast, aðstæður!",
+      "transliteration": "Athygli, vinsamlegast, aðstæður!",
+      "category": "Emergency",
+      "generated_at": "2026-07-26T13:39:43.148071"
+    },
+    {
+      "english": "Immediate help, required now.",
+      "icelandic": "Brýn hjálp, nauðsynleg nú.",
+      "transliteration": "Brýn hjálp, nauðsynleg nú.",
+      "category": "Emergency",
+      "generated_at": "2026-07-26T13:39:43.148081"
+    },
+    {
+      "english": "Danger, evacuate this spot.",
+      "icelandic": "Hætta, rýmið þennan stað.",
+      "transliteration": "Hætta, rýmið þennan stað.",
+      "category": "Emergency",
+      "generated_at": "2026-07-26T13:39:43.148082"
+    },
+    {
+      "english": "Medical emergency, so serious.",
+      "icelandic": "Áfall, svo alvarlegt.",
+      "transliteration": "Áfall, svo alvarlegt.",
+      "category": "Emergency",
+      "generated_at": "2026-07-26T13:39:43.148084"
+    },
+    {
+      "english": "We need to leave, fast.",
+      "icelandic": "Við þurfum að fara, hratt.",
+      "transliteration": "Við þurfum að fara, hratt.",
+      "category": "Emergency",
+      "generated_at": "2026-07-26T13:39:43.148085"
     }
   ],
-  "last_updated": "2026-07-26T01:27:40.293068"
+  "last_updated": "2026-07-26T13:39:43.148086"
 }
