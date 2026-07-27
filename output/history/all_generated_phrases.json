@@ -6404,7 +6404,42 @@
       "transliteration": "Vin-dur, sing-ur ee gyeg-num pin-na.",
       "category": "Weather",
       "generated_at": "2026-07-27T01:47:19.541119"
+    },
+    {
+      "english": "Your sound, it finds its way.",
+      "icelandic": "Hljóðið þitt, það finnur leið.",
+      "transliteration": "Hlyo-dhi-th thit, thad fin-n-ur leyth.",
+      "category": "Confidence",
+      "generated_at": "2026-07-27T16:31:41.193564"
+    },
+    {
+      "english": "Let the vowels sing.",
+      "icelandic": "Láttu sérhljóðin syngja.",
+      "transliteration": "La-th-tu ser-hlyo-thin sing-ya.",
+      "category": "Confidence",
+      "generated_at": "2026-07-27T16:31:41.193574"
+    },
+    {
+      "english": "This moment, your turn to speak.",
+      "icelandic": "Þessi stund, þinn tími til að tala.",
+      "transliteration": "Thess-i stund, thinn tee-mi til ath tala.",
+      "category": "Confidence",
+      "generated_at": "2026-07-27T16:31:41.193579"
+    },
+    {
+      "english": "A new word, a small spark.",
+      "icelandic": "Nýtt orð, lítil neisti.",
+      "transliteration": "Nyeeth orth, lee-til neys-ti.",
+      "category": "Confidence",
+      "generated_at": "2026-07-27T16:31:41.193580"
+    },
+    {
+      "english": "Your pronunciation, getting clearer.",
+      "icelandic": "Framburður þinn, verður skýrari.",
+      "transliteration": "Fram-bur-thur thinn, ver-thur skee-ra-ri.",
+      "category": "Confidence",
+      "generated_at": "2026-07-27T16:31:41.193583"
     }
   ],
-  "last_updated": "2026-07-27T01:47:19.541121"
+  "last_updated": "2026-07-27T16:31:41.193585"
 }
