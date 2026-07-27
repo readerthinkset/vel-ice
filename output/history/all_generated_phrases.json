@@ -6369,7 +6369,42 @@
       "transliteration": "Gaitirthu, endurtekið thadh?",
       "category": "Basic Phrases",
       "generated_at": "2026-07-26T20:55:26.247117"
+    },
+    {
+      "english": "Sky, painted with sunset hues.",
+      "icelandic": "Himinn, málaður með sólseturslitum.",
+      "transliteration": "Him-inn, maa-la-thur meth sohl-set-urs-lee-tum.",
+      "category": "Weather",
+      "generated_at": "2026-07-27T01:47:19.541105"
+    },
+    {
+      "english": "A whisper, of a coming storm.",
+      "icelandic": "Hvíslað, um komandi óveður.",
+      "transliteration": "Hwees-lath, um kom-an-dee oh-veh-thur.",
+      "category": "Weather",
+      "generated_at": "2026-07-27T01:47:19.541115"
+    },
+    {
+      "english": "Sunlight, warming the frozen ground.",
+      "icelandic": "Sólar, léttir á festri jörðu.",
+      "transliteration": "Soh-lar, lyet-tir ah fest-ri yur-thoo.",
+      "category": "Weather",
+      "generated_at": "2026-07-27T01:47:19.541117"
+    },
+    {
+      "english": "Drizzle, kissing the rooftops.",
+      "icelandic": "Tjald, kyssir þökurnar.",
+      "transliteration": "Chald, kis-sir thuh-kur-nar.",
+      "category": "Weather",
+      "generated_at": "2026-07-27T01:47:19.541118"
+    },
+    {
+      "english": "Wind, singing through the pines.",
+      "icelandic": "Vindur, syngur í gegnum pinna.",
+      "transliteration": "Vin-dur, sing-ur ee gyeg-num pin-na.",
+      "category": "Weather",
+      "generated_at": "2026-07-27T01:47:19.541119"
     }
   ],
-  "last_updated": "2026-07-26T20:55:26.247119"
+  "last_updated": "2026-07-27T01:47:19.541121"
 }
