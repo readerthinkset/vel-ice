@@ -6754,7 +6754,42 @@
       "transliteration": "Awr-steeth-ir-nar, snoo-ast, en-da-laust.",
       "category": "Time",
       "generated_at": "2026-07-30T18:20:18.153939"
+    },
+    {
+      "english": "Mountain mist, hugs the peaks.",
+      "icelandic": "Fjalladögg, faðmar tindana.",
+      "transliteration": "Fjad-luh-deg, fahd-mahr tin-dah-nah.",
+      "category": "Nature",
+      "generated_at": "2026-07-30T21:06:09.251444"
+    },
+    {
+      "english": "Wild berries, stain the fingers.",
+      "icelandic": "Villiber, lita fingurna.",
+      "transliteration": "Vil-lih-ber, lih-tah fing-ur-nah.",
+      "category": "Nature",
+      "generated_at": "2026-07-30T21:06:09.251454"
+    },
+    {
+      "english": "Arctic fox, treads softly.",
+      "icelandic": "Bjartör, gengur létt.",
+      "transliteration": "Byart-ur, geng-ur lyeht.",
+      "category": "Nature",
+      "generated_at": "2026-07-30T21:06:09.251456"
+    },
+    {
+      "english": "Puffins dive, beneath the waves.",
+      "icelandic": "Lundi kafar, undir öldum.",
+      "transliteration": "Lun-dih kah-far, un-dir ul-dum.",
+      "category": "Nature",
+      "generated_at": "2026-07-30T21:06:09.251457"
+    },
+    {
+      "english": "Seabirds cry, sharp notes.",
+      "icelandic": "Fuglar kalla, hvassar tónar.",
+      "transliteration": "Fug-lar kal-la, hvah-sar toh-nar.",
+      "category": "Nature",
+      "generated_at": "2026-07-30T21:06:09.251459"
     }
   ],
-  "last_updated": "2026-07-30T18:20:18.153941"
+  "last_updated": "2026-07-30T21:06:09.251461"
 }
