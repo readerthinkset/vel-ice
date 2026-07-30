@@ -6649,7 +6649,42 @@
       "transliteration": "Thessi litur, sker sig ur.",
       "category": "Shopping",
       "generated_at": "2026-07-29T20:52:57.214673"
+    },
+    {
+      "english": "One moment, please. ... Then, another.",
+      "icelandic": "Eina stund, vinsamlegast. ... Svo, aðra.",
+      "transliteration": "Eina stund, vinsamlegast. ... So, athra.",
+      "category": "Numbers",
+      "generated_at": "2026-07-30T01:14:28.457151"
+    },
+    {
+      "english": "Two hands, busy. ... One resting.",
+      "icelandic": "Tvær hendur, uppteknar. ... Ein í hvíld.",
+      "transliteration": "Tvær hendur, uppteknar. ... Ein ee hveeld.",
+      "category": "Numbers",
+      "generated_at": "2026-07-30T01:14:28.457162"
+    },
+    {
+      "english": "Three coins, jingling. ... Added one.",
+      "icelandic": "Þrjár myntir, skelltu. ... Bætt við eina.",
+      "transliteration": "Threer mintir, skeltyu. ... Bethat veed eina.",
+      "category": "Numbers",
+      "generated_at": "2026-07-30T01:14:28.457164"
+    },
+    {
+      "english": "Four seasons, turning. ... Winter's coming.",
+      "icelandic": "Fjóra árstíðir, snúast. ... Vetrar kemur.",
+      "transliteration": "Fjora aar-stithir, snoo-ast. ... Vet-rar kem-ur.",
+      "category": "Numbers",
+      "generated_at": "2026-07-30T01:14:28.457165"
+    },
+    {
+      "english": "Five senses, awaken. ... Smell the air.",
+      "icelandic": "Fimm skynfæri, vakna. ... Andaðu loft.",
+      "transliteration": "Fimm skin-fyri, vak-na. ... An-da-thoo loft.",
+      "category": "Numbers",
+      "generated_at": "2026-07-30T01:14:28.457166"
     }
   ],
-  "last_updated": "2026-07-29T20:52:57.214675"
+  "last_updated": "2026-07-30T01:14:28.457168"
 }
