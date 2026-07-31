@@ -6894,7 +6894,42 @@
       "transliteration": "Andi thinn, skeeneer soe bjart.",
       "category": "Gratitude",
       "generated_at": "2026-07-31T18:23:59.506956"
+    },
+    {
+      "english": "Uh oh, a problem, here.",
+      "icelandic": "Úff, vandamál, hérna.",
+      "transliteration": "Ooff, van-da-maul, hyer-na.",
+      "category": "Emergency",
+      "generated_at": "2026-07-31T21:01:51.967333"
+    },
+    {
+      "english": "Quick, a helper, please.",
+      "icelandic": "Hraðar, hjálp, takk.",
+      "transliteration": "Hra-dar, hyalp, tak.",
+      "category": "Emergency",
+      "generated_at": "2026-07-31T21:01:51.967343"
+    },
+    {
+      "english": "Something's wrong, totally.",
+      "icelandic": "Eitthvað er að, algjörlega.",
+      "transliteration": "Ey-thvad er ath, al-gyer-le-ga.",
+      "category": "Emergency",
+      "generated_at": "2026-07-31T21:01:51.967345"
+    },
+    {
+      "english": "I need to signal, now.",
+      "icelandic": "Ég þarf að gefa merki, núna.",
+      "transliteration": "Yeg th-arf ath ghev-a mer-ki, nu-na.",
+      "category": "Emergency",
+      "generated_at": "2026-07-31T21:01:51.967346"
+    },
+    {
+      "english": "My body, feels bad.",
+      "icelandic": "Líkami minn, líður illa.",
+      "transliteration": "Lee-ka-mi min, lee-thur il-la.",
+      "category": "Emergency",
+      "generated_at": "2026-07-31T21:01:51.967348"
     }
   ],
-  "last_updated": "2026-07-31T18:23:59.506957"
+  "last_updated": "2026-07-31T21:01:51.967349"
 }
