@@ -7209,7 +7209,42 @@
       "transliteration": "Thes-see slohth, lay-theer ow-fram.",
       "category": "Basic Phrases",
       "generated_at": "2026-08-02T18:03:06.250508"
+    },
+    {
+      "english": "The small bird, sings beautifully.",
+      "icelandic": "Lítið fugl, syngur fallega.",
+      "transliteration": "Lee-tit foo-tl, sing-ur fal-leh-ga.",
+      "category": "Animals",
+      "generated_at": "2026-08-02T20:51:59.789647"
+    },
+    {
+      "english": "A lazy cat, naps all day.",
+      "icelandic": "Löt lat, sefur allan daginn.",
+      "transliteration": "Luht lat, seh-vur al-lan da-yin.",
+      "category": "Animals",
+      "generated_at": "2026-08-02T20:51:59.789657"
+    },
+    {
+      "english": "The quick fox, runs so fast.",
+      "icelandic": "Hinn fljóti refur, hleypur svo hratt.",
+      "transliteration": "Hinn fly-oh-tee reh-fur, hlye-pur svoh hrat.",
+      "category": "Animals",
+      "generated_at": "2026-08-02T20:51:59.789659"
+    },
+    {
+      "english": "A wise owl, watches at night.",
+      "icelandic": "Vitur uglan, vakir á nóttunni.",
+      "transliteration": "Vit-ur ug-lan, va-kir ow noht-tun-nee.",
+      "category": "Animals",
+      "generated_at": "2026-08-02T20:51:59.789660"
+    },
+    {
+      "english": "The playful dog, wags its tail.",
+      "icelandic": "Hinn leikandi hundur, viftar skottinu.",
+      "transliteration": "Hinn lay-kan-dee hun-dur, vif-tar skot-tee-nu.",
+      "category": "Animals",
+      "generated_at": "2026-08-02T20:51:59.789661"
     }
   ],
-  "last_updated": "2026-08-02T18:03:06.250510"
+  "last_updated": "2026-08-02T20:51:59.789663"
 }
