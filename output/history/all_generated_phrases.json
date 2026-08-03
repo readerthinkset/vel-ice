@@ -7384,7 +7384,42 @@
       "transliteration": "Vith bah-rah smel-lum sah-man, ek-ki sat?",
       "category": "Friendship",
       "generated_at": "2026-08-03T18:53:19.170747"
+    },
+    {
+      "english": "This atmosphere, is so warm.",
+      "icelandic": "Þessi stemning, er svo notaleg.",
+      "transliteration": "Thessi stemning, er svo notaleg.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-03T20:59:45.647901"
+    },
+    {
+      "english": "Could, I have the bill?",
+      "icelandic": "Má ég, fá reikninginn?",
+      "transliteration": "Maaeg, faa reikninginn?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-03T20:59:45.647913"
+    },
+    {
+      "english": "A table, by the window?",
+      "icelandic": "Borð, við gluggann?",
+      "transliteration": "Borth, vid gluggann?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-03T20:59:45.647914"
+    },
+    {
+      "english": "What's, the catch of the day?",
+      "icelandic": "Hver er, dagsins ferskur?",
+      "transliteration": "Hver er, dagsins ferskur?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-03T20:59:45.647916"
+    },
+    {
+      "english": "May, I order now?",
+      "icelandic": "Get ég, pantað?",
+      "transliteration": "Get aeg, pantaath?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-03T20:59:45.647917"
     }
   ],
-  "last_updated": "2026-08-03T18:53:19.170749"
+  "last_updated": "2026-08-03T20:59:45.647919"
 }
