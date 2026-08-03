@@ -7314,7 +7314,42 @@
       "transliteration": "Roog-brath, traust ah-ferth.",
       "category": "Food",
       "generated_at": "2026-08-03T10:13:21.083445"
+    },
+    {
+      "english": "Breathe in, speak out.",
+      "icelandic": "Anda inn, tala út.",
+      "transliteration": "Anda in, tala ut.",
+      "category": "Education",
+      "generated_at": "2026-08-03T16:31:10.833092"
+    },
+    {
+      "english": "Listen, understand, then try.",
+      "icelandic": "Hlustaðu, skildu, reyndu svo.",
+      "transliteration": "Hlustathou, skilthou, reyntou so.",
+      "category": "Education",
+      "generated_at": "2026-08-03T16:31:10.833103"
+    },
+    {
+      "english": "Icelandic rhythm, find your beat.",
+      "icelandic": "Íslenski takturinn, finndu þinn takt.",
+      "transliteration": "Islenski takturinn, finnthou thinn takt.",
+      "category": "Education",
+      "generated_at": "2026-08-03T16:31:10.833105"
+    },
+    {
+      "english": "Small steps, big journey.",
+      "icelandic": "Smá skref, stór ferð.",
+      "transliteration": "Smaa skref, stoor ferth.",
+      "category": "Education",
+      "generated_at": "2026-08-03T16:31:10.833107"
+    },
+    {
+      "english": "Unlock meaning, one sound.",
+      "icelandic": "Opna merkingu, hljóð eitt.",
+      "transliteration": "Opna merkingou, hlyou eitt.",
+      "category": "Education",
+      "generated_at": "2026-08-03T16:31:10.833108"
     }
   ],
-  "last_updated": "2026-08-03T10:13:21.083446"
+  "last_updated": "2026-08-03T16:31:10.833110"
 }
