@@ -7524,7 +7524,42 @@
       "transliteration": "Sait-doo thessa set-ning-oo, meth til-fin-ning-oo.",
       "category": "Directions",
       "generated_at": "2026-08-04T16:16:19.861696"
+    },
+    {
+      "english": "Focus, breathe, then move.",
+      "icelandic": "Einbeittu þér, andaðu, hreyfðu þig svo.",
+      "transliteration": "Ein-beyt-thér, an-da-thu, hreyf-thu-thig soth.",
+      "category": "Sports",
+      "generated_at": "2026-08-04T18:41:29.220389"
+    },
+    {
+      "english": "Every step, counts.",
+      "icelandic": "Hvert skref, skiptir máli.",
+      "transliteration": "Hvert skref, skipt-ir ma-li.",
+      "category": "Sports",
+      "generated_at": "2026-08-04T18:41:29.220403"
+    },
+    {
+      "english": "Victory, is earned.",
+      "icelandic": "Sigur, er unnin.",
+      "transliteration": "Sig-ur, er unnin.",
+      "category": "Sports",
+      "generated_at": "2026-08-04T18:41:29.220405"
+    },
+    {
+      "english": "Listen to your body, carefully.",
+      "icelandic": "Hlustaðu á líkamann, gaumgæfilega.",
+      "transliteration": "Hlus-ta-thu a li-ka-man, gaum-gai-fa-lega.",
+      "category": "Sports",
+      "generated_at": "2026-08-04T18:41:29.220406"
+    },
+    {
+      "english": "The game, is on.",
+      "icelandic": "Leikurinn, er hafinn.",
+      "transliteration": "Leik-ur-inn, er ha-finn.",
+      "category": "Sports",
+      "generated_at": "2026-08-04T18:41:29.220408"
     }
   ],
-  "last_updated": "2026-08-04T16:16:19.861698"
+  "last_updated": "2026-08-04T18:41:29.220410"
 }
