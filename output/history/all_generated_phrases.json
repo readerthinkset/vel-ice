@@ -7489,7 +7489,42 @@
       "transliteration": "Thín kyrrláta nærvera, róar.",
       "category": "Relationships",
       "generated_at": "2026-08-04T14:29:16.675421"
+    },
+    {
+      "english": "Let's try a new angle, shall we?",
+      "icelandic": "Prófum nýja nálgun, ekki satt?",
+      "transliteration": "Prou-vum nee-va naul-gun, net-ti sat?",
+      "category": "Directions",
+      "generated_at": "2026-08-04T16:16:19.861684"
+    },
+    {
+      "english": "Imagine that sound, softly.",
+      "icelandic": "Ímyndaðu þér það hljóð, mjúklega.",
+      "transliteration": "Ee-me-da-du thair thaid hly-ood, myoo-kle-ga.",
+      "category": "Directions",
+      "generated_at": "2026-08-04T16:16:19.861692"
+    },
+    {
+      "english": "Whisper this sentence, gently.",
+      "icelandic": "Hvíslar þessa setningu, varlega.",
+      "transliteration": "Kvee-slar thessa set-ning-oo, var-la-ga.",
+      "category": "Directions",
+      "generated_at": "2026-08-04T16:16:19.861694"
+    },
+    {
+      "english": "Pause and reflect, deeply.",
+      "icelandic": "Gerðu hlé og íhugaðu, djúpt.",
+      "transliteration": "Ger-doo hlay o ee-hoo-ga-doo, dyooppt.",
+      "category": "Directions",
+      "generated_at": "2026-08-04T16:16:19.861695"
+    },
+    {
+      "english": "Speak this phrase, with feeling.",
+      "icelandic": "Segðu þessa setningu, með tilfinningu.",
+      "transliteration": "Sait-doo thessa set-ning-oo, meth til-fin-ning-oo.",
+      "category": "Directions",
+      "generated_at": "2026-08-04T16:16:19.861696"
     }
   ],
-  "last_updated": "2026-08-04T14:29:16.675423"
+  "last_updated": "2026-08-04T16:16:19.861698"
 }
