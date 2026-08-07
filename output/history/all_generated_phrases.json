@@ -7839,7 +7839,42 @@
       "transliteration": "Fest-u on-di-na, rees ro-le-ga.",
       "category": "Balance",
       "generated_at": "2026-08-06T22:42:45.708743"
+    },
+    {
+      "english": "A breath of cold, fills the air.",
+      "icelandic": "Kuldakafinn, fyllir loftið.",
+      "transliteration": "Kuld-ah-kaf-in, fil-lir lof-tid.",
+      "category": "Weather",
+      "generated_at": "2026-08-07T00:52:20.602011"
+    },
+    {
+      "english": "Sunlight, like spilled honey.",
+      "icelandic": "Sólin, eins og hunang.",
+      "transliteration": "Soh-lin, eins og hun-ang.",
+      "category": "Weather",
+      "generated_at": "2026-08-07T00:52:20.602023"
+    },
+    {
+      "english": "Distant thunder, a low rumble.",
+      "icelandic": "Fjarlægt þrumur, lágt hljóð.",
+      "transliteration": "Fjar-laitk thrum-ur, laught hly-oth.",
+      "category": "Weather",
+      "generated_at": "2026-08-07T00:52:20.602025"
+    },
+    {
+      "english": "The air, sharp and clear.",
+      "icelandic": "Loftið, skarpt og bjart.",
+      "transliteration": "Lof-tid, skarp-t og bjart.",
+      "category": "Weather",
+      "generated_at": "2026-08-07T00:52:20.602026"
+    },
+    {
+      "english": "A sudden squall, hits the coast.",
+      "icelandic": "Skyndilegt rok, kemur á ströndina.",
+      "transliteration": "Skyn-di-leight rok, kem-ur ah strond-i-na.",
+      "category": "Weather",
+      "generated_at": "2026-08-07T00:52:20.602027"
     }
   ],
-  "last_updated": "2026-08-06T22:42:45.708745"
+  "last_updated": "2026-08-07T00:52:20.602029"
 }
