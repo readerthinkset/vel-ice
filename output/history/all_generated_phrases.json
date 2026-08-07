@@ -7909,7 +7909,42 @@
       "transliteration": "Kluk-kuh-stund-in, naal-gast, lohk-sins.",
       "category": "Time",
       "generated_at": "2026-08-07T01:59:52.782025"
+    },
+    {
+      "english": "Forest canopy, filters light.",
+      "icelandic": "Skógþak, síar ljós.",
+      "transliteration": "Skog-thak, see-ar ly-os.",
+      "category": "Nature",
+      "generated_at": "2026-08-07T13:15:05.763164"
+    },
+    {
+      "english": "Tiny flower, blooms bravely.",
+      "icelandic": "Lítill blóm, blómstrar hugrökk.",
+      "transliteration": "Lee-til blohm, blohm-strar hug-rock.",
+      "category": "Nature",
+      "generated_at": "2026-08-07T13:15:05.763172"
+    },
+    {
+      "english": "Smooth stones, line the shore.",
+      "icelandic": "Sléttir steinar, liggja á strönd.",
+      "transliteration": "Slett-ir stei-nar, lig-ja ah stond.",
+      "category": "Nature",
+      "generated_at": "2026-08-07T13:15:05.763174"
+    },
+    {
+      "english": "Distant peak, touches clouds.",
+      "icelandic": "Fjarlæg tind, snertir ský.",
+      "transliteration": "Fyar-laig tind, snert-ir skye.",
+      "category": "Nature",
+      "generated_at": "2026-08-07T13:15:05.763176"
+    },
+    {
+      "english": "Cool stream, rushes past.",
+      "icelandic": "Kalt lækur, streymir framhjá.",
+      "transliteration": "Kalt ly-kur, strey-mir fram-hy-ah.",
+      "category": "Nature",
+      "generated_at": "2026-08-07T13:15:05.763177"
     }
   ],
-  "last_updated": "2026-08-07T01:59:52.782027"
+  "last_updated": "2026-08-07T13:15:05.763178"
 }
