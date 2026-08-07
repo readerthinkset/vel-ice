@@ -7874,7 +7874,42 @@
       "transliteration": "Skyn-di-leight rok, kem-ur ah strond-i-na.",
       "category": "Weather",
       "generated_at": "2026-08-07T00:52:20.602027"
+    },
+    {
+      "english": "The quiet hours, stretch ahead.",
+      "icelandic": "Hinir rólegu tímar, teygja sig áfram.",
+      "transliteration": "Hinir roo-legu tee-mar, tey-gia sig aa-fram.",
+      "category": "Time",
+      "generated_at": "2026-08-07T01:59:52.782011"
+    },
+    {
+      "english": "A fleeting glance, then gone.",
+      "icelandic": "Fljótt augnakast, svo horfið.",
+      "transliteration": "Flioht ow-gna-kast, svo hor-fith.",
+      "category": "Time",
+      "generated_at": "2026-08-07T01:59:52.782021"
+    },
+    {
+      "english": "Slowly, the day unfolds.",
+      "icelandic": "Hægt, dagurinn opnast.",
+      "transliteration": "Hait, da-gur-inn op-nast.",
+      "category": "Time",
+      "generated_at": "2026-08-07T01:59:52.782023"
+    },
+    {
+      "english": "Just a moment, you see.",
+      "icelandic": "Bara stund, sérðu.",
+      "transliteration": "Ba-ra stund, seer-thoo.",
+      "category": "Time",
+      "generated_at": "2026-08-07T01:59:52.782024"
+    },
+    {
+      "english": "The hour, approaches, finally.",
+      "icelandic": "Klukkustundin, nálgast, loksins.",
+      "transliteration": "Kluk-kuh-stund-in, naal-gast, lohk-sins.",
+      "category": "Time",
+      "generated_at": "2026-08-07T01:59:52.782025"
     }
   ],
-  "last_updated": "2026-08-07T00:52:20.602029"
+  "last_updated": "2026-08-07T01:59:52.782027"
 }
