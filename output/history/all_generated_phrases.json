@@ -8224,7 +8224,42 @@
       "transliteration": "Rusk-ur gang-ur, er nauth-sin-leh-gur.",
       "category": "Basic Phrases",
       "generated_at": "2026-08-08T20:25:17.758615"
+    },
+    {
+      "english": "The mighty bear, roars in the forest.",
+      "icelandic": "Öflugur björninn, öskrar í skóginum.",
+      "transliteration": "Oof-lig-ur byorn-in, osk-rar i skog-in-um.",
+      "category": "Animals",
+      "generated_at": "2026-08-09T00:46:13.755127"
+    },
+    {
+      "english": "A swift deer, leaps through the meadow.",
+      "icelandic": "Hraður hjartardýr, stekkur um engin.",
+      "transliteration": "Hra-ður hyart-ar-dyr, stek-kur um en-gin.",
+      "category": "Animals",
+      "generated_at": "2026-08-09T00:46:13.755140"
+    },
+    {
+      "english": "The silent snake, slithers on the ground.",
+      "icelandic": "Hljóður höggormur, skríður á jörðinni.",
+      "transliteration": "Hlyo-ður hog-gorm-ur, skri-ður a yord-in-ni.",
+      "category": "Animals",
+      "generated_at": "2026-08-09T00:46:13.755141"
+    },
+    {
+      "english": "A curious mouse, peeks from the hole.",
+      "icelandic": "Forvitinn mús, kíkir úr holunni.",
+      "transliteration": "For-vit-in mys, ki-kir ur hol-un-ni.",
+      "category": "Animals",
+      "generated_at": "2026-08-09T00:46:13.755142"
+    },
+    {
+      "english": "The proud lion, surveys its kingdom.",
+      "icelandic": "Stolt ljónið, skoðar ríki sitt.",
+      "transliteration": "Stolt lyon-ith, sko-dar ri-ki sit.",
+      "category": "Animals",
+      "generated_at": "2026-08-09T00:46:13.755143"
     }
   ],
-  "last_updated": "2026-08-08T20:25:17.758617"
+  "last_updated": "2026-08-09T00:46:13.755144"
 }
