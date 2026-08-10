@@ -8399,7 +8399,42 @@
       "transliteration": "Thoo ert, meen kirra frithur.",
       "category": "Love",
       "generated_at": "2026-08-09T20:28:14.030984"
+    },
+    {
+      "english": "This place, smells wonderful.",
+      "icelandic": "Þessi staður, ilmar dásamlega.",
+      "transliteration": "Thessi stathur, ilmar thasama.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-10T00:47:42.176684"
+    },
+    {
+      "english": "What, is that dish?",
+      "icelandic": "Hvað, er þetta réttur?",
+      "transliteration": "Hva, er thetta retur?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-10T00:47:42.176698"
+    },
+    {
+      "english": "A table, for one, tonight.",
+      "icelandic": "Borð, fyrir einn, í kvöld.",
+      "transliteration": "Borth, fyrir einn, i kvold.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-10T00:47:42.176700"
+    },
+    {
+      "english": "Could we, see the wine list?",
+      "icelandic": "Getum við, séð vínlistann?",
+      "transliteration": "Getum vid, sed vinlistann?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-10T00:47:42.176701"
+    },
+    {
+      "english": "This bread, is so fresh.",
+      "icelandic": "Þetta brauð, er svo ferskt.",
+      "transliteration": "Thetta brauth, er so ferskt.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-10T00:47:42.176702"
     }
   ],
-  "last_updated": "2026-08-09T20:28:14.030985"
+  "last_updated": "2026-08-10T00:47:42.176704"
 }
