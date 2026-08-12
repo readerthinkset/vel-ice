@@ -8749,7 +8749,42 @@
       "transliteration": "Sye-tar stoond-ir, til ahd gey-ma.",
       "category": "Holidays",
       "generated_at": "2026-08-11T20:39:37.173587"
+    },
+    {
+      "english": "My breathing, is difficult.",
+      "icelandic": "Öndunin, mín er erfið.",
+      "transliteration": "Ondun-in, meen eh-r-fith.",
+      "category": "Emergency",
+      "generated_at": "2026-08-12T00:54:34.201682"
+    },
+    {
+      "english": "Someone, is hurt, badly.",
+      "icelandic": "Einhver, er særður, illa.",
+      "transliteration": "Eyhn-ver, eh-r sae-rth-ur, ill-a.",
+      "category": "Emergency",
+      "generated_at": "2026-08-12T00:54:34.201693"
+    },
+    {
+      "english": "This is, a serious issue.",
+      "icelandic": "Þetta er, mikið mál.",
+      "transliteration": "Thet-ta eh-r, mich-it maul.",
+      "category": "Emergency",
+      "generated_at": "2026-08-12T00:54:34.201705"
+    },
+    {
+      "english": "I cannot, move, at all.",
+      "icelandic": "Ég get, ekki hreyft, mig.",
+      "transliteration": "Yeh geht, ehk-ki hrayft, meh.",
+      "category": "Emergency",
+      "generated_at": "2026-08-12T00:54:34.201707"
+    },
+    {
+      "english": "We need, immediate, attention.",
+      "icelandic": "Við þurfum, tafarlaust, við.",
+      "transliteration": "Vith thur-fum, taf-ar-laust, vith.",
+      "category": "Emergency",
+      "generated_at": "2026-08-12T00:54:34.201708"
     }
   ],
-  "last_updated": "2026-08-11T20:39:37.173588"
+  "last_updated": "2026-08-12T00:54:34.201709"
 }
