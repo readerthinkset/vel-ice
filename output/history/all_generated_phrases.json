@@ -8889,7 +8889,42 @@
       "transliteration": "VEHRT-too VIH-tin, oom MIHL-dahn STIRK.",
       "category": "Positive Life",
       "generated_at": "2026-08-13T00:56:10.309937"
+    },
+    {
+      "english": "Your Icelandic voice, it's finding its song.",
+      "icelandic": "Þinn íslenski rödd, hún finnur lag sitt.",
+      "transliteration": "Thin islendski rotth, hune finnur lag sitt.",
+      "category": "Confidence",
+      "generated_at": "2026-08-13T13:23:32.981752"
+    },
+    {
+      "english": "Every attempt, a brave new step.",
+      "icelandic": "Hver tilraun, djarft nýtt skref.",
+      "transliteration": "Kver til-raun, djarft nitt skref.",
+      "category": "Confidence",
+      "generated_at": "2026-08-13T13:23:32.981763"
+    },
+    {
+      "english": "Listen to the whispers, of new words.",
+      "icelandic": "Hlustaðu á hvíslin, nýju orðanna.",
+      "transliteration": "Hlust-ath-oo o hvees-lin, new-oo or-thanna.",
+      "category": "Confidence",
+      "generated_at": "2026-08-13T13:23:32.981764"
+    },
+    {
+      "english": "Feel the rhythm, of Icelandic speech.",
+      "icelandic": "Finndu taktfasta, íslenskrar talar.",
+      "transliteration": "Fint-thoo tak-tfasta, islendskrar tal-ar.",
+      "category": "Confidence",
+      "generated_at": "2026-08-13T13:23:32.981765"
+    },
+    {
+      "english": "Your efforts, they build your skill.",
+      "icelandic": "Áreynsla þín, hún byggir kunnáttu.",
+      "transliteration": "Areynsla theen, hune bittir kunn-att-oo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-13T13:23:32.981766"
     }
   ],
-  "last_updated": "2026-08-13T00:56:10.309939"
+  "last_updated": "2026-08-13T13:23:32.981767"
 }
