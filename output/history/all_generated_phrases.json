@@ -8924,7 +8924,42 @@
       "transliteration": "Areynsla theen, hune bittir kunn-att-oo.",
       "category": "Confidence",
       "generated_at": "2026-08-13T13:23:32.981766"
+    },
+    {
+      "english": "One moment, then two.",
+      "icelandic": "Eitt augnablik, svo tvö.",
+      "transliteration": "Eht ow-gnab-lik, svo tvö.",
+      "category": "Numbers",
+      "generated_at": "2026-08-13T17:59:56.055554"
+    },
+    {
+      "english": "Three cheers, for us.",
+      "icelandic": "Þrjár cheers, fyrir okkur.",
+      "transliteration": "Throh-ar cheers, fir-ir ok-kur.",
+      "category": "Numbers",
+      "generated_at": "2026-08-13T17:59:56.055566"
+    },
+    {
+      "english": "Four wheels, moving slow.",
+      "icelandic": "Fjórir hjólar, hreyfast hægt.",
+      "transliteration": "Fio-rir hio-lar, hrey-fast hahkt.",
+      "category": "Numbers",
+      "generated_at": "2026-08-13T17:59:56.055568"
+    },
+    {
+      "english": "Five birds, on a wire.",
+      "icelandic": "Fimm fuglar, á snúru.",
+      "transliteration": "Fim fug-lar, ow snu-ru.",
+      "category": "Numbers",
+      "generated_at": "2026-08-13T17:59:56.055569"
+    },
+    {
+      "english": "Six shades, of grey.",
+      "icelandic": "Sex skuggar, af gráu.",
+      "transliteration": "Sex skug-gar, af gra-oo.",
+      "category": "Numbers",
+      "generated_at": "2026-08-13T17:59:56.055570"
     }
   ],
-  "last_updated": "2026-08-13T13:23:32.981767"
+  "last_updated": "2026-08-13T17:59:56.055572"
 }
