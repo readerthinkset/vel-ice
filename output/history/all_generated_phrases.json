@@ -9414,7 +9414,42 @@
       "transliteration": "Thet-ta oy-gna-blik, noo-na.",
       "category": "Time",
       "generated_at": "2026-08-16T14:29:03.104772"
+    },
+    {
+      "english": "Your strong legs, carry you forward.",
+      "icelandic": "Sterkar fæturnar þínar, bera þig áfram.",
+      "transliteration": "Ster-kar fey-tur-nar thin-ar, ber-a thig ah-fram.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-16T17:23:37.526419"
+    },
+    {
+      "english": "The back, supports your posture.",
+      "icelandic": "Bakið, styður líkamsstöðu þína.",
+      "transliteration": "Bah-kith, stith-ur leek-ahms-stoth-oo thina.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-16T17:23:37.526427"
+    },
+    {
+      "english": "Fingers, so nimble and quick.",
+      "icelandic": "Fingur, svo fimir og fljótir.",
+      "transliteration": "Fing-ur, svo fim-ir og flio-tir.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-16T17:23:37.526429"
+    },
+    {
+      "english": "Taste the sweet, with your tongue.",
+      "icelandic": "Smakktu á sætu, með tungunni.",
+      "transliteration": "Smah-kttoo ah sy-too, meth toong-oon-ni.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-16T17:23:37.526431"
+    },
+    {
+      "english": "A warm hug, from your arms.",
+      "icelandic": "Heitt faðmlag, frá handleggjunum þínum.",
+      "transliteration": "Heyt fahd-mlahg, frah hahn-dleg-joon-um theen-um.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-16T17:23:37.526432"
     }
   ],
-  "last_updated": "2026-08-16T14:29:03.104774"
+  "last_updated": "2026-08-16T17:23:37.526434"
 }
