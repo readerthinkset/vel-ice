@@ -9379,7 +9379,42 @@
       "transliteration": "Við leggjum, nýja stefnu.",
       "category": "Work",
       "generated_at": "2026-08-16T12:48:07.903226"
+    },
+    {
+      "english": "Every minute, matters.",
+      "icelandic": "Hver mínúta, skiptir máli.",
+      "transliteration": "Kver mee-noo-ta, skipt-ir mau-li.",
+      "category": "Time",
+      "generated_at": "2026-08-16T14:29:03.104756"
+    },
+    {
+      "english": "Just a breath, then action.",
+      "icelandic": "Bara andardráttur, svo aðgerð.",
+      "transliteration": "Ba-ra an-dar-drat-tur, svo at-gerth.",
+      "category": "Time",
+      "generated_at": "2026-08-16T14:29:03.104767"
+    },
+    {
+      "english": "The past, whispers softly.",
+      "icelandic": "Fortíðin, hvíslaði blítt.",
+      "transliteration": "For-tee-thin, kvis-lah-thi bleet.",
+      "category": "Time",
+      "generated_at": "2026-08-16T14:29:03.104769"
+    },
+    {
+      "english": "Future, still unwritten.",
+      "icelandic": "Framtíðin, óskrifuð enn.",
+      "transliteration": "Fram-tee-thin, oh-skree-futh en.",
+      "category": "Time",
+      "generated_at": "2026-08-16T14:29:03.104771"
+    },
+    {
+      "english": "This instant, truly now.",
+      "icelandic": "Þetta augnablik, núna.",
+      "transliteration": "Thet-ta oy-gna-blik, noo-na.",
+      "category": "Time",
+      "generated_at": "2026-08-16T14:29:03.104772"
     }
   ],
-  "last_updated": "2026-08-16T12:48:07.903228"
+  "last_updated": "2026-08-16T14:29:03.104774"
 }
