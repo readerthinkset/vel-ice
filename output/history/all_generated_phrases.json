@@ -9624,7 +9624,42 @@
       "transliteration": "May-eer drigh-mar fli-oo-ga, ee dag.",
       "category": "Holidays",
       "generated_at": "2026-08-17T17:30:30.778000"
+    },
+    {
+      "english": "A tiny bee, buzzes by the flowers.",
+      "icelandic": "Lítil býfluga, svífur hjá blómunum.",
+      "transliteration": "Lit-il bee-floo-ga, svee-vur hy-a bloo-mun-um.",
+      "category": "Animals",
+      "generated_at": "2026-08-17T20:22:49.729661"
+    },
+    {
+      "english": "The brave whale, breaches in the ocean.",
+      "icelandic": "Hinn hugrakki hvalur, stekkur í hafinu.",
+      "transliteration": "Hin hoo-grak-ki hval-ur, stek-kur ee ha-vi-nu.",
+      "category": "Animals",
+      "generated_at": "2026-08-17T20:22:49.729670"
+    },
+    {
+      "english": "A sleek seal, glides through the water.",
+      "icelandic": "Snyrtilegt sel, rennir sér um vatnið.",
+      "transliteration": "Snyr-ti-legt sel, ren-nir ser um vat-nid.",
+      "category": "Animals",
+      "generated_at": "2026-08-17T20:22:49.729672"
+    },
+    {
+      "english": "The majestic eagle, soars overhead.",
+      "icelandic": "Háðfuglinn glæsilegi, flýgur hátt yfir.",
+      "transliteration": "Hau-fught-linn glae-si-le-gi, flee-gur hautt ee-vir.",
+      "category": "Animals",
+      "generated_at": "2026-08-17T20:22:49.729673"
+    },
+    {
+      "english": "A gentle sheep, grazes on the hillside.",
+      "icelandic": "Mjúk kind, beitir á hlíðinni.",
+      "transliteration": "Myook-k tend, bey-tir au hlee-thin-nee.",
+      "category": "Animals",
+      "generated_at": "2026-08-17T20:22:49.729675"
     }
   ],
-  "last_updated": "2026-08-17T17:30:30.778002"
+  "last_updated": "2026-08-17T20:22:49.729676"
 }
