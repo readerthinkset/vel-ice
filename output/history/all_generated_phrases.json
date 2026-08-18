@@ -9764,7 +9764,42 @@
       "transliteration": "Hafith, kallar a mig.",
       "category": "Basic Phrases",
       "generated_at": "2026-08-18T14:39:26.460350"
+    },
+    {
+      "english": "A brisk wind, whips the waves.",
+      "icelandic": "Hvass vindur, þeytir öldunum.",
+      "transliteration": "Hvas vind-oor, they-tir ol-doo-room.",
+      "category": "Weather",
+      "generated_at": "2026-08-18T17:36:13.974937"
+    },
+    {
+      "english": "The air, smells of sea salt.",
+      "icelandic": "Loftið, ilmar af sjávarseltu.",
+      "transliteration": "Loft-it, il-mar af si-a-var-sel-tu.",
+      "category": "Weather",
+      "generated_at": "2026-08-18T17:36:13.974947"
+    },
+    {
+      "english": "Sunlight, paints the hills, gold.",
+      "icelandic": "Sólin, málar hæðirnar, gulli.",
+      "transliteration": "So-lin, ma-lar hai-thir-nar, gut-li.",
+      "category": "Weather",
+      "generated_at": "2026-08-18T17:36:13.974949"
+    },
+    {
+      "english": "A soft shower, wets the moss.",
+      "icelandic": "Mild stelpa, vætir mosa.",
+      "transliteration": "Mild stel-pa, vai-tir mo-sa.",
+      "category": "Weather",
+      "generated_at": "2026-08-18T17:36:13.974951"
+    },
+    {
+      "english": "Dewdrops, glisten, on the grass.",
+      "icelandic": "Daggardropar, glitra, á grasinu.",
+      "transliteration": "Dag-gar-dro-par, glit-ra, au gras-in-u.",
+      "category": "Weather",
+      "generated_at": "2026-08-18T17:36:13.974952"
     }
   ],
-  "last_updated": "2026-08-18T14:39:26.460352"
+  "last_updated": "2026-08-18T17:36:13.974954"
 }
