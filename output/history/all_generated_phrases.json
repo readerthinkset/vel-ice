@@ -10744,7 +10744,42 @@
       "transliteration": "SVEIF-la MIHN-dast, FRAHM-fah-reer KAH-la.",
       "category": "Work",
       "generated_at": "2026-08-24T14:49:13.084084"
+    },
+    {
+      "english": "Your sound, taking root.",
+      "icelandic": "Hljóð þitt, græðir sig.",
+      "transliteration": "Hlyowd theet, greh-theer seeg.",
+      "category": "Confidence",
+      "generated_at": "2026-08-24T17:34:30.614758"
+    },
+    {
+      "english": "Whisper it first, then say.",
+      "icelandic": "Hvíslaðu fyrst, segðu svo.",
+      "transliteration": "Hvees-lah-thoo furst, sey-thoo so.",
+      "category": "Confidence",
+      "generated_at": "2026-08-24T17:34:30.614767"
+    },
+    {
+      "english": "Let the sounds, connect.",
+      "icelandic": "Láttu hljóðin, tengjast.",
+      "transliteration": "Lowt-tah hlyow-theen, teng-yast.",
+      "category": "Confidence",
+      "generated_at": "2026-08-24T17:34:30.614769"
+    },
+    {
+      "english": "Every breath, a new chance.",
+      "icelandic": "Hver andardráttur, nýr möguleiki.",
+      "transliteration": "Kver an-dar-drowt-tur, n'yeer mog-oo-lee-key-ki.",
+      "category": "Confidence",
+      "generated_at": "2026-08-24T17:34:30.614770"
+    },
+    {
+      "english": "Feel the pulse, of language.",
+      "icelandic": "Finndu hjartsláttinn, tungumálsins.",
+      "transliteration": "Finn-thoo hyart-slawt-teen, toong-oo-mawls-eens.",
+      "category": "Confidence",
+      "generated_at": "2026-08-24T17:34:30.614771"
     }
   ],
-  "last_updated": "2026-08-24T14:49:13.084086"
+  "last_updated": "2026-08-24T17:34:30.614773"
 }
