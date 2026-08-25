@@ -10849,7 +10849,42 @@
       "transliteration": "Hins vigh-na theen, hee-tar hyar-ta mitt.",
       "category": "Relationships",
       "generated_at": "2026-08-25T00:32:32.216154"
+    },
+    {
+      "english": "Tell me, a secret.",
+      "icelandic": "Segðu mér, leyndarmál.",
+      "transliteration": "Seig-thoo mur, ley-thahr-mahl.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-25T13:01:03.353063"
+    },
+    {
+      "english": "This is, a good start.",
+      "icelandic": "Þetta er, góð byrjun.",
+      "transliteration": "Thet-tah er, goath bir-yoon.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-25T13:01:03.353072"
+    },
+    {
+      "english": "Where does, this road go?",
+      "icelandic": "Hvert fer, þessi vegur?",
+      "transliteration": "Kvurt fer, thess-i veh-gur?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-25T13:01:03.353074"
+    },
+    {
+      "english": "I feel, quite happy.",
+      "icelandic": "Mér líður, ansi vel.",
+      "transliteration": "Myair lee-thur, an-si vel.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-25T13:01:03.353075"
+    },
+    {
+      "english": "Let's find, some shelter.",
+      "icelandic": "Við skulum finna, skjól.",
+      "transliteration": "Vith skoolem fin-nah, skyol.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-25T13:01:03.353076"
     }
   ],
-  "last_updated": "2026-08-25T00:32:32.216156"
+  "last_updated": "2026-08-25T13:01:03.353078"
 }
