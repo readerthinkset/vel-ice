@@ -10989,7 +10989,42 @@
       "transliteration": "Heyt myol-k, drick-kur fir-ir svefn",
       "category": "Food",
       "generated_at": "2026-08-25T20:25:09.463830"
+    },
+    {
+      "english": "My mother, a warm hug.",
+      "icelandic": "Mamma mín, hlý faðmlag.",
+      "transliteration": "Mamma min, hli faðmlag.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-26T00:33:46.195842"
+    },
+    {
+      "english": "My father, steady hands.",
+      "icelandic": "Faðir minn, sterkir hendur.",
+      "transliteration": "Faðir minn, sterkir hendur.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-26T00:33:46.195849"
+    },
+    {
+      "english": "My sister, quick wit.",
+      "icelandic": "Systir mín, fljótt svar.",
+      "transliteration": "Systir min, fljót svar.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-26T00:33:46.195851"
+    },
+    {
+      "english": "My brother, silent strength.",
+      "icelandic": "Bróðir minn, þögul styrkur.",
+      "transliteration": "Bróðir minn, þögul styrkur.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-26T00:33:46.195852"
+    },
+    {
+      "english": "My grandmother, wise counsel.",
+      "icelandic": "Amma mín, vitur ráð.",
+      "transliteration": "Amma min, vitur ráð.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-26T00:33:46.195854"
     }
   ],
-  "last_updated": "2026-08-25T20:25:09.463831"
+  "last_updated": "2026-08-26T00:33:46.195855"
 }
