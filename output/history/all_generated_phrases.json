@@ -11129,7 +11129,42 @@
       "transliteration": "And-ad-u, ath hrain-a loft-in-u.",
       "category": "Directions",
       "generated_at": "2026-08-26T19:07:14.493064"
+    },
+    {
+      "english": "A crisp, dawn pink.",
+      "icelandic": "Djúpur, dögunarrós.",
+      "transliteration": "Joo-pur, doh-gun-rohs.",
+      "category": "Colors",
+      "generated_at": "2026-08-26T22:41:56.721391"
+    },
+    {
+      "english": "Like new spring leaves.",
+      "icelandic": "Eins og ný vorblöð.",
+      "transliteration": "Eens og nee vor-blud.",
+      "category": "Colors",
+      "generated_at": "2026-08-26T22:41:56.721404"
+    },
+    {
+      "english": "The shade of twilight.",
+      "icelandic": "Skuggi kvöldroðans.",
+      "transliteration": "Skug-gi kvuld-ro-thans.",
+      "category": "Colors",
+      "generated_at": "2026-08-26T22:41:56.721406"
+    },
+    {
+      "english": "A gentle, misty grey.",
+      "icelandic": "Hógvær, þokugrár.",
+      "transliteration": "Hohg-vair, thoh-ku-graur.",
+      "category": "Colors",
+      "generated_at": "2026-08-26T22:41:56.721408"
+    },
+    {
+      "english": "The gleam of quartz.",
+      "icelandic": "Glampur kvartss.",
+      "transliteration": "Glam-pur kvartss.",
+      "category": "Colors",
+      "generated_at": "2026-08-26T22:41:56.721409"
     }
   ],
-  "last_updated": "2026-08-26T19:07:14.493066"
+  "last_updated": "2026-08-26T22:41:56.721411"
 }
