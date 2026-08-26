@@ -11094,7 +11094,42 @@
       "transliteration": "An-dathoo freed, an-dathoo eh-va oot.",
       "category": "Balance",
       "generated_at": "2026-08-26T14:50:42.653343"
+    },
+    {
+      "english": "Listen, to the wind's song.",
+      "icelandic": "Hlustaðu, á vindinn syngja.",
+      "transliteration": "Hlust-ad-u, a vin-din sing-ya.",
+      "category": "Directions",
+      "generated_at": "2026-08-26T19:07:14.493049"
+    },
+    {
+      "english": "Feel, the mountain's strength.",
+      "icelandic": "Finnðu, fjallanna styrk.",
+      "transliteration": "Finn-du, fjatl-ann-a stirk.",
+      "category": "Directions",
+      "generated_at": "2026-08-26T19:07:14.493059"
+    },
+    {
+      "english": "Imagine, a quiet forest.",
+      "icelandic": "Ímyndaðu þér, kyrran skóg.",
+      "transliteration": "I-mynd-ad-u thair, kirr-an skog.",
+      "category": "Directions",
+      "generated_at": "2026-08-26T19:07:14.493061"
+    },
+    {
+      "english": "Picture, a flowing river.",
+      "icelandic": "Sjáðu, rennandi á.",
+      "transliteration": "Sya-du, renn-and-i a.",
+      "category": "Directions",
+      "generated_at": "2026-08-26T19:07:14.493063"
+    },
+    {
+      "english": "Breathe, the crisp air.",
+      "icelandic": "Andaðu, að hreina loftinu.",
+      "transliteration": "And-ad-u, ath hrain-a loft-in-u.",
+      "category": "Directions",
+      "generated_at": "2026-08-26T19:07:14.493064"
     }
   ],
-  "last_updated": "2026-08-26T14:50:42.653345"
+  "last_updated": "2026-08-26T19:07:14.493066"
 }
