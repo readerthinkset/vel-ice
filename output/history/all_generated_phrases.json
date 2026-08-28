@@ -11304,7 +11304,42 @@
       "transliteration": "Ur-la-tee, meth au-et-l-oon.",
       "category": "Finance",
       "generated_at": "2026-08-28T01:22:48.818941"
+    },
+    {
+      "english": "A fluffy rabbit, twitches its nose.",
+      "icelandic": "Loðinn kanína, kitlar nef sitt.",
+      "transliteration": "Loth-inn kah-nee-nah, kit-lar nef sitt.",
+      "category": "Animals",
+      "generated_at": "2026-08-28T04:01:14.897410"
+    },
+    {
+      "english": "The sleek otter, dives for fish.",
+      "icelandic": "Hinn glansandi otr, kafar eftir fiski.",
+      "transliteration": "Hin glans-an-dee ot-er, kah-fer eft-eer fisk-ee.",
+      "category": "Animals",
+      "generated_at": "2026-08-28T04:01:14.897420"
+    },
+    {
+      "english": "A busy ant, carries a crumb.",
+      "icelandic": "Örvinnandi maur, ber brauðmola.",
+      "transliteration": "Er-vin-nan-dee ma-ur, ber brauth-mo-la.",
+      "category": "Animals",
+      "generated_at": "2026-08-28T04:01:14.897424"
+    },
+    {
+      "english": "The strong horse, gallops freely.",
+      "icelandic": "Sterki hesturinn, stökkvar frjáls.",
+      "transliteration": "Sterk-ee hest-ur-inn, sturk-var fry-als.",
+      "category": "Animals",
+      "generated_at": "2026-08-28T04:01:14.897425"
+    },
+    {
+      "english": "A tiny frog, croaks by the pond.",
+      "icelandic": "Smá gerðist froskurinn, gurglar við tjörnina.",
+      "transliteration": "Smah gert-ist frosk-ur-inn, gur-glar vith tyorn-in-ah.",
+      "category": "Animals",
+      "generated_at": "2026-08-28T04:01:14.897426"
     }
   ],
-  "last_updated": "2026-08-28T01:22:48.818943"
+  "last_updated": "2026-08-28T04:01:14.897427"
 }
