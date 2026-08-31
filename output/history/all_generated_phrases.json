@@ -11934,7 +11934,42 @@
       "transliteration": "TA-la-ðu MEÐ AN-da-num, EK-ki SKRIFT-in-nee.",
       "category": "Education",
       "generated_at": "2026-08-31T21:49:47.128626"
+    },
+    {
+      "english": "Dawn breaks, softly. Then, light.",
+      "icelandic": "Dögun rís, blíðlega. Svo, ljós.",
+      "transliteration": "Doy-thoun rees, bleeth-leh-gla. So, lyohs.",
+      "category": "Time",
+      "generated_at": "2026-08-31T23:36:22.144205"
+    },
+    {
+      "english": "Midday sun, burns bright. Now.",
+      "icelandic": "Hádegi sól, brennur skært. Nú.",
+      "transliteration": "High-deh-gee sool, bren-nur skyrt. Noo.",
+      "category": "Time",
+      "generated_at": "2026-08-31T23:36:22.144217"
+    },
+    {
+      "english": "Evening comes, slow. Rest awaits.",
+      "icelandic": "Kvöld kemur, hægt. Hvíld bíður.",
+      "transliteration": "Kvoeld keh-mur, highkt. Hveeld bee-thur.",
+      "category": "Time",
+      "generated_at": "2026-08-31T23:36:22.144219"
+    },
+    {
+      "english": "Night falls, deep. Stars appear.",
+      "icelandic": "Nótt læðist, djúpt. Stjörnur birtast.",
+      "transliteration": "Noht lyth-est, dyooppt. Styur-nur beer-tast.",
+      "category": "Time",
+      "generated_at": "2026-08-31T23:36:22.144220"
+    },
+    {
+      "english": "A fleeting thought, gone. Quick.",
+      "icelandic": "Skjótur hugsun, horfin. Fljótt.",
+      "transliteration": "Skyow-toor hoog-soon, hor-veen. Flyohtt.",
+      "category": "Time",
+      "generated_at": "2026-08-31T23:36:22.144221"
     }
   ],
-  "last_updated": "2026-08-31T21:49:47.128628"
+  "last_updated": "2026-08-31T23:36:22.144223"
 }
