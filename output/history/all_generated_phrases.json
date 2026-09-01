@@ -12039,7 +12039,42 @@
       "transliteration": "Sah-gahn meen, birr-yar meth yair.",
       "category": "Love",
       "generated_at": "2026-09-01T17:46:03.310586"
+    },
+    {
+      "english": "Sky, like a bruised plum.",
+      "icelandic": "Himinn, eins og þeyttur plóma.",
+      "transliteration": "Himinn, eins og þeyttur plóma.",
+      "category": "Weather",
+      "generated_at": "2026-09-01T19:48:35.011360"
+    },
+    {
+      "english": "Wind, a playful whisper.",
+      "icelandic": "Vindur, leikandi hvísli.",
+      "transliteration": "Vindur, leikandi hvísli.",
+      "category": "Weather",
+      "generated_at": "2026-09-01T19:48:35.011370"
+    },
+    {
+      "english": "Raindrops, tiny silver beads.",
+      "icelandic": "Regndropar, litlar silfurbjöllur.",
+      "transliteration": "Regndropar, litlar silfurbjöllur.",
+      "category": "Weather",
+      "generated_at": "2026-09-01T19:48:35.011372"
+    },
+    {
+      "english": "Clouds, like cotton candy.",
+      "icelandic": "Ský, eins og sykurull.",
+      "transliteration": "Ský, eins og sykurull.",
+      "category": "Weather",
+      "generated_at": "2026-09-01T19:48:35.011373"
+    },
+    {
+      "english": "Sunlight, a warm embrace.",
+      "icelandic": "Sólarljós, hlý faðmlag.",
+      "transliteration": "Sólarljós, hlý faðmlag.",
+      "category": "Weather",
+      "generated_at": "2026-09-01T19:48:35.011375"
     }
   ],
-  "last_updated": "2026-09-01T17:46:03.310588"
+  "last_updated": "2026-09-01T19:48:35.011376"
 }
