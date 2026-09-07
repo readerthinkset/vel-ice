@@ -12914,7 +12914,42 @@
       "transliteration": "Gætirðu, bent á that?",
       "category": "Common Expressions",
       "generated_at": "2026-09-07T01:33:44.260032"
+    },
+    {
+      "english": "The heavens, weep softly.",
+      "icelandic": "Himinninn, grætur lágt.",
+      "transliteration": "Him-in-in, grai-tur laa-gt.",
+      "category": "Weather",
+      "generated_at": "2026-09-07T17:36:07.820600"
+    },
+    {
+      "english": "A sharp wind, bites the skin.",
+      "icelandic": "Hvass vindur, bítur í húðina.",
+      "transliteration": "Hvass vin-dur, bii-tur ee huuth-in-a.",
+      "category": "Weather",
+      "generated_at": "2026-09-07T17:36:07.820608"
+    },
+    {
+      "english": "Sunlight, breaks through clouds.",
+      "icelandic": "Sólarbirtan, brýtur ský.",
+      "transliteration": "So-lar-bir-tan, bruu-tur skee.",
+      "category": "Weather",
+      "generated_at": "2026-09-07T17:36:07.820609"
+    },
+    {
+      "english": "The air, smells of ice.",
+      "icelandic": "Loftið, lyktar af ís.",
+      "transliteration": "Lof-tit, lyk-tar af ees.",
+      "category": "Weather",
+      "generated_at": "2026-09-07T17:36:07.820614"
+    },
+    {
+      "english": "Grey skies, press down.",
+      "icelandic": "Grá himinn, þrýstir niður.",
+      "transliteration": "Graa him-in, thriist-ur niith-ur.",
+      "category": "Weather",
+      "generated_at": "2026-09-07T17:36:07.820615"
     }
   ],
-  "last_updated": "2026-09-07T01:33:44.260034"
+  "last_updated": "2026-09-07T17:36:07.820617"
 }
