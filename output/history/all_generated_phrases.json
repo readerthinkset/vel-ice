@@ -12949,7 +12949,42 @@
       "transliteration": "Graa him-in, thriist-ur niith-ur.",
       "category": "Weather",
       "generated_at": "2026-09-07T17:36:07.820615"
+    },
+    {
+      "english": "This soup, is quite hearty.",
+      "icelandic": "Þessi súpa, er ansi ríkuleg.",
+      "transliteration": "Thessi supa, er ansi rikuleg.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-07T18:40:44.386969"
+    },
+    {
+      "english": "May I, have a water, please?",
+      "icelandic": "Mætti ég, fá vatn, takk?",
+      "transliteration": "Might yeg, fow vatn, takk?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-07T18:40:44.386975"
+    },
+    {
+      "english": "The fish, looks so fresh.",
+      "icelandic": "Fiskurinn, lítur svo ferskur út.",
+      "transliteration": "Fiskurinn, litur so ferskur ut.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-07T18:40:44.386977"
+    },
+    {
+      "english": "Could we, see the menu?",
+      "icelandic": "Gætum við, fengið matseðilinn?",
+      "transliteration": "Gaitum vid, fengid matsedilinn?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-07T18:40:44.386978"
+    },
+    {
+      "english": "This sauce, has a tang.",
+      "icelandic": "Þessi sósa, hefur smá skerpu.",
+      "transliteration": "Thessi sosa, hefur sma skerpu.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-07T18:40:44.386979"
     }
   ],
-  "last_updated": "2026-09-07T17:36:07.820617"
+  "last_updated": "2026-09-07T18:40:44.386981"
 }
