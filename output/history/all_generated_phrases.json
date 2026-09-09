@@ -13194,7 +13194,42 @@
       "transliteration": "Hví-la aug-un, ró-a hug-ann.",
       "category": "Health",
       "generated_at": "2026-09-09T01:51:02.445478"
+    },
+    {
+      "english": "Soon, the ice melts. Warmth returns.",
+      "icelandic": "Brátt, bráðnar ísinn. Hlýja skilar sér.",
+      "transliteration": "Praut, praut-nahs eess-in. Hlu-ee-ah skee-lahs ser.",
+      "category": "Time",
+      "generated_at": "2026-09-09T16:17:40.022818"
+    },
+    {
+      "english": "Just a heartbeat, then silence.",
+      "icelandic": "Bara hjartsláttur, svo þögn.",
+      "transliteration": "Bah-rah hyart-slatt-ur, svoh thuhgn.",
+      "category": "Time",
+      "generated_at": "2026-09-09T16:17:40.022827"
+    },
+    {
+      "english": "The clock ticks, slowly. Steadily.",
+      "icelandic": "Klukkan slær, hægt. Jafnt.",
+      "transliteration": "Kluk-kahn slair, haight. Yaft.",
+      "category": "Time",
+      "generated_at": "2026-09-09T16:17:40.022829"
+    },
+    {
+      "english": "Another day, dawning. Fresh start.",
+      "icelandic": "Annar dagur, rennur upp. Ný byrjun.",
+      "transliteration": "Ahn-nar dah-gur, ren-nur up. Nee bir-yun.",
+      "category": "Time",
+      "generated_at": "2026-09-09T16:17:40.022831"
+    },
+    {
+      "english": "When the moon rises, dreams begin.",
+      "icelandic": "Þegar tunglið rís, draumar byrja.",
+      "transliteration": "Theh-gar toong-lith rees, drah-mur bir-yah.",
+      "category": "Time",
+      "generated_at": "2026-09-09T16:17:40.022832"
     }
   ],
-  "last_updated": "2026-09-09T01:51:02.445479"
+  "last_updated": "2026-09-09T16:17:40.022834"
 }
