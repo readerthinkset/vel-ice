@@ -13334,7 +13334,42 @@
       "transliteration": "Nor-thur-lyo-sin, du-lur-fullt grænn.",
       "category": "Colors",
       "generated_at": "2026-09-10T01:46:25.150637"
+    },
+    {
+      "english": "Let's hear it, one more time.",
+      "icelandic": "Heyrum það, eina ferð enn.",
+      "transliteration": "Heyr-um thahth, ey-na ferth enn.",
+      "category": "Directions",
+      "generated_at": "2026-09-10T16:08:23.738327"
+    },
+    {
+      "english": "Your turn now, give it a go.",
+      "icelandic": "Þinn tími nú, prófaðu.",
+      "transliteration": "Thinn tee-mi noo, proh-vah-thoo.",
+      "category": "Directions",
+      "generated_at": "2026-09-10T16:08:23.738337"
+    },
+    {
+      "english": "Gently, shape that sound.",
+      "icelandic": "Varlega, mótaðu hljóðið.",
+      "transliteration": "Var-leh-ga, moh-tah-thoo hlyo-thith.",
+      "category": "Directions",
+      "generated_at": "2026-09-10T16:08:23.738339"
+    },
+    {
+      "english": "Feel the flow, of the words.",
+      "icelandic": "Finndu flæðið, orðanna.",
+      "transliteration": "Finn-doo flay-thith, or-thah-nah.",
+      "category": "Directions",
+      "generated_at": "2026-09-10T16:08:23.738340"
+    },
+    {
+      "english": "Let the vowels sing out.",
+      "icelandic": "Látum sérhljóðin syngja.",
+      "transliteration": "Lah-toom seyr-hlyo-thin sing-yah.",
+      "category": "Directions",
+      "generated_at": "2026-09-10T16:08:23.738345"
     }
   ],
-  "last_updated": "2026-09-10T01:46:25.150639"
+  "last_updated": "2026-09-10T16:08:23.738347"
 }
