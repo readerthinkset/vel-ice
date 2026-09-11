@@ -13439,7 +13439,42 @@
       "transliteration": "Vith gong-um, sam-see-tha ve-ghu.",
       "category": "Friendship",
       "generated_at": "2026-09-10T19:29:56.436582"
+    },
+    {
+      "english": "Ground yourself, then float.",
+      "icelandic": "Jarðfestu þig, fljóttu svo.",
+      "transliteration": "Jarðfestu thig, fljóttu svo.",
+      "category": "Balance",
+      "generated_at": "2026-09-11T01:45:20.953982"
+    },
+    {
+      "english": "Listen closely, to the silence.",
+      "icelandic": "Hlustaðu vel, á þögnina.",
+      "transliteration": "Hlustaðu vel, aa thögnina.",
+      "category": "Balance",
+      "generated_at": "2026-09-11T01:45:20.953992"
+    },
+    {
+      "english": "Find your center, in motion.",
+      "icelandic": "Finndu miðjuna, í hreyfingu.",
+      "transliteration": "Finndu miðjuna, ee hreyfingu.",
+      "category": "Balance",
+      "generated_at": "2026-09-11T01:45:20.953994"
+    },
+    {
+      "english": "Soft give, firm hold.",
+      "icelandic": "Mjúkt gefið, fast hald.",
+      "transliteration": "Mjúkt gefið, fast hald.",
+      "category": "Balance",
+      "generated_at": "2026-09-11T01:45:20.953996"
+    },
+    {
+      "english": "Deep breath, wide reach.",
+      "icelandic": "Djúpt andi, vítt ná.",
+      "transliteration": "Djúpt andi, vítt naa.",
+      "category": "Balance",
+      "generated_at": "2026-09-11T01:45:20.953997"
     }
   ],
-  "last_updated": "2026-09-10T19:29:56.436584"
+  "last_updated": "2026-09-11T01:45:20.953999"
 }
