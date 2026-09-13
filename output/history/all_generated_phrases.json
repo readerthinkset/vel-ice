@@ -13824,7 +13824,42 @@
       "transliteration": "Vith thurf-um, ath fin-na haed.",
       "category": "Emergency",
       "generated_at": "2026-09-13T01:42:35.070829"
+    },
+    {
+      "english": "This bread, smells amazing.",
+      "icelandic": "Þetta brauð, lyktar dásamlega.",
+      "transliteration": "Thetta brauth, lyktar daasamaella.",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-13T15:55:50.787732"
+    },
+    {
+      "english": "May I, have a look?",
+      "icelandic": "Má ég, skoða þetta?",
+      "transliteration": "Maa-eg, sko-tha thetta?",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-13T15:55:50.787744"
+    },
+    {
+      "english": "That story, made me smile.",
+      "icelandic": "Sú saga, fékk mig til að brosa.",
+      "transliteration": "Soo saaga, fekk mig til ath bro-sa.",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-13T15:55:50.787746"
+    },
+    {
+      "english": "The light, is so soft.",
+      "icelandic": "Birtan, er svo mjúk.",
+      "transliteration": "Birtan, er so mjoohk.",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-13T15:55:50.787747"
+    },
+    {
+      "english": "Can you, explain this?",
+      "icelandic": "Geturðu, útskýrt þetta?",
+      "transliteration": "Get-ur-thoo, oots-keert thetta?",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-13T15:55:50.787748"
     }
   ],
-  "last_updated": "2026-09-13T01:42:35.070830"
+  "last_updated": "2026-09-13T15:55:50.787750"
 }
