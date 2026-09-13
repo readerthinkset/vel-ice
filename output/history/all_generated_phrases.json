@@ -13789,7 +13789,42 @@
       "transliteration": "Kver sohl-rees, mah-lar neet ty-ki-fay-ree.",
       "category": "Positive Life",
       "generated_at": "2026-09-12T21:55:42.929785"
+    },
+    {
+      "english": "Something's burning, smell it?",
+      "icelandic": "Eitthvað brennur, finnur þú?",
+      "transliteration": "Eith-vath bren-nur, fin-nur thu?",
+      "category": "Emergency",
+      "generated_at": "2026-09-13T01:42:35.070816"
+    },
+    {
+      "english": "The water, it's rising.",
+      "icelandic": "Vatnið, það hækkar.",
+      "transliteration": "Vat-nid, thadh haek-kar.",
+      "category": "Emergency",
+      "generated_at": "2026-09-13T01:42:35.070826"
+    },
+    {
+      "english": "I think, I'm stuck.",
+      "icelandic": "Ég held, ég sé fastur.",
+      "transliteration": "Yeg held, yeg sae fast-ur.",
+      "category": "Emergency",
+      "generated_at": "2026-09-13T01:42:35.070827"
+    },
+    {
+      "english": "There's a gas leak, I smell it.",
+      "icelandic": "Gasleki, ég finn lyktina.",
+      "transliteration": "Gas-leki, yeg fin lyk-ti-na.",
+      "category": "Emergency",
+      "generated_at": "2026-09-13T01:42:35.070828"
+    },
+    {
+      "english": "We need to find higher ground.",
+      "icelandic": "Við þurfum, að finna hæð.",
+      "transliteration": "Vith thurf-um, ath fin-na haed.",
+      "category": "Emergency",
+      "generated_at": "2026-09-13T01:42:35.070829"
     }
   ],
-  "last_updated": "2026-09-12T21:55:42.929787"
+  "last_updated": "2026-09-13T01:42:35.070830"
 }
