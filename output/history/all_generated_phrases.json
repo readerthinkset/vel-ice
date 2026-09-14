@@ -14034,7 +14034,42 @@
       "transliteration": "Thoo skeelur, svo thoo ge-tur.",
       "category": "Confidence",
       "generated_at": "2026-09-14T20:48:42.677349"
+    },
+    {
+      "english": "A shy hedgehog, hides its spines.",
+      "icelandic": "Ein feiminn íkorni, felur sína gaddi.",
+      "transliteration": "Eyn fay-minn eek-orn-ee, fel-oor see-nah gad-ee.",
+      "category": "Animals",
+      "generated_at": "2026-09-14T22:56:26.682059"
+    },
+    {
+      "english": "The buzzing fly, lands on my soup.",
+      "icelandic": "Flugan sem suðar, lendir á súpunni minni.",
+      "transliteration": "Floo-gahn sem soo-thar, len-dir ow soo-poo-neh min-nee.",
+      "category": "Animals",
+      "generated_at": "2026-09-14T22:56:26.682071"
+    },
+    {
+      "english": "A lumbering sloth, moves very slowly.",
+      "icelandic": "Lötróttið letidýr, hreyfir sig hægt.",
+      "transliteration": "Lot-roht-tit let-ee-deer, hray-vir sig hight.",
+      "category": "Animals",
+      "generated_at": "2026-09-14T22:56:26.682073"
+    },
+    {
+      "english": "The chattering squirrel, buries its nuts.",
+      "icelandic": "Rifandi íkorninn, grafar sínar hneta.",
+      "transliteration": "Rif-an-deen eek-orn-in, grah-var see-nar hnet-ah.",
+      "category": "Animals",
+      "generated_at": "2026-09-14T22:56:26.682074"
+    },
+    {
+      "english": "A striped zebra, grazes the savanna.",
+      "icelandic": "Röndóttur sebrahestur, beitir savannann.",
+      "transliteration": "Rond-oht-toor seb-rah-hes-toor, bay-teer sah-van-nahn.",
+      "category": "Animals",
+      "generated_at": "2026-09-14T22:56:26.682076"
     }
   ],
-  "last_updated": "2026-09-14T20:48:42.677350"
+  "last_updated": "2026-09-14T22:56:26.682078"
 }
