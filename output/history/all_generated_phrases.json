@@ -13999,7 +13999,42 @@
       "transliteration": "Sow-lir ok-kar, thek-too hvoh-ra ath-ra.",
       "category": "Relationships",
       "generated_at": "2026-09-14T19:11:06.465109"
+    },
+    {
+      "english": "Your voice, now it echoes.",
+      "icelandic": "Rödd þín, hún hljómar nú.",
+      "transliteration": "Rurth theen, hooth hlyo-mar noo.",
+      "category": "Confidence",
+      "generated_at": "2026-09-14T20:48:42.677335"
+    },
+    {
+      "english": "Try that word, just once.",
+      "icelandic": "Prófaðu orðið, bara einu sinni.",
+      "transliteration": "Pro-tha-thu or-theeth, bara ay-noo sin-nee.",
+      "category": "Confidence",
+      "generated_at": "2026-09-14T20:48:42.677344"
+    },
+    {
+      "english": "Listen, and feel the flow.",
+      "icelandic": "Hlustaðu, og finndu flæðið.",
+      "transliteration": "Hlus-ta-thu, og fin-thu flay-theeth.",
+      "category": "Confidence",
+      "generated_at": "2026-09-14T20:48:42.677346"
+    },
+    {
+      "english": "Speak it loud, for you.",
+      "icelandic": "Segðu það hátt, fyrir þig.",
+      "transliteration": "Say-thu thah hawt, fir-eer theeg.",
+      "category": "Confidence",
+      "generated_at": "2026-09-14T20:48:42.677347"
+    },
+    {
+      "english": "You understand, so you can.",
+      "icelandic": "Þú skilur, svo þú getur.",
+      "transliteration": "Thoo skeelur, svo thoo ge-tur.",
+      "category": "Confidence",
+      "generated_at": "2026-09-14T20:48:42.677349"
     }
   ],
-  "last_updated": "2026-09-14T19:11:06.465111"
+  "last_updated": "2026-09-14T20:48:42.677350"
 }
