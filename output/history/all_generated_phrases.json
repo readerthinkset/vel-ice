@@ -14069,7 +14069,42 @@
       "transliteration": "Rond-oht-toor seb-rah-hes-toor, bay-teer sah-van-nahn.",
       "category": "Animals",
       "generated_at": "2026-09-14T22:56:26.682076"
+    },
+    {
+      "english": "Hear the glacier, speak softly.",
+      "icelandic": "Heyrðu jökulinn, talaðu hljótt.",
+      "transliteration": "Heir-thoo yuh-kuh-lin, tah-lah-thoo hloyt.",
+      "category": "Education",
+      "generated_at": "2026-09-15T02:08:59.738039"
+    },
+    {
+      "english": "The lava flows, your words too.",
+      "icelandic": "Hraunið rennur, orðin þín líka.",
+      "transliteration": "Hra-uh-nith ren-nur, or-thin theen lee-kah.",
+      "category": "Education",
+      "generated_at": "2026-09-15T02:08:59.738051"
+    },
+    {
+      "english": "Feel the north wind, find your voice.",
+      "icelandic": "Finndu norðanáttina, finndu þína rödd.",
+      "transliteration": "Fin-thoo nor-thah-naht-tee-nah, fin-thoo thee-nah rurth.",
+      "category": "Education",
+      "generated_at": "2026-09-15T02:08:59.738052"
+    },
+    {
+      "english": "Listen to the silence, then speak.",
+      "icelandic": "Hlustaðu á þögnina, talaðu svo.",
+      "transliteration": "Hlus-tah-thoo ah thuhg-nee-nah, tah-lah-thoo svoh.",
+      "category": "Education",
+      "generated_at": "2026-09-15T02:08:59.738054"
+    },
+    {
+      "english": "Shadows lengthen, your phrases grow.",
+      "icelandic": "Skuggarnir lengjast, setningarnar þínar vaxa.",
+      "transliteration": "Skug-gar-nir leng-yahst, set-ning-ar-nar theen-ar vahk-sah.",
+      "category": "Education",
+      "generated_at": "2026-09-15T02:08:59.738055"
     }
   ],
-  "last_updated": "2026-09-14T22:56:26.682078"
+  "last_updated": "2026-09-15T02:08:59.738057"
 }
