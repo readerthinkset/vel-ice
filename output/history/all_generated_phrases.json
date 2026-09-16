@@ -14349,7 +14349,42 @@
       "transliteration": "Owt-ta fye-tur, kong-gu-loh thre-fur.",
       "category": "Numbers",
       "generated_at": "2026-09-16T19:54:51.641431"
+    },
+    {
+      "english": "The mist, clings, to the valley.",
+      "icelandic": "Mýran, leggst, við dalinn.",
+      "transliteration": "Mee-rahn, legst, vee dah-lin.",
+      "category": "Weather",
+      "generated_at": "2026-09-16T22:39:48.011683"
+    },
+    {
+      "english": "A sudden gust, swirls, the leaves.",
+      "icelandic": "Snöggur vindur, hrærir, laufblöðunum.",
+      "transliteration": "Snug-gur vin-dur, hrai-rir, louf-blud-uh-num.",
+      "category": "Weather",
+      "generated_at": "2026-09-16T22:39:48.011692"
+    },
+    {
+      "english": "Snowflakes, drift, down slowly.",
+      "icelandic": "Snjókorn, síga, hægt niður.",
+      "transliteration": "Snio-korn, see-gah, haikt nee-thur.",
+      "category": "Weather",
+      "generated_at": "2026-09-16T22:39:48.011694"
+    },
+    {
+      "english": "The sun, peeks, through the clouds.",
+      "icelandic": "Sólin, gægist, milli skýja.",
+      "transliteration": "Soh-lin, gigh-gist, mil-lee skee-yah.",
+      "category": "Weather",
+      "generated_at": "2026-09-16T22:39:48.011695"
+    },
+    {
+      "english": "Rain, patters, on the roof.",
+      "icelandic": "Regnið, dunar, á þakinu.",
+      "transliteration": "Reg-nid, du-nar, au thah-ki-nu.",
+      "category": "Weather",
+      "generated_at": "2026-09-16T22:39:48.011696"
     }
   ],
-  "last_updated": "2026-09-16T19:54:51.641433"
+  "last_updated": "2026-09-16T22:39:48.011698"
 }
