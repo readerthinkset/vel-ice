@@ -14384,7 +14384,42 @@
       "transliteration": "Reg-nid, du-nar, au thah-ki-nu.",
       "category": "Weather",
       "generated_at": "2026-09-16T22:39:48.011696"
+    },
+    {
+      "english": "Sunlight, on the strings.",
+      "icelandic": "Sólin, á strengina.",
+      "transliteration": "SOH-lin, ah STRENG-in-ah.",
+      "category": "Music",
+      "generated_at": "2026-09-17T02:04:16.253625"
+    },
+    {
+      "english": "A quiet river, of sound.",
+      "icelandic": "Kyrr áin, af hljóði.",
+      "transliteration": "Keer AH-in, af HLYOW-thi.",
+      "category": "Music",
+      "generated_at": "2026-09-17T02:04:16.253634"
+    },
+    {
+      "english": "Forest whispers, in the chords.",
+      "icelandic": "Skógar hvíslar, í tónunum.",
+      "transliteration": "SKOH-gar HVEES-tlar, ee TOH-nu-num.",
+      "category": "Music",
+      "generated_at": "2026-09-17T02:04:16.253636"
+    },
+    {
+      "english": "Mountain air, for the flute.",
+      "icelandic": "Fjallaloft, fyrir flautuna.",
+      "transliteration": "FJAT-la-loft, FIR-ir FLAU-tu-nah.",
+      "category": "Music",
+      "generated_at": "2026-09-17T02:04:16.253637"
+    },
+    {
+      "english": "Ocean waves, in the bass.",
+      "icelandic": "Hafsöldur, í bassanum.",
+      "transliteration": "HAF-söl-dur, ee BAS-sa-num.",
+      "category": "Music",
+      "generated_at": "2026-09-17T02:04:16.253639"
     }
   ],
-  "last_updated": "2026-09-16T22:39:48.011698"
+  "last_updated": "2026-09-17T02:04:16.253640"
 }
