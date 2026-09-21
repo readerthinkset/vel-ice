@@ -15084,7 +15084,42 @@
       "transliteration": "HLUS-tah-doo, OW THETH-tuh",
       "category": "Directions",
       "generated_at": "2026-09-21T02:00:29.581588"
+    },
+    {
+      "english": "Listen close, the wind sings old songs.",
+      "icelandic": "Hlustar vel, vindurinn syngur gamlar þulur.",
+      "transliteration": "Hloos-tar vel, vind-ur-inn sing-ur gam-lar thoo-lur.",
+      "category": "Culture",
+      "generated_at": "2026-09-21T18:04:53.166235"
+    },
+    {
+      "english": "Imagine trolls, in the fog's embrace.",
+      "icelandic": "Ímyndaðu þér huldufólk, í þokunni.",
+      "transliteration": "Eem-ee-na-thoo thair huld-oo-foolk, ee thoh-koo-thee.",
+      "category": "Culture",
+      "generated_at": "2026-09-21T18:04:53.166246"
+    },
+    {
+      "english": "Smell the peat, a smoky, earthy scent.",
+      "icelandic": "Lyktar af mó, reykt, jarðneskt.",
+      "transliteration": "Lik-tar af moh, raykt, yarhd-neskt.",
+      "category": "Culture",
+      "generated_at": "2026-09-21T18:04:53.166248"
+    },
+    {
+      "english": "See the light, paint the mountains.",
+      "icelandic": "Sjáðu ljósið, mála fjöllin.",
+      "transliteration": "Sy-ow-thoo ly-oh-sith, mah-la fy-otl-in.",
+      "category": "Culture",
+      "generated_at": "2026-09-21T18:04:53.166249"
+    },
+    {
+      "english": "Feel the quiet, deep in the valleys.",
+      "icelandic": "Finndu þögnina, djúpt í dalnum.",
+      "transliteration": "Fin-noo thuhgn-ee-na, dyooppt ee dal-noom.",
+      "category": "Culture",
+      "generated_at": "2026-09-21T18:04:53.166250"
     }
   ],
-  "last_updated": "2026-09-21T02:00:29.581590"
+  "last_updated": "2026-09-21T18:04:53.166252"
 }
