@@ -15294,7 +15294,42 @@
       "transliteration": "Kaldur vindur, hrærir laufblöð.",
       "category": "Weather",
       "generated_at": "2026-09-22T20:04:12.447245"
+    },
+    {
+      "english": "A shy badger, digs its burrow.",
+      "icelandic": "Þrjóskur greflingsbjörn, gerir greni sitt.",
+      "transliteration": "Thryoshkur greflingsbjorn, gerir greni sitt.",
+      "category": "Animals",
+      "generated_at": "2026-09-22T22:43:14.378640"
+    },
+    {
+      "english": "The clever raven, watches us.",
+      "icelandic": "Gláði hrafninn, horfir á okkur.",
+      "transliteration": "Glaadhi hrafninn, horfir aa okkur.",
+      "category": "Animals",
+      "generated_at": "2026-09-22T22:43:14.378651"
+    },
+    {
+      "english": "A tiny shrew, darts by quickly.",
+      "icelandic": "Lítil sulludýr, rennur hratt framhjá.",
+      "transliteration": "Litil sulludyr, rennur hratt framhjaa.",
+      "category": "Animals",
+      "generated_at": "2026-09-22T22:43:14.378652"
+    },
+    {
+      "english": "The powerful wolf, howls at moon.",
+      "icelandic": "Sterki úlfurinn, urrgar í tunglið.",
+      "transliteration": "Sterki ulfurinn, urrgarr i tunglid.",
+      "category": "Animals",
+      "generated_at": "2026-09-22T22:43:14.378654"
+    },
+    {
+      "english": "A silent moth, flutters in dark.",
+      "icelandic": "Hljóðlátur fiðrildi, flýgur í myrkri.",
+      "transliteration": "Hljodlaatur fidrildi, flygur i myrkri.",
+      "category": "Animals",
+      "generated_at": "2026-09-22T22:43:14.378655"
     }
   ],
-  "last_updated": "2026-09-22T20:04:12.447247"
+  "last_updated": "2026-09-22T22:43:14.378657"
 }
