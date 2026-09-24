@@ -15609,7 +15609,42 @@
       "transliteration": "Er thetta, ur smidju hér?",
       "category": "Shopping",
       "generated_at": "2026-09-24T18:22:09.355374"
+    },
+    {
+      "english": "Melt the frost, with your voice.",
+      "icelandic": "Bræðið hrímið, með röddinni ykkar.",
+      "transliteration": "Brey-thith hree-mith, meth rOth-thinni yk-kar.",
+      "category": "Education",
+      "generated_at": "2026-09-24T20:18:47.594387"
+    },
+    {
+      "english": "Hear the fjords, speak a greeting.",
+      "icelandic": "Heyrið firðina, segiði hæ.",
+      "transliteration": "Hey-rith fir-thina, sey-thith hi.",
+      "category": "Education",
+      "generated_at": "2026-09-24T20:18:47.594399"
+    },
+    {
+      "english": "Let the mist, guide your words.",
+      "icelandic": "Látið skuggann, leiða orðin ykkar.",
+      "transliteration": "Lau-tith skug-gath, ley-tha or-thin yk-kar.",
+      "category": "Education",
+      "generated_at": "2026-09-24T20:18:47.594401"
+    },
+    {
+      "english": "Unravel the sounds, one by one.",
+      "icelandic": "Leysið úr læðingi, hljóðin, eitt af öðru.",
+      "transliteration": "Ley-sith oor ly-thing-gi, hly-o-thinn, eytt af Oth-thru.",
+      "category": "Education",
+      "generated_at": "2026-09-24T20:18:47.594402"
+    },
+    {
+      "english": "Build bridges, with Icelandic.",
+      "icelandic": "Byggið brýr, með íslensku.",
+      "transliteration": "Big-yith bree-r, meth ees-lensku.",
+      "category": "Education",
+      "generated_at": "2026-09-24T20:18:47.594404"
     }
   ],
-  "last_updated": "2026-09-24T18:22:09.355375"
+  "last_updated": "2026-09-24T20:18:47.594406"
 }
