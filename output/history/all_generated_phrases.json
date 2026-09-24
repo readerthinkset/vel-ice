@@ -15539,7 +15539,42 @@
       "transliteration": "Thinn ro-leh-gih tak-toor, ro-ar migh.",
       "category": "Relationships",
       "generated_at": "2026-09-24T01:54:27.863898"
+    },
+    {
+      "english": "The wool of a lamb, soft cream.",
+      "icelandic": "Ull lamba, mjúkur krem.",
+      "transliteration": "Ull lam-ba, myoo-kur krem.",
+      "category": "Colors",
+      "generated_at": "2026-09-24T16:51:46.200038"
+    },
+    {
+      "english": "A raven's wing, deep obsidian.",
+      "icelandic": "Vængur hræ, djúpt obsidian.",
+      "transliteration": "Veng-ur hrai, dyoopt obsidian.",
+      "category": "Colors",
+      "generated_at": "2026-09-24T16:51:46.200048"
+    },
+    {
+      "english": "The sky at noon, bright cerulean.",
+      "icelandic": "Himinn á hádegi, björt cerulean.",
+      "transliteration": "Him-in oh hy-de-gi, byort cerulean.",
+      "category": "Colors",
+      "generated_at": "2026-09-24T16:51:46.200050"
+    },
+    {
+      "english": "A fox's tail, fiery russet.",
+      "icelandic": "Skott refa, eldrauð rjúpur.",
+      "transliteration": "Skott re-fa, el-drauð r-yoo-pur.",
+      "category": "Colors",
+      "generated_at": "2026-09-24T16:51:46.200051"
+    },
+    {
+      "english": "A summer meadow, vivid emerald.",
+      "icelandic": "Sumar engi, líflegt emerald.",
+      "transliteration": "Sum-ar en-gi, leef-ligt emerald.",
+      "category": "Colors",
+      "generated_at": "2026-09-24T16:51:46.200052"
     }
   ],
-  "last_updated": "2026-09-24T01:54:27.863900"
+  "last_updated": "2026-09-24T16:51:46.200054"
 }
