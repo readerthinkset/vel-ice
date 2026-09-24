@@ -15644,7 +15644,42 @@
       "transliteration": "Big-yith bree-r, meth ees-lensku.",
       "category": "Education",
       "generated_at": "2026-09-24T20:18:47.594404"
+    },
+    {
+      "english": "The wind sighs, then whispers.",
+      "icelandic": "Vindurinn sefur, svo hvísla.",
+      "transliteration": "Vindurinn sefur, svo hvisla.",
+      "category": "Time",
+      "generated_at": "2026-09-24T22:59:31.682150"
+    },
+    {
+      "english": "Wait, a little longer.",
+      "icelandic": "Bíddu, aðeins lengur.",
+      "transliteration": "Biddu, adins lengur.",
+      "category": "Time",
+      "generated_at": "2026-09-24T22:59:31.682158"
+    },
+    {
+      "english": "Moments pass, like clouds.",
+      "icelandic": "Augnablik líða, sem ský.",
+      "transliteration": "Augnablik lida, sem sky.",
+      "category": "Time",
+      "generated_at": "2026-09-24T22:59:31.682159"
+    },
+    {
+      "english": "The ocean breathes, slowly.",
+      "icelandic": "Hafið andar, hægt.",
+      "transliteration": "Hafid andar, haegt.",
+      "category": "Time",
+      "generated_at": "2026-09-24T22:59:31.682160"
+    },
+    {
+      "english": "A silent echo, then fading.",
+      "icelandic": "Hljóður endir, svo dvínandi.",
+      "transliteration": "Hljodur endir, svo dvinand.",
+      "category": "Time",
+      "generated_at": "2026-09-24T22:59:31.682162"
     }
   ],
-  "last_updated": "2026-09-24T20:18:47.594406"
+  "last_updated": "2026-09-24T22:59:31.682163"
 }
