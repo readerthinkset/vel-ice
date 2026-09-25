@@ -15679,7 +15679,42 @@
       "transliteration": "Hljodur endir, svo dvinand.",
       "category": "Time",
       "generated_at": "2026-09-24T22:59:31.682162"
+    },
+    {
+      "english": "Golden butter, on hot toast.",
+      "icelandic": "Gullsmjör, á heitt ristað brauð.",
+      "transliteration": "Gull-sm-yur, a-w heyt-t riss-tav brauð.",
+      "category": "Food",
+      "generated_at": "2026-09-25T02:10:51.532261"
+    },
+    {
+      "english": "Sweet syrup, over fluffy waffles.",
+      "icelandic": "Sætur síróp, yfir ljúffengar vöfflur.",
+      "transliteration": "Saye-tur see-rop, yuv-ur lyoo-fayn-gar vov-flur.",
+      "category": "Food",
+      "generated_at": "2026-09-25T02:10:51.532274"
+    },
+    {
+      "english": "Spicy sausage, for breakfast.",
+      "icelandic": "Sterk pylsa, í morgunmat.",
+      "transliteration": "Stairk pil-sa, ee mor-gun-mat.",
+      "category": "Food",
+      "generated_at": "2026-09-25T02:10:51.532276"
+    },
+    {
+      "english": "Tangy berries, in the summer.",
+      "icelandic": "Súr ber, á sumrin.",
+      "transliteration": "Soor ber, a-w sum-rin.",
+      "category": "Food",
+      "generated_at": "2026-09-25T02:10:51.532277"
+    },
+    {
+      "english": "Sharp cheese, with crusty bread.",
+      "icelandic": "Beinn ostur, með hart brauð.",
+      "transliteration": "Bayn ost-ur, meth hart brauð.",
+      "category": "Food",
+      "generated_at": "2026-09-25T02:10:51.532278"
     }
   ],
-  "last_updated": "2026-09-24T22:59:31.682163"
+  "last_updated": "2026-09-25T02:10:51.532279"
 }
