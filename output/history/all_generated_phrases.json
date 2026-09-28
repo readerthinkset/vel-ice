@@ -16239,7 +16239,42 @@
       "transliteration": "A ovaentum timamotun.",
       "category": "Basic Phrases",
       "generated_at": "2026-09-28T20:28:54.107523"
+    },
+    {
+      "english": "Help, please, I'm lost.",
+      "icelandic": "Hjálp, takk, ég er villtur.",
+      "transliteration": "Hyalp, takk, yeg er vill-tur.",
+      "category": "Emergency",
+      "generated_at": "2026-09-28T22:27:55.981651"
+    },
+    {
+      "english": "Stop, right there!",
+      "icelandic": "Stopp, þar strax!",
+      "transliteration": "Stopp, thar strax!",
+      "category": "Emergency",
+      "generated_at": "2026-09-28T22:27:55.981662"
+    },
+    {
+      "english": "I need water, badly.",
+      "icelandic": "Ég þarf vatn, bráðnauðsynlegt.",
+      "transliteration": "Yeg tharf vatn, brauth-noyth-syn-legt.",
+      "category": "Emergency",
+      "generated_at": "2026-09-28T22:27:55.981664"
+    },
+    {
+      "english": "Look out, behind you!",
+      "icelandic": "Varúð, fyrir aftan þig!",
+      "transliteration": "Va-rooth, fir-ir aftan thig!",
+      "category": "Emergency",
+      "generated_at": "2026-09-28T22:27:55.981665"
+    },
+    {
+      "english": "Fire, over there!",
+      "icelandic": "Eldur, þarna megin!",
+      "transliteration": "Eld-ur, thar-na meigin!",
+      "category": "Emergency",
+      "generated_at": "2026-09-28T22:27:55.981666"
     }
   ],
-  "last_updated": "2026-09-28T20:28:54.107524"
+  "last_updated": "2026-09-28T22:27:55.981667"
 }
