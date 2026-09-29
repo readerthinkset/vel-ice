@@ -16449,7 +16449,42 @@
       "transliteration": "Mætti ég fá, smá vatn, vinsamlegast?",
       "category": "Restaurant",
       "generated_at": "2026-09-29T21:19:44.224882"
+    },
+    {
+      "english": "Sky, a canvas, of moods.",
+      "icelandic": "Himinninn, strigi, skapsmuna.",
+      "transliteration": "Him-in-in, stri-gi, skap-smu-na.",
+      "category": "Weather",
+      "generated_at": "2026-09-29T23:25:34.515744"
+    },
+    {
+      "english": "Wind, whispers, secrets.",
+      "icelandic": "Vindurinn, hvísla, leyndarmál.",
+      "transliteration": "Vin-dur-inn, hvís-la, leynd-ar-mál.",
+      "category": "Weather",
+      "generated_at": "2026-09-29T23:25:34.515755"
+    },
+    {
+      "english": "Sunlight, a warm kiss.",
+      "icelandic": "Sólargeisli, hlýtt kossum.",
+      "transliteration": "Sól-ar-geis-li, hlýtt kos-sum.",
+      "category": "Weather",
+      "generated_at": "2026-09-29T23:25:34.515757"
+    },
+    {
+      "english": "Rain, a soft song.",
+      "icelandic": "Regn, mildur söngur.",
+      "transliteration": "Regn, mil-dur söng-ur.",
+      "category": "Weather",
+      "generated_at": "2026-09-29T23:25:34.515758"
+    },
+    {
+      "english": "Clouds, drift, lazily.",
+      "icelandic": "Ský, rekur, letilega.",
+      "transliteration": "Ský, rek-ur, leti-lega.",
+      "category": "Weather",
+      "generated_at": "2026-09-29T23:25:34.515760"
     }
   ],
-  "last_updated": "2026-09-29T21:19:44.224888"
+  "last_updated": "2026-09-29T23:25:34.515762"
 }
