@@ -16274,7 +16274,42 @@
       "transliteration": "Eld-ur, thar-na meigin!",
       "category": "Emergency",
       "generated_at": "2026-09-28T22:27:55.981666"
+    },
+    {
+      "english": "This light, paints the hills.",
+      "icelandic": "Þetta ljós, málar hæðirnar.",
+      "transliteration": "Thet-ta lyohs, ma-lar hy-thir-nar.",
+      "category": "Travel",
+      "generated_at": "2026-09-29T00:10:24.825763"
+    },
+    {
+      "english": "A new day, begins now.",
+      "icelandic": "Nýr dagur, hefst nú.",
+      "transliteration": "Nyeur da-gur, hefst nu.",
+      "category": "Travel",
+      "generated_at": "2026-09-29T00:10:24.825786"
+    },
+    {
+      "english": "The air, is so crisp.",
+      "icelandic": "Loftið, er svo stökkt.",
+      "transliteration": "Lof-tith, er so stohkt.",
+      "category": "Travel",
+      "generated_at": "2026-09-29T00:10:24.825788"
+    },
+    {
+      "english": "Can we stop, just a moment?",
+      "icelandic": "Getum við stoppað, bara smá?",
+      "transliteration": "Get-um vith stop-pað, ba-ra smah?",
+      "category": "Travel",
+      "generated_at": "2026-09-29T00:10:24.825790"
+    },
+    {
+      "english": "This path, calls to me.",
+      "icelandic": "Þessi slóð, kallar á mig.",
+      "transliteration": "Thes-si slohd, kal-lar ah mig.",
+      "category": "Travel",
+      "generated_at": "2026-09-29T00:10:24.825791"
     }
   ],
-  "last_updated": "2026-09-28T22:27:55.981667"
+  "last_updated": "2026-09-29T00:10:24.825793"
 }
