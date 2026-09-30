@@ -16484,7 +16484,42 @@
       "transliteration": "Ský, rek-ur, leti-lega.",
       "category": "Weather",
       "generated_at": "2026-09-29T23:25:34.515760"
+    },
+    {
+      "english": "Seasons turn, gently. Then change.",
+      "icelandic": "Árstíðir snúast, mjúklega. Svo breyting.",
+      "transliteration": "Aur-stith-ur snoo-ast, myook-legga. Soo brey-ting.",
+      "category": "Time",
+      "generated_at": "2026-09-30T19:11:30.921163"
+    },
+    {
+      "english": "Sunrise paints, the eastern sky.",
+      "icelandic": "Morgunroði málar, himin austurs.",
+      "transliteration": "Mor-gun-ro-thi ma-lar, him-in aur-sturs.",
+      "category": "Time",
+      "generated_at": "2026-09-30T19:11:30.921174"
+    },
+    {
+      "english": "Minutes drift, like seafoam. Gone.",
+      "icelandic": "Mínútur rekur, eins og sýrðu. Búið.",
+      "transliteration": "Mee-noo-tur rek-ur, eins og seer-thoo. Boo-ith.",
+      "category": "Time",
+      "generated_at": "2026-09-30T19:11:30.921176"
+    },
+    {
+      "english": "A quiet hum, of passing hours.",
+      "icelandic": "Þögul ómun, liðinna klukkustunda.",
+      "transliteration": "Thuh-gul oo-mun, lih-thin-na kluk-kuh-stun-da.",
+      "category": "Time",
+      "generated_at": "2026-09-30T19:11:30.921177"
+    },
+    {
+      "english": "The moon waxes, then wanes. Slowly.",
+      "icelandic": "Tunglið vex, svo minnkar. Hægt.",
+      "transliteration": "Tung-lith veks, soo min-kar. Hacht.",
+      "category": "Time",
+      "generated_at": "2026-09-30T19:11:30.921179"
     }
   ],
-  "last_updated": "2026-09-29T23:25:34.515762"
+  "last_updated": "2026-09-30T19:11:30.921181"
 }
