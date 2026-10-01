@@ -16729,7 +16729,42 @@
       "transliteration": "Flaeðandi treffill, gefur glaesileika.",
       "category": "Clothes",
       "generated_at": "2026-10-01T21:41:24.183467"
+    },
+    {
+      "english": "Ocean deep, a midnight blue.",
+      "icelandic": "Hafdjúpt, miðnætursblátt.",
+      "transliteration": "Haf-dyoot, mid-nye-toors-blawt.",
+      "category": "Colors",
+      "generated_at": "2026-10-01T23:40:44.932952"
+    },
+    {
+      "english": "Lava rock, a charcoal black.",
+      "icelandic": "Hraunberg, kolsvart.",
+      "transliteration": "Hraun-berg, kol-svart.",
+      "category": "Colors",
+      "generated_at": "2026-10-01T23:40:44.932963"
+    },
+    {
+      "english": "Arctic snow, a pristine white.",
+      "icelandic": "Norðursnjór, hreinn.",
+      "transliteration": "Nor-thurs-nyoor, hrayn.",
+      "category": "Colors",
+      "generated_at": "2026-10-01T23:40:44.932964"
+    },
+    {
+      "english": "Fire's heart, a vibrant red.",
+      "icelandic": "Eldurinn, lífgandi rauður.",
+      "transliteration": "El-dur-inn, leef-gan-dee ray-thoor.",
+      "category": "Colors",
+      "generated_at": "2026-10-01T23:40:44.932965"
+    },
+    {
+      "english": "Summer sky, a clear azure.",
+      "icelandic": "Sumarhiminn, bjartur himinblár.",
+      "transliteration": "Sum-ar-hi-min, byar-toor hi-min-blawr.",
+      "category": "Colors",
+      "generated_at": "2026-10-01T23:40:44.932966"
     }
   ],
-  "last_updated": "2026-10-01T21:41:24.183469"
+  "last_updated": "2026-10-01T23:40:44.932968"
 }
