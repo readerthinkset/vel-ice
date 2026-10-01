@@ -16659,7 +16659,42 @@
       "transliteration": "Rit-mi in-nra, roo y-tra.",
       "category": "Balance",
       "generated_at": "2026-10-01T18:16:33.639135"
+    },
+    {
+      "english": "Listen close, the silence sings.",
+      "icelandic": "Hlustu vel, þögnin syngur.",
+      "transliteration": "Hlusta vel, thögnin syngur.",
+      "category": "Music",
+      "generated_at": "2026-10-01T19:23:47.462499"
+    },
+    {
+      "english": "Echoes rise, then fade.",
+      "icelandic": "Bergmál rís, svo dvínur.",
+      "transliteration": "Bergmál rís, svo dvínur.",
+      "category": "Music",
+      "generated_at": "2026-10-01T19:23:47.462511"
+    },
+    {
+      "english": "A single note, pure and clear.",
+      "icelandic": "Eitt hljóð, hreint og bjart.",
+      "transliteration": "Eitt hljoð, hreint og bjart.",
+      "category": "Music",
+      "generated_at": "2026-10-01T19:23:47.462513"
+    },
+    {
+      "english": "The rhythm breathes, alive.",
+      "icelandic": "Röddin andar, lifandi.",
+      "transliteration": "Röddin andar, lifandi.",
+      "category": "Music",
+      "generated_at": "2026-10-01T19:23:47.462514"
+    },
+    {
+      "english": "Distant horns, call to us.",
+      "icelandic": "Fjarlæg horn, kalla á okkur.",
+      "transliteration": "Fjarlæg horn, kalla á okkur.",
+      "category": "Music",
+      "generated_at": "2026-10-01T19:23:47.462515"
     }
   ],
-  "last_updated": "2026-10-01T18:16:33.639137"
+  "last_updated": "2026-10-01T19:23:47.462517"
 }
