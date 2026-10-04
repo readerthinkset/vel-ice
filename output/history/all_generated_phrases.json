@@ -17184,7 +17184,42 @@
       "transliteration": "Hoog-sah-neer theen-ar, hlyoh-mah ayns ogg mee-nar.",
       "category": "Relationships",
       "generated_at": "2026-10-04T18:04:35.678605"
+    },
+    {
+      "english": "Hello there, friend.",
+      "icelandic": "Halló þar, vinur.",
+      "transliteration": "Hah-loh thar, vin-oor.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-04T19:57:46.824761"
+    },
+    {
+      "english": "What is this, called?",
+      "icelandic": "Hvað kallast þetta, eiginlega?",
+      "transliteration": "Kvaht kal-last thet-tah, ey-gin-leh-gah?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-04T19:57:46.824772"
+    },
+    {
+      "english": "Can you help, me?",
+      "icelandic": "Geturðu hjálpað, mér?",
+      "transliteration": "Get-ur-thoo hyal-pahd, myair?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-04T19:57:46.824774"
+    },
+    {
+      "english": "Where is the, restroom?",
+      "icelandic": "Hvar er klósettið, vinsamlegast?",
+      "transliteration": "Kvar air kloh-set-tith, vin-sam-leh-gast?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-04T19:57:46.824776"
+    },
+    {
+      "english": "It is cold, outside.",
+      "icelandic": "Það er kalt, úti.",
+      "transliteration": "Thah air kalt, oo-tee.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-04T19:57:46.824777"
     }
   ],
-  "last_updated": "2026-10-04T18:04:35.678607"
+  "last_updated": "2026-10-04T19:57:46.824779"
 }
