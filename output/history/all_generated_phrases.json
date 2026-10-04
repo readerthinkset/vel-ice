@@ -17114,7 +17114,42 @@
       "transliteration": "Föstu brauð, svo seðjandi.",
       "category": "Food",
       "generated_at": "2026-10-03T22:39:38.802056"
+    },
+    {
+      "english": "Is anyone, there? Hear me?",
+      "icelandic": "Einhver, þarna? Heyrirðu?",
+      "transliteration": "Ein-hver, thar-na? Heyr-ir-thu?",
+      "category": "Emergency",
+      "generated_at": "2026-10-04T03:07:58.023544"
+    },
+    {
+      "english": "My compass, is broken.",
+      "icelandic": "Áttavitinn, minn, bilaður.",
+      "transliteration": "Att-a-vit-inn, minn, bil-ad-ur.",
+      "category": "Emergency",
+      "generated_at": "2026-10-04T03:07:58.023554"
+    },
+    {
+      "english": "The path, is gone. Lost.",
+      "icelandic": "Stígurinn, er horfinn. Villtur.",
+      "transliteration": "Stig-ur-inn, er hor-finn. Vill-tur.",
+      "category": "Emergency",
+      "generated_at": "2026-10-04T03:07:58.023555"
+    },
+    {
+      "english": "I've, lost my way.",
+      "icelandic": "Ég, týndi leiðinni.",
+      "transliteration": "Yeg, tynd-i leith-inni.",
+      "category": "Emergency",
+      "generated_at": "2026-10-04T03:07:58.023556"
+    },
+    {
+      "english": "Is the ground, stable?",
+      "icelandic": "Er jörðin, stöðug?",
+      "transliteration": "Er jor-thin, stodh-ug?",
+      "category": "Emergency",
+      "generated_at": "2026-10-04T03:07:58.023557"
     }
   ],
-  "last_updated": "2026-10-03T22:39:38.802058"
+  "last_updated": "2026-10-04T03:07:58.023558"
 }
