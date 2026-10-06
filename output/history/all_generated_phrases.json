@@ -17569,7 +17569,42 @@
       "transliteration": "Laht orth-in, minn-dast haiht.",
       "category": "Perseverance",
       "generated_at": "2026-10-06T21:30:44.096890"
+    },
+    {
+      "english": "A lazy cat, naps in the sun.",
+      "icelandic": "Lötur köttur, hvílist í sólinni.",
+      "transliteration": "Lotur kottur, hveelist ee sool-in-ni.",
+      "category": "Animals",
+      "generated_at": "2026-10-06T23:33:08.459804"
+    },
+    {
+      "english": "The clever fox, hunts in the snow.",
+      "icelandic": "Snjalli refurinn, veiðir í snjónum.",
+      "transliteration": "Snjall-i ref-ur-inn, veid-ir ee snjow-num.",
+      "category": "Animals",
+      "generated_at": "2026-10-06T23:33:08.459814"
+    },
+    {
+      "english": "A chirping sparrow, lands on the fence.",
+      "icelandic": "Piprandi spörfugl, lendir á girðingunni.",
+      "transliteration": "Piprand-i spor-fuhrl, lend-ir ow gir-thinn-gwon-ni.",
+      "category": "Animals",
+      "generated_at": "2026-10-06T23:33:08.459815"
+    },
+    {
+      "english": "The playful dog, chases its tail.",
+      "icelandic": "Hressi hundurinn, eltir skottið sitt.",
+      "transliteration": "Hress-i hunn-dur-inn, elt-ir skot-tit sitt.",
+      "category": "Animals",
+      "generated_at": "2026-10-06T23:33:08.459817"
+    },
+    {
+      "english": "A tiny ladybug, climbs a blade of grass.",
+      "icelandic": "Lítill maríuhnoppur, klifrar á græsstrái.",
+      "transliteration": "Leet-il mar-ee-o-hnop-pur, klif-rar ow gres-strow-ee.",
+      "category": "Animals",
+      "generated_at": "2026-10-06T23:33:08.459818"
     }
   ],
-  "last_updated": "2026-10-06T21:30:44.096891"
+  "last_updated": "2026-10-06T23:33:08.459819"
 }
