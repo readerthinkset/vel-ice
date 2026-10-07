@@ -17639,7 +17639,42 @@
       "transliteration": "Fimm sterk-ir rai-tur, hal-da fahst.",
       "category": "Numbers",
       "generated_at": "2026-10-07T02:59:23.533471"
+    },
+    {
+      "english": "Lift your shoulders, slowly.",
+      "icelandic": "Lyftu öxlunum, rólega.",
+      "transliteration": "Lift-u ox-ul-lum, ro-le-ga.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-07T18:42:42.944930"
+    },
+    {
+      "english": "A hand, reaching out.",
+      "icelandic": "Ein hönd, teygir sig út.",
+      "transliteration": "Ein hönd, teyg-ir sig út.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-07T18:42:42.944940"
+    },
+    {
+      "english": "Feel the pulse, in your wrist.",
+      "icelandic": "Finndu púlsinn, í úlnliðnum.",
+      "transliteration": "Finn-du pul-sinn, í ül-nlid-num.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-07T18:42:42.944941"
+    },
+    {
+      "english": "Your neck, turns gently.",
+      "icelandic": "Hálsin, snýst mildilega.",
+      "transliteration": "Hals-inn, snýst mild-i-le-ga.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-07T18:42:42.944941"
+    },
+    {
+      "english": "A foot, steps forward.",
+      "icelandic": "Einn fótur, stígur fram.",
+      "transliteration": "Einn fo-tur, stíg-ur fram.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-07T18:42:42.944942"
     }
   ],
-  "last_updated": "2026-10-07T02:59:23.533473"
+  "last_updated": "2026-10-07T18:42:42.944944"
 }
