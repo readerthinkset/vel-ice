@@ -18374,7 +18374,42 @@
       "transliteration": "Rool-lar oot mowl-fryth-i-na, fin-nur tof-ra-na.",
       "category": "Inspiration",
       "generated_at": "2026-10-11T20:51:28.112795"
+    },
+    {
+      "english": "My phone, is dead. No signal.",
+      "icelandic": "Síminn minn, er dauður. Engin merki.",
+      "transliteration": "See-min minn, er dau-thur. En-gin mer-ki.",
+      "category": "Emergency",
+      "generated_at": "2026-10-11T23:26:32.301837"
+    },
+    {
+      "english": "I feel, very weak. Can't stand.",
+      "icelandic": "Mér líður, mjög veikt. Get ekki staðið.",
+      "transliteration": "Myr lee-thur, myo-g veykt. Get en-ki sta-thee-th.",
+      "category": "Emergency",
+      "generated_at": "2026-10-11T23:26:32.301851"
+    },
+    {
+      "english": "Did you hear, that sound? Loud.",
+      "icelandic": "Hyrðir þú, þennan hljóð? Hávært.",
+      "transliteration": "Hith-thir thoo, thenn-an hlyo-th? How-art.",
+      "category": "Emergency",
+      "generated_at": "2026-10-11T23:26:32.301853"
+    },
+    {
+      "english": "This place, is unfamiliar. Where are we?",
+      "icelandic": "Þessi staður, er ókunnugur. Hvar erum við?",
+      "transliteration": "Thess-i sta-thur, er o-kun-nu-gur. Hvar er-um vith?",
+      "category": "Emergency",
+      "generated_at": "2026-10-11T23:26:32.301854"
+    },
+    {
+      "english": "I'm losing, consciousness. Dizziness.",
+      "icelandic": "Ég er að missa, meðvitund. Svimi.",
+      "transliteration": "Yeg er ath miss-a, meth-vit-und. Svim-i.",
+      "category": "Emergency",
+      "generated_at": "2026-10-11T23:26:32.301855"
     }
   ],
-  "last_updated": "2026-10-11T20:51:28.112797"
+  "last_updated": "2026-10-11T23:26:32.301857"
 }
