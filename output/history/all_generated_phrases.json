@@ -18864,7 +18864,42 @@
       "transliteration": "Thessi lax, er dasamlegur.",
       "category": "Restaurant",
       "generated_at": "2026-10-14T20:31:39.228484"
+    },
+    {
+      "english": "The fog, rolls in, thick.",
+      "icelandic": "Þokan, kemur, þykk.",
+      "transliteration": "THO-ka, KEM-ur, THIK.",
+      "category": "Weather",
+      "generated_at": "2026-10-14T22:58:15.394237"
+    },
+    {
+      "english": "A chill, in the air, lingers.",
+      "icelandic": "Kuldi, í lofti, situr.",
+      "transliteration": "KUL-di, EE LOF-ti, SIT-ur.",
+      "category": "Weather",
+      "generated_at": "2026-10-14T22:58:15.394249"
+    },
+    {
+      "english": "Sunlight, breaks the gloom.",
+      "icelandic": "Sólarljós, rýfur myrkrið.",
+      "transliteration": "SO-lar-LYOHS, REE-vur Mirk-rid.",
+      "category": "Weather",
+      "generated_at": "2026-10-14T22:58:15.394250"
+    },
+    {
+      "english": "The wind, howls, a storm.",
+      "icelandic": "Vindurinn, öskrar, stormur.",
+      "transliteration": "VIN-dur-in, ÖSK-rar, STOR-mur.",
+      "category": "Weather",
+      "generated_at": "2026-10-14T22:58:15.394252"
+    },
+    {
+      "english": "Rain, falls, in sheets.",
+      "icelandic": "Regn, fellur, í stórum.",
+      "transliteration": "REGN, FEL-lur, EE STO-rum.",
+      "category": "Weather",
+      "generated_at": "2026-10-14T22:58:15.394253"
     }
   ],
-  "last_updated": "2026-10-14T20:31:39.228485"
+  "last_updated": "2026-10-14T22:58:15.394254"
 }
