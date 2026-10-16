@@ -19144,7 +19144,42 @@
       "transliteration": "Thetta landslag, heillar sannarlega.",
       "category": "Travel",
       "generated_at": "2026-10-16T16:23:44.948973"
+    },
+    {
+      "english": "Trace, that vowel's curve.",
+      "icelandic": "Fylgðu, bogalínu endingarinnar.",
+      "transliteration": "Filgðu, boga-línu ending-ar-innar.",
+      "category": "Directions",
+      "generated_at": "2026-10-16T17:55:30.663001"
+    },
+    {
+      "english": "Soften, the hard 'r'.",
+      "icelandic": "Mýktu, harða 'r'-hljóðið.",
+      "transliteration": "Mýk-tu, harða 'r'-hljó-ðið.",
+      "category": "Directions",
+      "generated_at": "2026-10-16T17:55:30.663012"
+    },
+    {
+      "english": "Whisper, the next syllable.",
+      "icelandic": "Hvíslar, næsta atkvæðið.",
+      "transliteration": "Hvísl-ar, næsta at-kvæð-ið.",
+      "category": "Directions",
+      "generated_at": "2026-10-16T17:55:30.663014"
+    },
+    {
+      "english": "Open, your mouth wider.",
+      "icelandic": "Opnaðu, munninn þinn meira.",
+      "transliteration": "Op-naðu, munn-inn þinn mæira.",
+      "category": "Directions",
+      "generated_at": "2026-10-16T17:55:30.663015"
+    },
+    {
+      "english": "Imagine, a calm harbor.",
+      "icelandic": "Ímyndaðu þér, friðsæla höfn.",
+      "transliteration": "Í-mynd-aðu þér, frið-sæla höfn.",
+      "category": "Directions",
+      "generated_at": "2026-10-16T17:55:30.663016"
     }
   ],
-  "last_updated": "2026-10-16T16:23:44.948975"
+  "last_updated": "2026-10-16T17:55:30.663017"
 }
