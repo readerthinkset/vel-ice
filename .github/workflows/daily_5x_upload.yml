@@ -2,11 +2,11 @@ name: VELOCITY ICELANDIC - Daily 5x Upload
 
 on:
   schedule:
-    - cron: '0 12 * * *'
-    - cron: '0 14 * * *'
-    - cron: '0 17 * * *'
-    - cron: '0 20 * * *'
-    - cron: '0 0 * * *'
+    - cron: '20 12 * * *'
+    - cron: '20 14 * * *'
+    - cron: '20 17 * * *'
+    - cron: '20 20 * * *'
+    - cron: '20 0 * * *'
 
   workflow_dispatch:
 
