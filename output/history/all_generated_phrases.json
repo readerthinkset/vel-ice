@@ -19914,7 +19914,42 @@
       "transliteration": "Fath-ma-thoo thuhgn-in-a, fin-thoo syal-fan thig.",
       "category": "Inner Peace",
       "generated_at": "2026-10-21T18:46:26.840086"
+    },
+    {
+      "english": "My leg, it's twisted. Painful.",
+      "icelandic": "Fóturinn, minn er snúinn. Sársaukafullt.",
+      "transliteration": "Foh-tur-in, min eer snoo-in. Sar-sau-ka-fullt.",
+      "category": "Emergency",
+      "generated_at": "2026-10-21T20:43:37.183859"
+    },
+    {
+      "english": "Suddenly, it's so cold. Shivering.",
+      "icelandic": "Skyndilega, er svo kalt. Skjálfandi.",
+      "transliteration": "Skin-de-le-ga, er so kalt. Skyal-fan-di.",
+      "category": "Emergency",
+      "generated_at": "2026-10-21T20:43:37.183870"
+    },
+    {
+      "english": "The fog, it's so thick. Can't see.",
+      "icelandic": "Móðan, er svo þykk. Sé ekki.",
+      "transliteration": "Moh-than, er so thikk. Say ek-ki.",
+      "category": "Emergency",
+      "generated_at": "2026-10-21T20:43:37.183871"
+    },
+    {
+      "english": "I think, I swallowed something. Choking.",
+      "icelandic": "Ég held, hafi gleypt eitthvað. Kæfandi.",
+      "transliteration": "Yeh held, hav-ee gleypt eth-vath. Kay-fan-di.",
+      "category": "Emergency",
+      "generated_at": "2026-10-21T20:43:37.183872"
+    },
+    {
+      "english": "My head, it's spinning. Dizzy.",
+      "icelandic": "Hérna, er að snúast. Svimi.",
+      "transliteration": "Hyair-na, er ath snoo-ast. Svimi.",
+      "category": "Emergency",
+      "generated_at": "2026-10-21T20:43:37.183873"
     }
   ],
-  "last_updated": "2026-10-21T18:46:26.840088"
+  "last_updated": "2026-10-21T20:43:37.183874"
 }
