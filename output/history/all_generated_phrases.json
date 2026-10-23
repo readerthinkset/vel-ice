@@ -20299,7 +20299,42 @@
       "transliteration": "Lyohss hel-lir, gull-nar loug.",
       "category": "Nature",
       "generated_at": "2026-10-23T20:32:00.491534"
+    },
+    {
+      "english": "A light jacket, for a cool day.",
+      "icelandic": "Létt jakki, fyrir svalan dag.",
+      "transliteration": "Lyett yakki, firir svalan dag.",
+      "category": "Clothes",
+      "generated_at": "2026-10-23T23:10:55.141385"
+    },
+    {
+      "english": "These boots, protect from the rain.",
+      "icelandic": "Þessir skór, verja fyrir rigningu.",
+      "transliteration": "Thessir skoor, verja firir rig-ning-u.",
+      "category": "Clothes",
+      "generated_at": "2026-10-23T23:10:55.141391"
+    },
+    {
+      "english": "A wide belt, cinches the waist.",
+      "icelandic": "Breitt belti, þrengir mittisstaðinn.",
+      "transliteration": "Breitt belti, threngir mittis-stath-in.",
+      "category": "Clothes",
+      "generated_at": "2026-10-23T23:10:55.141391"
+    },
+    {
+      "english": "My favorite shirt, feels like silk.",
+      "icelandic": "Mátreytis skyrtan mín, finnst silki.",
+      "transliteration": "Maa-trey-tis skir-tan meen, finnst sil-ki.",
+      "category": "Clothes",
+      "generated_at": "2026-10-23T23:10:55.141392"
+    },
+    {
+      "english": "A bright scarf, for a cheerful look.",
+      "icelandic": "Bjartur trefill, fyrir glaðlegt útlit.",
+      "transliteration": "Byar-tur tre-fill, firir glað-legt oot-lit.",
+      "category": "Clothes",
+      "generated_at": "2026-10-23T23:10:55.141393"
     }
   ],
-  "last_updated": "2026-10-23T20:32:00.491536"
+  "last_updated": "2026-10-23T23:10:55.141394"
 }
