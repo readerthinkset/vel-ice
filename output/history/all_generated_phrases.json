@@ -20369,7 +20369,42 @@
       "transliteration": "FIN-dhoo HRIN-yahn, TOON-goon-nar.",
       "category": "Perseverance",
       "generated_at": "2026-10-24T04:48:17.928920"
+    },
+    {
+      "english": "The air, hums with frost.",
+      "icelandic": "Loftið, titrar af frosti.",
+      "transliteration": "Lof-theeth, tit-rahr ahr frost-i.",
+      "category": "Weather",
+      "generated_at": "2026-10-24T16:06:00.853195"
+    },
+    {
+      "english": "Sunlight, paints the peaks.",
+      "icelandic": "Sólin, málar tindana.",
+      "transliteration": "So-lin, maa-lahr tin-dah-nah.",
+      "category": "Weather",
+      "generated_at": "2026-10-24T16:06:00.853205"
+    },
+    {
+      "english": "A sudden squall, whips the sea.",
+      "icelandic": "Hvellur, slær á hafið.",
+      "transliteration": "Hvel-loor, slaihr ah ha-vith.",
+      "category": "Weather",
+      "generated_at": "2026-10-24T16:06:00.853206"
+    },
+    {
+      "english": "Sky, a sheet of pewter.",
+      "icelandic": "Himinn, grár sem blikk.",
+      "transliteration": "Him-in, graur sem blikk.",
+      "category": "Weather",
+      "generated_at": "2026-10-24T16:06:00.853208"
+    },
+    {
+      "english": "Drizzle, kisses the stone.",
+      "icelandic": "Disill, kyssir steininn.",
+      "transliteration": "Dis-ill, kis-sir stein-in.",
+      "category": "Weather",
+      "generated_at": "2026-10-24T16:06:00.853209"
     }
   ],
-  "last_updated": "2026-10-24T04:48:17.928922"
+  "last_updated": "2026-10-24T16:06:00.853210"
 }
