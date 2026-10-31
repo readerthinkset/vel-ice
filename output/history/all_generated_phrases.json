@@ -21384,7 +21384,42 @@
       "transliteration": "Fimm stodh-u-gar hen-dur, bygg-ya fram-tee-thee-na.",
       "category": "Numbers",
       "generated_at": "2026-10-31T05:56:17.470699"
+    },
+    {
+      "english": "Moss hugs, the ancient stone.",
+      "icelandic": "Mosi klæðir, gamla steininn.",
+      "transliteration": "Moh-si kly-thir, gam-la stei-nin.",
+      "category": "Nature",
+      "generated_at": "2026-10-31T17:18:22.082243"
+    },
+    {
+      "english": "Sunlight paints, the silent fjord.",
+      "icelandic": "Sólin málar, þögla fjörðinn.",
+      "transliteration": "Soh-lin mah-lar, thuhg-la fyohr-thin.",
+      "category": "Nature",
+      "generated_at": "2026-10-31T17:18:22.082256"
+    },
+    {
+      "english": "Waves whisper, to the dark sand.",
+      "icelandic": "Bylgjurnar hvísla, að svörtu sandinum.",
+      "transliteration": "Bil-gyoor-nar hviss-la, ath svort-u san-din-um.",
+      "category": "Nature",
+      "generated_at": "2026-10-31T17:18:22.082257"
+    },
+    {
+      "english": "Birdsong greets, the morning light.",
+      "icelandic": "Fuglasöngur kveður, morgunbirtuna.",
+      "transliteration": "Fug-la-song-oor kve-thur, mor-gun-bir-tu-na.",
+      "category": "Nature",
+      "generated_at": "2026-10-31T17:18:22.082259"
+    },
+    {
+      "english": "Raindrops tap, on window panes.",
+      "icelandic": "Regndropar banka, á rúðurnar.",
+      "transliteration": "Regn-dro-par ban-ka, ah roo-thur-nar.",
+      "category": "Nature",
+      "generated_at": "2026-10-31T17:18:22.082260"
     }
   ],
-  "last_updated": "2026-10-31T05:56:17.470700"
+  "last_updated": "2026-10-31T17:18:22.082261"
 }
