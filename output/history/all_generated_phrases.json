@@ -21629,7 +21629,42 @@
       "transliteration": "Fyor-thu-vatn, o-skirrt graut.",
       "category": "Colors",
       "generated_at": "2026-11-01T21:17:06.423927"
+    },
+    {
+      "english": "Sky, painted with fire.",
+      "icelandic": "Himinn, málaður með eldi.",
+      "transliteration": "Himinn, málaður með eldi.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T23:38:27.007532"
+    },
+    {
+      "english": "Air, tastes of ozone.",
+      "icelandic": "Loft, bragðast eins og ósoni.",
+      "transliteration": "Loft, bragðast eins og ósoni.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T23:38:27.007542"
+    },
+    {
+      "english": "Clouds, like bruised plums.",
+      "icelandic": "Ský, eins og plómur, hrútar.",
+      "transliteration": "Sky, eins og plómur, hrútar.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T23:38:27.007544"
+    },
+    {
+      "english": "Sunlight, a golden thread.",
+      "icelandic": "Sólarljós, gullþráður.",
+      "transliteration": "Sólarljós, gullþráður.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T23:38:27.007545"
+    },
+    {
+      "english": "Wind, a playful hand.",
+      "icelandic": "Vindur, leikandi hönd.",
+      "transliteration": "Vindur, leikandi hönd.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T23:38:27.007545"
     }
   ],
-  "last_updated": "2026-11-01T21:17:06.423929"
+  "last_updated": "2026-11-01T23:38:27.007547"
 }
