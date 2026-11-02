@@ -21664,7 +21664,42 @@
       "transliteration": "Vindur, leikandi hönd.",
       "category": "Weather",
       "generated_at": "2026-11-01T23:38:27.007545"
+    },
+    {
+      "english": "Sleep fades, like mist.",
+      "icelandic": "Svefn hverfur, eins og þoka.",
+      "transliteration": "Svefn hver-fur, eins og tho-ka.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T06:25:11.010768"
+    },
+    {
+      "english": "Morning greets, me gently.",
+      "icelandic": "Morguninn heilsar, mér blítt.",
+      "transliteration": "Mor-gun-inn heyl-sar, mer blit.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T06:25:11.010783"
+    },
+    {
+      "english": "My mind, begins to wander.",
+      "icelandic": "Hugur minn, byrjar að reika.",
+      "transliteration": "Hu-gur min, bir-jar ath rey-ka.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T06:25:11.010784"
+    },
+    {
+      "english": "A yawn escapes, softly.",
+      "icelandic": "Gegn út, kemur blíðlega.",
+      "transliteration": "Gegn oot, kem-ur blith-le-ga.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T06:25:11.010785"
+    },
+    {
+      "english": "Warm covers, I leave.",
+      "icelandic": "Hlýjar sængur, ég yfirgef.",
+      "transliteration": "Hly-ar seng-ur, yee ye-vir-gef.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T06:25:11.010787"
     }
   ],
-  "last_updated": "2026-11-01T23:38:27.007547"
+  "last_updated": "2026-11-02T06:25:11.010788"
 }
