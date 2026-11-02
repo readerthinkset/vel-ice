@@ -21734,7 +21734,42 @@
       "transliteration": "GOTT NEY-sta, KVICK-nar NOO.",
       "category": "Joy",
       "generated_at": "2026-11-02T21:50:08.779894"
+    },
+    {
+      "english": "This word, try it.",
+      "icelandic": "Þetta orð, reyndu það.",
+      "transliteration": "THET-ta orth, REYN-thu thath.",
+      "category": "Confidence",
+      "generated_at": "2026-11-02T22:50:01.971642"
+    },
+    {
+      "english": "Your sound, it lands.",
+      "icelandic": "Þinn hljómi, hann lendir.",
+      "transliteration": "Thin HLYO-mee, han LENT-irs.",
+      "category": "Confidence",
+      "generated_at": "2026-11-02T22:50:01.971650"
+    },
+    {
+      "english": "A bold sound, you make.",
+      "icelandic": "Djörf hljóð, þú gerir.",
+      "transliteration": "DJURV-f hlyoath, thoo GER-eers.",
+      "category": "Confidence",
+      "generated_at": "2026-11-02T22:50:01.971652"
+    },
+    {
+      "english": "Just speak, it's fine.",
+      "icelandic": "Talaðu bara, það er í lagi.",
+      "transliteration": "TAH-la-thu BAH-ra, thath eth ee LA-ghee.",
+      "category": "Confidence",
+      "generated_at": "2026-11-02T22:50:01.971654"
+    },
+    {
+      "english": "Feel the language, flow.",
+      "icelandic": "Finndu tungumálið, flæðið.",
+      "transliteration": "FIN-n-dhoo TOON-goo-MAH-lith, FLAI-thith.",
+      "category": "Confidence",
+      "generated_at": "2026-11-02T22:50:01.971655"
     }
   ],
-  "last_updated": "2026-11-02T21:50:08.779896"
+  "last_updated": "2026-11-02T22:50:01.971657"
 }
