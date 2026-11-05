@@ -22259,7 +22259,42 @@
       "transliteration": "Hvar er stoppistöðin, vinsamlegast?",
       "category": "Basic Phrases",
       "generated_at": "2026-11-05T20:08:27.992133"
+    },
+    {
+      "english": "Pause, feel your feet, breathe slowly.",
+      "icelandic": "Hættu þér, finndu fæturna, andaðu hægt.",
+      "transliteration": "Haettu þér, finndu fæturna, andaðu hægt.",
+      "category": "Balance",
+      "generated_at": "2026-11-05T21:08:46.140608"
+    },
+    {
+      "english": "Relax your shoulders, stand tall, stay kind.",
+      "icelandic": "Slakaðu á herðum, stattu upprétt, vertu mild/ur.",
+      "transliteration": "Slakaðu á herðum, stattu upprétt, vertu mildur.",
+      "category": "Balance",
+      "generated_at": "2026-11-05T21:08:46.140619"
+    },
+    {
+      "english": "Move with care, hold steady, soften edges.",
+      "icelandic": "Færðu þig varlega, haltu stöðugu, mýktu brúnir.",
+      "transliteration": "Færðu þig varlega, haltu stöðugu, mýktu brúnir.",
+      "category": "Balance",
+      "generated_at": "2026-11-05T21:08:46.140622"
+    },
+    {
+      "english": "Look forward, soften knees, balance gently.",
+      "icelandic": "Horðu áfram, beygðu hnén, haltu jafnvægi.",
+      "transliteration": "Horðu áfram, beygðu hnén, haltu jafnvægi.",
+      "category": "Balance",
+      "generated_at": "2026-11-05T21:08:46.140624"
+    },
+    {
+      "english": "Let your weight settle, then adjust.",
+      "icelandic": "Láttu þyngdina setjast, svo stilltu.",
+      "transliteration": "Láttu þyngdina setjast, svo stilltu.",
+      "category": "Balance",
+      "generated_at": "2026-11-05T21:08:46.140626"
     }
   ],
-  "last_updated": "2026-11-05T20:08:27.992135"
+  "last_updated": "2026-11-05T21:08:46.140628"
 }
