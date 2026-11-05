@@ -22154,7 +22154,42 @@
       "transliteration": "Æfðu daglega, stuttar lotur vinna langar áætlanir",
       "category": "Purpose",
       "generated_at": "2026-11-04T23:26:52.611672"
+    },
+    {
+      "english": "Help, I can't wake up my friend.",
+      "icelandic": "Hjálp, ég get ekki vakið vin minn.",
+      "transliteration": "Hjálp, ég get ekki vakið vin minn.",
+      "category": "Emergency",
+      "generated_at": "2026-11-05T00:56:13.404750"
+    },
+    {
+      "english": "Call emergency services, please, now.",
+      "icelandic": "Hringdu í neyðarlínuna, vinsamlegast, núna.",
+      "transliteration": "Hringdu í neyðarlínuna, vinsamlegast, núna.",
+      "category": "Emergency",
+      "generated_at": "2026-11-05T00:56:13.404763"
+    },
+    {
+      "english": "I need a doctor, quickly, please.",
+      "icelandic": "Mig vantar lækni, fljótt, vinsamlegast.",
+      "transliteration": "Mig vantar lækni, fljótt, vinsamlegast.",
+      "category": "Emergency",
+      "generated_at": "2026-11-05T00:56:13.404765"
+    },
+    {
+      "english": "I swallowed something wrong, I can't breathe.",
+      "icelandic": "Ég gleypi eitthvað rangt, ég kemst ekki að anda.",
+      "transliteration": "Ég gleypi eitthvað rangt, ég kemst ekki að anda.",
+      "category": "Emergency",
+      "generated_at": "2026-11-05T00:56:13.404766"
+    },
+    {
+      "english": "My mouth feels numb, something's wrong.",
+      "icelandic": "Munnurinn dofnar, eitthvað er að.",
+      "transliteration": "Munnurinn dofnar, eitthvað er að.",
+      "category": "Emergency",
+      "generated_at": "2026-11-05T00:56:13.404767"
     }
   ],
-  "last_updated": "2026-11-04T23:26:52.611673"
+  "last_updated": "2026-11-05T00:56:13.404768"
 }
