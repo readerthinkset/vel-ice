@@ -22609,7 +22609,42 @@
       "transliteration": "Jökulspónn glóir, þegar dagsljósið finnur þá",
       "category": "Nature",
       "generated_at": "2026-11-07T17:48:11.560317"
+    },
+    {
+      "english": "Take a breath, then say it slowly.",
+      "icelandic": "Taktu andardrátt, segðu þetta svo hægt.",
+      "transliteration": "Taktu andardrátt, segðu þetta svo hægt.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-07T18:53:31.186444"
+    },
+    {
+      "english": "I’m learning, one word at a time.",
+      "icelandic": "Ég er að læra, orð fyrir orð.",
+      "transliteration": "Ég er að læra, orð fyrir orð.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-07T18:53:31.186454"
+    },
+    {
+      "english": "Could you repeat that, please, once more?",
+      "icelandic": "Geturðu endurtekið þetta, takk, einu sinni?",
+      "transliteration": "Geturðu endurtekið þetta, takk, einu sinni?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-07T18:53:31.186456"
+    },
+    {
+      "english": "Where is the bus stop, exactly?",
+      "icelandic": "Hvar er stoppistöðin, alveg nákvæmlega?",
+      "transliteration": "Hvar er stoppistöðin, alveg nákvæmlega?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-07T18:53:31.186458"
+    },
+    {
+      "english": "I’ll check my map, just a moment.",
+      "icelandic": "Ég skoða kortið, bara augnablik.",
+      "transliteration": "Ég skoða kortið, bara augnablik.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-07T18:53:31.186459"
     }
   ],
-  "last_updated": "2026-11-07T17:48:11.560319"
+  "last_updated": "2026-11-07T18:53:31.186461"
 }
