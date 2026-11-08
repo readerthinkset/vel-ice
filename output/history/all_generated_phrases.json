@@ -22714,7 +22714,42 @@
       "transliteration": "Mer finnst eg stodug, eins og fætur viti.",
       "category": "Feelings",
       "generated_at": "2026-11-07T23:40:14.778071"
+    },
+    {
+      "english": "How much is this, please, in kronur?",
+      "icelandic": "Hvað kostar þetta, takk, í krónum?",
+      "transliteration": "Hvað kostar þetta, takk, í krónum?",
+      "category": "Shopping",
+      "generated_at": "2026-11-08T06:18:09.103300"
+    },
+    {
+      "english": "Can I see the size chart, please?",
+      "icelandic": "Get ég fengið stærðartöflu, takk?",
+      "transliteration": "Get ég fengið stærðartöflu, takk?",
+      "category": "Shopping",
+      "generated_at": "2026-11-08T06:18:09.103311"
+    },
+    {
+      "english": "Is there a sale today, in this store?",
+      "icelandic": "Er afsláttur í dag, í þessari verslun?",
+      "transliteration": "Er afsláttur í dag, í þessari verslun?",
+      "category": "Shopping",
+      "generated_at": "2026-11-08T06:18:09.103312"
+    },
+    {
+      "english": "Do you have it, in my size?",
+      "icelandic": "Er þetta til, í minni stærð?",
+      "transliteration": "Er þetta til, í minni stærð?",
+      "category": "Shopping",
+      "generated_at": "2026-11-08T06:18:09.103313"
+    },
+    {
+      "english": "What payment cards do you accept, please?",
+      "icelandic": "Hvaða greiðslukort takað þið, takk?",
+      "transliteration": "Hvaða greiðslukort taka þið, takk?",
+      "category": "Shopping",
+      "generated_at": "2026-11-08T06:18:09.103314"
     }
   ],
-  "last_updated": "2026-11-07T23:40:14.778073"
+  "last_updated": "2026-11-08T06:18:09.103315"
 }
