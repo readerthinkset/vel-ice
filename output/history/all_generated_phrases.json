@@ -22784,7 +22784,42 @@
       "transliteration": "Finndu fæturna, á gólfinu, stöðugt",
       "category": "Mindfulness",
       "generated_at": "2026-11-08T18:00:09.807375"
+    },
+    {
+      "english": "Hi, can I see the specials, please?",
+      "icelandic": "Hæ, get ég séð sértilboð, takk?",
+      "transliteration": "Hæ, get ég séð sértilboð, takk?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-08T18:54:17.121517"
+    },
+    {
+      "english": "Do you have a vegetarian option, tonight?",
+      "icelandic": "Er með grænmetisrétt í kvöld?",
+      "transliteration": "Er með grænmetisrétt í kvöld?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-08T18:54:17.121528"
+    },
+    {
+      "english": "What ingredients are in the soup, today?",
+      "icelandic": "Hvað er í súpunni, í dag?",
+      "transliteration": "Hvað er í súpunni, í dag?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-08T18:54:17.121529"
+    },
+    {
+      "english": "Please, could I taste the bread sauce?",
+      "icelandic": "Endilega, má ég smakka brauðssósu?",
+      "transliteration": "Endilega, má ég smakka brauðssósu?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-08T18:54:17.121531"
+    },
+    {
+      "english": "Is the rye bread fresh, this morning?",
+      "icelandic": "Er rukkulegt brauð ferskt, í morgun?",
+      "transliteration": "Er rukkulegt brauð ferskt, í morgun?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-08T18:54:17.121532"
     }
   ],
-  "last_updated": "2026-11-08T18:00:09.807377"
+  "last_updated": "2026-11-08T18:54:17.121533"
 }
