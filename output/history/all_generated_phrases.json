@@ -23484,7 +23484,42 @@
       "transliteration": "Songvarinn hljomar hlylega, eins og heima",
       "category": "Music",
       "generated_at": "2026-11-12T05:50:57.718729"
+    },
+    {
+      "english": "Wi‑Fi is weak here, sorry.",
+      "icelandic": "Þráðlaust net er veikt hér, fyrirgefðu.",
+      "transliteration": "THradlaust net er veikt her, fyrirgefðu.",
+      "category": "Technology",
+      "generated_at": "2026-11-12T19:23:48.246974"
+    },
+    {
+      "english": "I can’t log in right now.",
+      "icelandic": "Ég kemst ekki inn rétt núna.",
+      "transliteration": "Eg kemst ekki inn rett nŏna.",
+      "category": "Technology",
+      "generated_at": "2026-11-12T19:23:48.246988"
+    },
+    {
+      "english": "Try resetting your password, please.",
+      "icelandic": "Prófaðu að endurstilla lykilorðið, vinsamlegast.",
+      "transliteration": "Prófaðu að endurstilla lykilorðið, vinsamlegast.",
+      "category": "Technology",
+      "generated_at": "2026-11-12T19:23:48.246989"
+    },
+    {
+      "english": "Can you share your hotspot password?",
+      "icelandic": "Geturðu deilt lykilorði fyrir farsímaaðgang?",
+      "transliteration": "Geturðu deilt lykilorði fyrir farsímaaðgang?",
+      "category": "Technology",
+      "generated_at": "2026-11-12T19:23:48.246990"
+    },
+    {
+      "english": "Your phone battery is running low.",
+      "icelandic": "Síminn þinn er kominn á lítið batterí.",
+      "transliteration": "Símnnn þinn er kominn á lítið batterí.",
+      "category": "Technology",
+      "generated_at": "2026-11-12T19:23:48.246991"
     }
   ],
-  "last_updated": "2026-11-12T05:50:57.718731"
+  "last_updated": "2026-11-12T19:23:48.246995"
 }
