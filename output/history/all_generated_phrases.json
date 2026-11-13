@@ -23729,7 +23729,42 @@
       "transliteration": "FINNðu BRJOestið RÍsa, svo FALLa",
       "category": "Mindfulness",
       "generated_at": "2026-11-13T20:44:33.525478"
+    },
+    {
+      "english": "Hello, do you speak English?",
+      "icelandic": "Halló, talar þú ensku?",
+      "transliteration": "ha-ló, ta-lar þú en-sku?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T22:22:09.382967"
+    },
+    {
+      "english": "Please, help me find this place.",
+      "icelandic": "Vinsamlegast, hjálpaðu mér að finna þetta.",
+      "transliteration": "vin-sam-lega,jál-paðu mér að fin-na þetta",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T22:22:09.382979"
+    },
+    {
+      "english": "How much is this, please?",
+      "icelandic": "Hvað kostar þetta, takk?",
+      "transliteration": "hvað kos-tar þetta, takk?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T22:22:09.382981"
+    },
+    {
+      "english": "Where should I buy a ticket?",
+      "icelandic": "Hvar á ég að kaupa miða?",
+      "transliteration": "hvar á ég að kaupa miða?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T22:22:09.382983"
+    },
+    {
+      "english": "Is there a shop nearby?",
+      "icelandic": "Er verslun í nágrenninu?",
+      "transliteration": "er ver-slun í ná-gren-ninu?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T22:22:09.382984"
     }
   ],
-  "last_updated": "2026-11-13T20:44:33.525479"
+  "last_updated": "2026-11-13T22:22:09.382987"
 }
