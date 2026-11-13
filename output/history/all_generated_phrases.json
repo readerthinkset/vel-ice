@@ -23624,7 +23624,42 @@
       "transliteration": "vidleitnin thin skiptir mali, eg se",
       "category": "Kindness",
       "generated_at": "2026-11-13T00:56:07.022175"
+    },
+    {
+      "english": "Morning is here, come on.",
+      "icelandic": "Morguninn er kominn, komdu.",
+      "transliteration": "Morgunninn er kominn, komdu.",
+      "category": "Time",
+      "generated_at": "2026-11-13T05:10:52.059086"
+    },
+    {
+      "english": "It’s late now, take care.",
+      "icelandic": "Það er orðið seint, passaðu þig.",
+      "transliteration": "Það er orðið seint, passaðu þig.",
+      "category": "Time",
+      "generated_at": "2026-11-13T05:10:52.059102"
+    },
+    {
+      "english": "We still have time, don’t rush.",
+      "icelandic": "Við höfum enn tíma, ekki flýta.",
+      "transliteration": "Við höfum enn tíma, ekki flýta.",
+      "category": "Time",
+      "generated_at": "2026-11-13T05:10:52.059103"
+    },
+    {
+      "english": "Wait a minute, I’m coming.",
+      "icelandic": "Bíddu í smástund, ég kem.",
+      "transliteration": "Bíddu í smástund, ég kem.",
+      "category": "Time",
+      "generated_at": "2026-11-13T05:10:52.059104"
+    },
+    {
+      "english": "Just before noon, we meet.",
+      "icelandic": "Rétt fyrir hádegi hittumst við.",
+      "transliteration": "Rétt fyrir hádegi hittumst við.",
+      "category": "Time",
+      "generated_at": "2026-11-13T05:10:52.059105"
     }
   ],
-  "last_updated": "2026-11-13T00:56:07.022177"
+  "last_updated": "2026-11-13T05:10:52.059107"
 }
