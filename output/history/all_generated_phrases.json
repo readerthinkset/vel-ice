@@ -23904,7 +23904,42 @@
       "transliteration": "Á morgun skilurðu meira, treystu því.",
       "category": "Motivation",
       "generated_at": "2026-11-14T18:56:14.326113"
+    },
+    {
+      "english": "How much does it cost today?",
+      "icelandic": "Hvað kostar þetta í dag?",
+      "transliteration": "Hvað kostar þetta í dag?",
+      "category": "Shopping",
+      "generated_at": "2026-11-14T21:04:21.829029"
+    },
+    {
+      "english": "Can I see it up close?",
+      "icelandic": "Get ég séð þetta aðeins betur?",
+      "transliteration": "Get ég séð þetta aðeins betur?",
+      "category": "Shopping",
+      "generated_at": "2026-11-14T21:04:21.829043"
+    },
+    {
+      "english": "Does it come in other colors?",
+      "icelandic": "Er þetta til í fleiri litum?",
+      "transliteration": "Er þetta til í fleiri litum?",
+      "category": "Shopping",
+      "generated_at": "2026-11-14T21:04:21.829044"
+    },
+    {
+      "english": "Is there a larger size available?",
+      "icelandic": "Er til stærra eintak?",
+      "transliteration": "Er til stærra eintak?",
+      "category": "Shopping",
+      "generated_at": "2026-11-14T21:04:21.829045"
+    },
+    {
+      "english": "What fabric is this made of?",
+      "icelandic": "Úr hverju er þetta?",
+      "transliteration": "Úr hverju er þetta?",
+      "category": "Shopping",
+      "generated_at": "2026-11-14T21:04:21.829046"
     }
   ],
-  "last_updated": "2026-11-14T18:56:14.326115"
+  "last_updated": "2026-11-14T21:04:21.829047"
 }
