@@ -23834,7 +23834,42 @@
       "transliteration": "Taktu andann, svo taktu á því.",
       "category": "Courage",
       "generated_at": "2026-11-14T05:01:11.811581"
+    },
+    {
+      "english": "Moss grows thick, in the shade.",
+      "icelandic": "Mosi vex þykkur, í skugga.",
+      "transliteration": "mo-si vex thi-kur, í skug-ga",
+      "category": "Nature",
+      "generated_at": "2026-11-14T17:31:33.510602"
+    },
+    {
+      "english": "A gull cries, over the harbor.",
+      "icelandic": "Hringfugl vælir, yfir höfninni.",
+      "transliteration": "hring-fugl ve-i-lir, yf-ir höfn-in-ni",
+      "category": "Nature",
+      "generated_at": "2026-11-14T17:31:33.510617"
+    },
+    {
+      "english": "Heathland smells earthy, after a rain.",
+      "icelandic": "Þúfurnar lykta jarðneskt, eftir rigningu.",
+      "transliteration": "thjuf-ur-nar ly-kta jarð-neskt, eft-ir rign-ing-u",
+      "category": "Nature",
+      "generated_at": "2026-11-14T17:31:33.510618"
+    },
+    {
+      "english": "The sea fog thickens, at dusk.",
+      "icelandic": "Sjórþoka þykknar, í kvöldskiptum.",
+      "transliteration": "sjöur-tho-ka thykkn-ar, í kvöld-skip-tum",
+      "category": "Nature",
+      "generated_at": "2026-11-14T17:31:33.510619"
+    },
+    {
+      "english": "A gull lands, with quick steps.",
+      "icelandic": "Hringfugl sest, með hröðum skrefum.",
+      "transliteration": "hring-fugl sezt, með hraud-um skre-fum",
+      "category": "Nature",
+      "generated_at": "2026-11-14T17:31:33.510620"
     }
   ],
-  "last_updated": "2026-11-14T05:01:11.811583"
+  "last_updated": "2026-11-14T17:31:33.510622"
 }
