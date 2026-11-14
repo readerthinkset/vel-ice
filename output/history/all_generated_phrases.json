@@ -23764,7 +23764,42 @@
       "transliteration": "er ver-slun í ná-gren-ninu?",
       "category": "Basic Phrases",
       "generated_at": "2026-11-13T22:22:09.382984"
+    },
+    {
+      "english": "I didn't mean to hurt you, sorry.",
+      "icelandic": "Ég meinti þér ekki meiðsli, afsakið.",
+      "transliteration": "Ég meinti þér ekki meiðsli, afsakið.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T00:44:13.985899"
+    },
+    {
+      "english": "Please, forgive me for my words.",
+      "icelandic": "Vinsamlegast fyrirgefðu orð mín.",
+      "transliteration": "Vinsamlegast fyrirgefðu orð mín.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T00:44:13.985914"
+    },
+    {
+      "english": "I understand why you’re upset.",
+      "icelandic": "Ég skil hvers vegna þú ert í uppnámi.",
+      "transliteration": "Ég skil hvers vegna þú ert í uppnámi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T00:44:13.985916"
+    },
+    {
+      "english": "I take responsibility, and I’m sorry.",
+      "icelandic": "Ég tek ábyrgð, og ég er miður.",
+      "transliteration": "Ég tek ábyrgð, og ég er miður.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T00:44:13.985918"
+    },
+    {
+      "english": "I won’t repeat what happened, ever.",
+      "icelandic": "Ég mun ekki endurtaka það sem gerðist.",
+      "transliteration": "Ég mun ekki endurtaka það sem gerðist.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T00:44:13.985920"
     }
   ],
-  "last_updated": "2026-11-13T22:22:09.382987"
+  "last_updated": "2026-11-14T00:44:13.985922"
 }
