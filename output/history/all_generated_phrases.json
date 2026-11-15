@@ -24044,7 +24044,42 @@
       "transliteration": "Gaetni thín sest, jafnvel i smáu",
       "category": "Relationships",
       "generated_at": "2026-11-15T18:20:36.053102"
+    },
+    {
+      "english": "Do you take credit cards here?",
+      "icelandic": "Takið þið kort hérna?",
+      "transliteration": "takið þið kort herna?",
+      "category": "Travel",
+      "generated_at": "2026-11-15T19:32:32.749374"
+    },
+    {
+      "english": "Is there a restroom nearby?",
+      "icelandic": "Er salerni í nágrenninu?",
+      "transliteration": "er salerni í nahrenninu?",
+      "category": "Travel",
+      "generated_at": "2026-11-15T19:32:32.749387"
+    },
+    {
+      "english": "I’m looking for the city center.",
+      "icelandic": "Ég er að leita að miðbænum.",
+      "transliteration": "ég er að leita að miðbænum.",
+      "category": "Travel",
+      "generated_at": "2026-11-15T19:32:32.749388"
+    },
+    {
+      "english": "What time does the tour start?",
+      "icelandic": "Hvenær byrjar ferðin?",
+      "transliteration": "hvenær byrjar ferðin?",
+      "category": "Travel",
+      "generated_at": "2026-11-15T19:32:32.749389"
+    },
+    {
+      "english": "Is this road safe in winter?",
+      "icelandic": "Er þessi leið örugg yfir vetur?",
+      "transliteration": "er þessi leið örugg yfir vetur?",
+      "category": "Travel",
+      "generated_at": "2026-11-15T19:32:32.749390"
     }
   ],
-  "last_updated": "2026-11-15T18:20:36.053104"
+  "last_updated": "2026-11-15T19:32:32.749391"
 }
