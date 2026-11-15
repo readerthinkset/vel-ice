@@ -24114,7 +24114,42 @@
       "transliteration": "LÁT-tu M YÖÐM-in-a slá-ka, VER-tu í jafnvægi",
       "category": "Balance",
       "generated_at": "2026-11-15T21:27:25.544602"
+    },
+    {
+      "english": "Hi, can I order now, please?",
+      "icelandic": "Hæ, má ég panta núna?",
+      "transliteration": "hei, ma eg panta nūna?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-15T23:48:51.025172"
+    },
+    {
+      "english": "I’d like a table for one.",
+      "icelandic": "Mig langar í borð fyrir einn.",
+      "transliteration": "mig langar i borð fyrir einn",
+      "category": "Restaurant",
+      "generated_at": "2026-11-15T23:48:51.025185"
+    },
+    {
+      "english": "Do you serve coffee after dinner?",
+      "icelandic": "Bjóðið þið kaffi eftir mat?",
+      "transliteration": "bjodið þið kaffi eftir mat?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-15T23:48:51.025187"
+    },
+    {
+      "english": "Can I get sparkling water, please?",
+      "icelandic": "Má ég fá kolsýrt vatn, takk?",
+      "transliteration": "ma eg fa kolsýrt vatn, takk",
+      "category": "Restaurant",
+      "generated_at": "2026-11-15T23:48:51.025189"
+    },
+    {
+      "english": "Is there a lunch menu today?",
+      "icelandic": "Er hádegisvalmynd í dag?",
+      "transliteration": "er ha-degis-valmynd i dag?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-15T23:48:51.025191"
     }
   ],
-  "last_updated": "2026-11-15T21:27:25.544604"
+  "last_updated": "2026-11-15T23:48:51.025193"
 }
