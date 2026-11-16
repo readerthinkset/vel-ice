@@ -24149,7 +24149,42 @@
       "transliteration": "er ha-degis-valmynd i dag?",
       "category": "Restaurant",
       "generated_at": "2026-11-15T23:48:51.025191"
+    },
+    {
+      "english": "Please look at the board first, then listen.",
+      "icelandic": "Vinsamlegast líttu á töfluna fyrst, svo hlustaðu.",
+      "transliteration": "Vinsamlegast lit-tu á töfluna fyrst, svo hlustað-u.",
+      "category": "Directions",
+      "generated_at": "2026-11-16T04:50:20.378488"
+    },
+    {
+      "english": "Start here, then move your hand slowly.",
+      "icelandic": "Byrjaðu hér, svo færðu höndina hægt.",
+      "transliteration": "Byrja-du hér, svo færðu höndina hægt.",
+      "category": "Directions",
+      "generated_at": "2026-11-16T04:50:20.378499"
+    },
+    {
+      "english": "Say it clearly, with a steady pace.",
+      "icelandic": "Segðu þetta skýrt, á jöfnum hraða.",
+      "transliteration": "Segðu þetta skýrt, á jöfnum hraða.",
+      "category": "Directions",
+      "generated_at": "2026-11-16T04:50:20.378500"
+    },
+    {
+      "english": "Pause for a moment, then continue.",
+      "icelandic": "Hættu aðeins, svo haltu áfram.",
+      "transliteration": "Hættu aðeins, svo haltu áfram.",
+      "category": "Directions",
+      "generated_at": "2026-11-16T04:50:20.378502"
+    },
+    {
+      "english": "Hold the sound a little longer.",
+      "icelandic": "Haltu hljóðinu aðeins lengur.",
+      "transliteration": "Haltu hljóðinu aðeins lengur.",
+      "category": "Directions",
+      "generated_at": "2026-11-16T04:50:20.378504"
     }
   ],
-  "last_updated": "2026-11-15T23:48:51.025193"
+  "last_updated": "2026-11-16T04:50:20.378506"
 }
