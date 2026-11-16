@@ -24184,7 +24184,42 @@
       "transliteration": "Haltu hljóðinu aðeins lengur.",
       "category": "Directions",
       "generated_at": "2026-11-16T04:50:20.378504"
+    },
+    {
+      "english": "Hi! How’s it going today?",
+      "icelandic": "Hæ! Hvernig gengur í dag?",
+      "transliteration": "hai! Hveringur i dag?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-16T21:28:54.716428"
+    },
+    {
+      "english": "Thanks, that helps me a lot.",
+      "icelandic": "Takk, þetta hjálpar mér mikið.",
+      "transliteration": "takk, þetta hjalpar mer mikid",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-16T21:28:54.716442"
+    },
+    {
+      "english": "Sorry, I didn’t understand.",
+      "icelandic": "Fyrirgefðu, ég skildi ekki.",
+      "transliteration": "fyrirgefdu, eg skildi ekki",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-16T21:28:54.716444"
+    },
+    {
+      "english": "Do you have a moment, please?",
+      "icelandic": "Ertu með smá stund, vinsamlegast?",
+      "transliteration": "ertu med sma stund, vinsamlega",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-16T21:28:54.716445"
+    },
+    {
+      "english": "Where is the nearest supermarket?",
+      "icelandic": "Hvar er næsti stórmarkaður?",
+      "transliteration": "hvar er næsti stórmarkaður",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-16T21:28:54.716446"
     }
   ],
-  "last_updated": "2026-11-16T04:50:20.378506"
+  "last_updated": "2026-11-16T21:28:54.716448"
 }
