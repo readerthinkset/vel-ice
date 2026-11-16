@@ -24219,7 +24219,42 @@
       "transliteration": "hvar er næsti stórmarkaður",
       "category": "Common Expressions",
       "generated_at": "2026-11-16T21:28:54.716446"
+    },
+    {
+      "english": "I need a smaller size, please.",
+      "icelandic": "Mig vantar minni stærð, takk.",
+      "transliteration": "mig vantar minni staerd, takk",
+      "category": "Clothes",
+      "generated_at": "2026-11-16T23:11:32.250705"
+    },
+    {
+      "english": "Where can I buy this dress?",
+      "icelandic": "Hvar get ég keypt þessa kjól?",
+      "transliteration": "hvar get eg keypt þessa kjol",
+      "category": "Clothes",
+      "generated_at": "2026-11-16T23:11:32.250723"
+    },
+    {
+      "english": "The zipper is smooth, today.",
+      "icelandic": "Rennilásinn er sléttur, í dag.",
+      "transliteration": "rennilasin er sléttur, i dag",
+      "category": "Clothes",
+      "generated_at": "2026-11-16T23:11:32.250724"
+    },
+    {
+      "english": "The color matches my shoes well.",
+      "icelandic": "Litirnir passa vel við skóna mína.",
+      "transliteration": "litirnir passa vel vid skona mina",
+      "category": "Clothes",
+      "generated_at": "2026-11-16T23:11:32.250725"
+    },
+    {
+      "english": "These socks are warm enough.",
+      "icelandic": "Þessir sokkar eru nógu hlýir.",
+      "transliteration": "thessir sokkar eru nogu hlyir",
+      "category": "Clothes",
+      "generated_at": "2026-11-16T23:11:32.250727"
     }
   ],
-  "last_updated": "2026-11-16T21:28:54.716448"
+  "last_updated": "2026-11-16T23:11:32.250729"
 }
