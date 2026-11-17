@@ -24429,7 +24429,42 @@
       "transliteration": "taktu þér tíma, þú ert ekki seinn",
       "category": "Strength",
       "generated_at": "2026-11-17T22:00:05.619396"
+    },
+    {
+      "english": "Good morning, have a great day.",
+      "icelandic": "Góðan dag, hafðu frábæran dag.",
+      "transliteration": "GO-than dag, hafðu FRÁ-bæran dag.",
+      "category": "Greetings",
+      "generated_at": "2026-11-17T23:43:49.604855"
+    },
+    {
+      "english": "Hello, hope you're doing well today.",
+      "icelandic": "Halló, vona að þér líði vel í dag.",
+      "transliteration": "ha-LOU, VOna að þér LÍði vel í DAG.",
+      "category": "Greetings",
+      "generated_at": "2026-11-17T23:43:49.604870"
+    },
+    {
+      "english": "Hi, sending you a friendly hello.",
+      "icelandic": "Hæ, sendi þér hlýtt kveðjuorð.",
+      "transliteration": "Hæ, SENdi þér hlýtt KVEÐjuorð.",
+      "category": "Greetings",
+      "generated_at": "2026-11-17T23:43:49.604872"
+    },
+    {
+      "english": "Welcome back, it's good to see you.",
+      "icelandic": "Velkomin aftur, gott að sjá þig.",
+      "transliteration": "vel-KOMin AFTur, GOTT að SJÁ þig.",
+      "category": "Greetings",
+      "generated_at": "2026-11-17T23:43:49.604874"
+    },
+    {
+      "english": "Take care, and enjoy the day.",
+      "icelandic": "Vertu sæll, njóttu dagsins.",
+      "transliteration": "VEr-tu SÁLL, NJÓttu DAGSins.",
+      "category": "Greetings",
+      "generated_at": "2026-11-17T23:43:49.604876"
     }
   ],
-  "last_updated": "2026-11-17T22:00:05.619398"
+  "last_updated": "2026-11-17T23:43:49.604878"
 }
