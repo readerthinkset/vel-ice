@@ -24289,7 +24289,42 @@
       "transliteration": "þessi græna peysa litur virkilega fersk út",
       "category": "Colors",
       "generated_at": "2026-11-17T00:39:02.223917"
+    },
+    {
+      "english": "Call the police, quickly, please.",
+      "icelandic": "Kallaðu lögregluna, fljótt, takk.",
+      "transliteration": "Kallaðu lögregluna, fljótt, takk",
+      "category": "Emergency",
+      "generated_at": "2026-11-17T02:49:33.740122"
+    },
+    {
+      "english": "Call an ambulance now, please.",
+      "icelandic": "Hringdu í sjúkrabíl núna, takk.",
+      "transliteration": "Hringdu í sjúkrabíl núna, takk",
+      "category": "Emergency",
+      "generated_at": "2026-11-17T02:49:33.740136"
+    },
+    {
+      "english": "Is anyone hurt, here, please?",
+      "icelandic": "Er einhver slasaður hérna, vinsamlegast?",
+      "transliteration": "Er einhver slasaður hérna, vinsamlegast",
+      "category": "Emergency",
+      "generated_at": "2026-11-17T02:49:33.740138"
+    },
+    {
+      "english": "I can't breathe, help me.",
+      "icelandic": "Ég kemst ekki í gegnum, hjálpðu mér.",
+      "transliteration": "Ég kemst ekki í gegnum, hjálpðu mér",
+      "category": "Emergency",
+      "generated_at": "2026-11-17T02:49:33.740139"
+    },
+    {
+      "english": "I'm having chest pain, please help.",
+      "icelandic": "Ég er með brjóstverk, hjálpið mér.",
+      "transliteration": "Ég er með brjóstverk, hjálpið mér",
+      "category": "Emergency",
+      "generated_at": "2026-11-17T02:49:33.740140"
     }
   ],
-  "last_updated": "2026-11-17T00:39:02.223931"
+  "last_updated": "2026-11-17T02:49:33.740142"
 }
