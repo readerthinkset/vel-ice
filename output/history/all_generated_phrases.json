@@ -24324,7 +24324,42 @@
       "transliteration": "Ég er með brjóstverk, hjálpið mér",
       "category": "Emergency",
       "generated_at": "2026-11-17T02:49:33.740140"
+    },
+    {
+      "english": "I hear the alarm, then I breathe.",
+      "icelandic": "Ég heyri vekjarann, svo anda ég rólega.",
+      "transliteration": "yeh HEyri VEKjarann, svo ANda eh ROlegA.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T06:38:40.458414"
+    },
+    {
+      "english": "I turn off the alarm, slowly.",
+      "icelandic": "Ég slökkva á vekjaranum, rólega.",
+      "transliteration": "yeh SLAekka a VEKjaranUm, ROlega.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T06:38:40.458427"
+    },
+    {
+      "english": "I sit up, and rub my eyes.",
+      "icelandic": "Ég sest upp, og nudda augun.",
+      "transliteration": "yeh SETt upp, og NUDda AUgu n.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T06:38:40.458428"
+    },
+    {
+      "english": "I look at the window, briefly.",
+      "icelandic": "Ég lít út um gluggann, stutt.",
+      "transliteration": "yeh LIT ut UM glUganN, STUTt.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T06:38:40.458429"
+    },
+    {
+      "english": "I get out of bed, quietly.",
+      "icelandic": "Ég kem fram úr rúminu, hljótt.",
+      "transliteration": "yeh KEM Fram úr RUminu, Hljott.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T06:38:40.458430"
     }
   ],
-  "last_updated": "2026-11-17T02:49:33.740142"
+  "last_updated": "2026-11-17T06:38:40.458431"
 }
