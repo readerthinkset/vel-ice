@@ -24604,7 +24604,42 @@
       "transliteration": "Lyftu hökunni aðeins, líttu áfram.",
       "category": "Body Parts",
       "generated_at": "2026-11-18T21:42:14.038527"
+    },
+    {
+      "english": "In a moment, it starts.",
+      "icelandic": "Eftir augnablik byrjar það.",
+      "transliteration": "eptir augnablik byrrar thað",
+      "category": "Time",
+      "generated_at": "2026-11-18T23:16:17.624236"
+    },
+    {
+      "english": "Hold on, we’re almost done.",
+      "icelandic": "Bíddu aðeins, við erum næstum búin.",
+      "transliteration": "biddu aðeins, vid erum næstum buin",
+      "category": "Time",
+      "generated_at": "2026-11-18T23:16:17.624248"
+    },
+    {
+      "english": "Come here now, please.",
+      "icelandic": "Komdu hingað núna, takk.",
+      "transliteration": "komdu hingað núna, takk",
+      "category": "Time",
+      "generated_at": "2026-11-18T23:16:17.624250"
+    },
+    {
+      "english": "We’ll leave soon, don’t worry.",
+      "icelandic": "Við förum fljótlega, ekki hafa áhyggjur.",
+      "transliteration": "vid ferum fljotlega, ekki hafa aehyggjur",
+      "category": "Time",
+      "generated_at": "2026-11-18T23:16:17.624252"
+    },
+    {
+      "english": "The train is late today.",
+      "icelandic": "Lestarinn er seinn í dag.",
+      "transliteration": "lestarinn er seinn i dag",
+      "category": "Time",
+      "generated_at": "2026-11-18T23:16:17.624253"
     }
   ],
-  "last_updated": "2026-11-18T21:42:14.038529"
+  "last_updated": "2026-11-18T23:16:17.624255"
 }
