@@ -24639,7 +24639,42 @@
       "transliteration": "lestarinn er seinn i dag",
       "category": "Time",
       "generated_at": "2026-11-18T23:16:17.624253"
+    },
+    {
+      "english": "You’re getting closer, keep going.",
+      "icelandic": "Þú ert að komast nær, haltu áfram.",
+      "transliteration": "Þú ert að komast nær, haltu áfram.",
+      "category": "Success",
+      "generated_at": "2026-11-19T01:45:52.744831"
+    },
+    {
+      "english": "Stay curious, questions help you learn.",
+      "icelandic": "Vertu forvitin(n), spurningar hjálpa þér að læra.",
+      "transliteration": "Vertu forvitin(n), spurningar hjálpa þér að læra.",
+      "category": "Success",
+      "generated_at": "2026-11-19T01:45:52.744846"
+    },
+    {
+      "english": "Try the sentence again, you’ve got it.",
+      "icelandic": "Prófaðu setninguna aftur, þú nærð þessu.",
+      "transliteration": "Prófaðu setninguna aftur, þú nærð þessu.",
+      "category": "Success",
+      "generated_at": "2026-11-19T01:45:52.744847"
+    },
+    {
+      "english": "Small wins count, celebrate them today.",
+      "icelandic": "Smá sigrar skipta máli, fagnaðu þeim í dag.",
+      "transliteration": "Smá sigrar skipta máli, fagnaðu þeim í dag.",
+      "category": "Success",
+      "generated_at": "2026-11-19T01:45:52.744848"
+    },
+    {
+      "english": "Speak when you’re ready, not perfect.",
+      "icelandic": "Talaðu þegar þú ert tilbúin(n), ekki fullkomin(n).",
+      "transliteration": "Talaðu þegar þú ert tilbúin(n), ekki fullkomin(n).",
+      "category": "Success",
+      "generated_at": "2026-11-19T01:45:52.744849"
     }
   ],
-  "last_updated": "2026-11-18T23:16:17.624255"
+  "last_updated": "2026-11-19T01:45:52.744850"
 }
