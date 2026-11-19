@@ -24674,7 +24674,42 @@
       "transliteration": "Talaðu þegar þú ert tilbúin(n), ekki fullkomin(n).",
       "category": "Success",
       "generated_at": "2026-11-19T01:45:52.744849"
+    },
+    {
+      "english": "I have one apple for you.",
+      "icelandic": "Ég á eitt epli handa þér.",
+      "transliteration": "Ég á eitt epli handa þér.",
+      "category": "Numbers",
+      "generated_at": "2026-11-19T06:09:02.713469"
+    },
+    {
+      "english": "Give me two coffees, please.",
+      "icelandic": "Gefðu mér tvær kaffibolla, vinsamlegast.",
+      "transliteration": "Gefðu mér tvær kaffi-bolla, vinsamlegast.",
+      "category": "Numbers",
+      "generated_at": "2026-11-19T06:09:02.713486"
+    },
+    {
+      "english": "I need three tickets for us.",
+      "icelandic": "Mig vantar þrjú miða fyrir okkur.",
+      "transliteration": "Mig vantar þrjú miða fyrir okkur.",
+      "category": "Numbers",
+      "generated_at": "2026-11-19T06:09:02.713488"
+    },
+    {
+      "english": "We have four chairs in the room.",
+      "icelandic": "Við höfum fjóra stóla í herberginu.",
+      "transliteration": "Við höfum fjóra stóla í herberginu.",
+      "category": "Numbers",
+      "generated_at": "2026-11-19T06:09:02.713489"
+    },
+    {
+      "english": "Can I get five bottles of water?",
+      "icelandic": "Má ég fá fimm flöskur af vatni?",
+      "transliteration": "Má ég fá fimm flöskur af vatni?",
+      "category": "Numbers",
+      "generated_at": "2026-11-19T06:09:02.713490"
     }
   ],
-  "last_updated": "2026-11-19T01:45:52.744850"
+  "last_updated": "2026-11-19T06:09:02.713492"
 }
