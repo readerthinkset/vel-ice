@@ -24709,7 +24709,42 @@
       "transliteration": "Má ég fá fimm flöskur af vatni?",
       "category": "Numbers",
       "generated_at": "2026-11-19T06:09:02.713490"
+    },
+    {
+      "english": "Joy bubbles up, right now.",
+      "icelandic": "Gleðin kúlaðist, alveg núna.",
+      "transliteration": "gleðin kú-laðist, al-gert núna",
+      "category": "Joy",
+      "generated_at": "2026-11-19T19:49:34.750816"
+    },
+    {
+      "english": "I feel lighter, with every smile.",
+      "icelandic": "Ég verð léttari, í hverju brosi.",
+      "transliteration": "ég verð létt-ar-i, í hverju bro-si",
+      "category": "Joy",
+      "generated_at": "2026-11-19T19:49:34.750830"
+    },
+    {
+      "english": "Today tastes sweet, for me.",
+      "icelandic": "Í dag smakkast sætt, fyrir mig.",
+      "transliteration": "í dag smakk-as seytt, fyr-ir mig",
+      "category": "Joy",
+      "generated_at": "2026-11-19T19:49:34.750831"
+    },
+    {
+      "english": "My worries fade away, slowly.",
+      "icelandic": "Áhyggjur mínar hverfa, hægt og rólega.",
+      "transliteration": "á-gyggjur mín-ar hverfa, hægt og ró-leg-a",
+      "category": "Joy",
+      "generated_at": "2026-11-19T19:49:34.750833"
+    },
+    {
+      "english": "I laugh, and the world warms.",
+      "icelandic": "Ég hlæ, og heimurinn hlýnar.",
+      "transliteration": "ég hlae, og heim-ur-inn hlýn-ar",
+      "category": "Joy",
+      "generated_at": "2026-11-19T19:49:34.750834"
     }
   ],
-  "last_updated": "2026-11-19T06:09:02.713492"
+  "last_updated": "2026-11-19T19:49:34.750835"
 }
