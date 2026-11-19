@@ -24744,7 +24744,42 @@
       "transliteration": "ég hlae, og heim-ur-inn hlýn-ar",
       "category": "Joy",
       "generated_at": "2026-11-19T19:49:34.750834"
+    },
+    {
+      "english": "Welcome to Iceland, come in warm.",
+      "icelandic": "Velkomin til Íslands, komdu inn.",
+      "transliteration": "vel-KOH-min til IS-lan(d)s, KOM-du inn",
+      "category": "Culture",
+      "generated_at": "2026-11-19T21:58:18.301891"
+    },
+    {
+      "english": "I love how people say hello.",
+      "icelandic": "Ég elska hvernig fólk kveður.",
+      "transliteration": "eg el-ska hva-er-fok KVED-er",
+      "category": "Culture",
+      "generated_at": "2026-11-19T21:58:18.301902"
+    },
+    {
+      "english": "Let’s try kleinur after coffee.",
+      "icelandic": "Við skulum prófa kleinur með kaffinu.",
+      "transliteration": "við SKU-lum PROY-fa KLEI-nur MEÐ KAI-fi-nu",
+      "category": "Culture",
+      "generated_at": "2026-11-19T21:58:18.301904"
+    },
+    {
+      "english": "Where can I buy rye bread?",
+      "icelandic": "Hvar get ég keypt rúgbrauð?",
+      "transliteration": "hvar GET eg KEIPT ROUGH-brauth",
+      "category": "Culture",
+      "generated_at": "2026-11-19T21:58:18.301905"
+    },
+    {
+      "english": "Is there hot soup today, please?",
+      "icelandic": "Er til heit súpa í dag, takk?",
+      "transliteration": "er til heit SOO-pa i DAG, takk",
+      "category": "Culture",
+      "generated_at": "2026-11-19T21:58:18.301907"
     }
   ],
-  "last_updated": "2026-11-19T19:49:34.750835"
+  "last_updated": "2026-11-19T21:58:18.301908"
 }
