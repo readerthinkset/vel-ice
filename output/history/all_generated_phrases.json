@@ -24919,7 +24919,42 @@
       "transliteration": "VER-tu ÞO-li-nmóður, líka KEIÐR það er HÆGT.",
       "category": "Patience",
       "generated_at": "2026-11-20T19:29:15.873888"
+    },
+    {
+      "english": "Thank you for your kind help today.",
+      "icelandic": "Takk fyrir hjálpina þína í dag.",
+      "transliteration": "takk fyrir hjálpina thína í dag",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T21:40:02.683330"
+    },
+    {
+      "english": "I appreciate you, more than you know.",
+      "icelandic": "Ég þakka þér, meira en þú veist.",
+      "transliteration": "ég þakka thér meira en thú veist",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T21:40:02.683341"
+    },
+    {
+      "english": "Thanks for checking in on me.",
+      "icelandic": "Takk fyrir að tékka á mér.",
+      "transliteration": "takk fyrir ad tékka á mér",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T21:40:02.683342"
+    },
+    {
+      "english": "Your message made me feel better.",
+      "icelandic": "Skilaboðin þín létu mér líða betur.",
+      "transliteration": "skilaboðin thín létu mér líða betur",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T21:40:02.683343"
+    },
+    {
+      "english": "I’m grateful for your patience today.",
+      "icelandic": "Ég er þakklát fyrir þolinmæðina þína.",
+      "transliteration": "ég er þakklát fyrir tholinmæðina thína",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T21:40:02.683344"
     }
   ],
-  "last_updated": "2026-11-20T19:29:15.873889"
+  "last_updated": "2026-11-20T21:40:02.683347"
 }
