@@ -24954,7 +24954,42 @@
       "transliteration": "ég er þakklát fyrir tholinmæðina thína",
       "category": "Gratitude",
       "generated_at": "2026-11-20T21:40:02.683344"
+    },
+    {
+      "english": "I’m craving something savory today, please.",
+      "icelandic": "Mig langar í eitthvað bragðmikið í dag.",
+      "transliteration": "Mig langar í 'eitthvað braðg-mikið í dag.",
+      "category": "Food",
+      "generated_at": "2026-11-20T22:56:16.704078"
+    },
+    {
+      "english": "Could I have a side salad?",
+      "icelandic": "Get ég fengið með mér salat?",
+      "transliteration": "Get ég fengið með mér salat?",
+      "category": "Food",
+      "generated_at": "2026-11-20T22:56:16.704090"
+    },
+    {
+      "english": "These fries are perfectly crispy, wow.",
+      "icelandic": "Þessar franskar eru alveg fullkomlega stökkaðar.",
+      "transliteration": "Þessar franskar eru alveg fullkomlega stökkaðar.",
+      "category": "Food",
+      "generated_at": "2026-11-20T22:56:16.704092"
+    },
+    {
+      "english": "I’ll try the soup, just a bit.",
+      "icelandic": "Ég prófa soppuna, bara smá.",
+      "transliteration": "Ég prófa 'soppuna' bara smá.",
+      "category": "Food",
+      "generated_at": "2026-11-20T22:56:16.704093"
+    },
+    {
+      "english": "That smells amazing, what is it?",
+      "icelandic": "Það lyktar frábærlega, hvað er þetta?",
+      "transliteration": "Það lyktar frábærlega, hvað er þetta?",
+      "category": "Food",
+      "generated_at": "2026-11-20T22:56:16.704094"
     }
   ],
-  "last_updated": "2026-11-20T21:40:02.683347"
+  "last_updated": "2026-11-20T22:56:16.704096"
 }
