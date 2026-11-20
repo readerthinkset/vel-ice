@@ -24814,7 +24814,42 @@
       "transliteration": "Njóttu tímabilsins, á þínum hraða.",
       "category": "Holidays",
       "generated_at": "2026-11-19T23:29:36.169092"
+    },
+    {
+      "english": "The clouds are moving in fast.",
+      "icelandic": "Skýin eru að koma fljótt inn.",
+      "transliteration": "skjein eru að koma fljott inn",
+      "category": "Weather",
+      "generated_at": "2026-11-20T01:41:48.116909"
+    },
+    {
+      "english": "It looks like snow is coming.",
+      "icelandic": "Það lítur út eins og snjór komi.",
+      "transliteration": "það litur út eins og snjór komi",
+      "category": "Weather",
+      "generated_at": "2026-11-20T01:41:48.116921"
+    },
+    {
+      "english": "Foggy weather has taken over.",
+      "icelandic": "Þokunáttur er komin yfir allt.",
+      "transliteration": "thokunattur er komin yfir allt",
+      "category": "Weather",
+      "generated_at": "2026-11-20T01:41:48.116923"
+    },
+    {
+      "english": "The wind is getting stronger now.",
+      "icelandic": "Vindurinn er að styrkjast núna.",
+      "transliteration": "vindurinn er að styrkjast núna",
+      "category": "Weather",
+      "generated_at": "2026-11-20T01:41:48.116924"
+    },
+    {
+      "english": "We might get hail later today.",
+      "icelandic": "Við gætum fengið hagl seinna í dag.",
+      "transliteration": "við gætum fengið hagl seinna í dag",
+      "category": "Weather",
+      "generated_at": "2026-11-20T01:41:48.116925"
     }
   ],
-  "last_updated": "2026-11-19T23:29:36.169094"
+  "last_updated": "2026-11-20T01:41:48.116927"
 }
