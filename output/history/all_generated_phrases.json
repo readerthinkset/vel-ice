@@ -25094,7 +25094,42 @@
       "transliteration": "Augun frammi, lesðu leikinn snemma.",
       "category": "Sports",
       "generated_at": "2026-11-21T18:31:06.787149"
+    },
+    {
+      "english": "Excuse me, where is the restroom?",
+      "icelandic": "Afsakið, hvar er salernið?",
+      "transliteration": "afsakið, hvar er salernið",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-21T20:21:34.476490"
+    },
+    {
+      "english": "I’d like some water, please.",
+      "icelandic": "Ég vildi fá vatn, takk fyrir.",
+      "transliteration": "ég vildi fá vatn, takk fyrir",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-21T20:21:34.476509"
+    },
+    {
+      "english": "Do you take cards here?",
+      "icelandic": "Takið þið kort hér?",
+      "transliteration": "takið þið kort hér",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-21T20:21:34.476511"
+    },
+    {
+      "english": "I’m looking for this address.",
+      "icelandic": "Ég leita að þessari heimilisfang.",
+      "transliteration": "ég leita að þessari heimilisfang",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-21T20:21:34.476512"
+    },
+    {
+      "english": "The weather changed so fast.",
+      "icelandic": "Veðrið breyttist svo hratt.",
+      "transliteration": "veðrið breyttist svo hratt",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-21T20:21:34.476514"
     }
   ],
-  "last_updated": "2026-11-21T18:31:06.787151"
+  "last_updated": "2026-11-21T20:21:34.476516"
 }
