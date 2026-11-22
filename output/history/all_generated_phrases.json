@@ -25164,7 +25164,42 @@
       "transliteration": "Byggðu sparnað hægt, en stöðugt.",
       "category": "Finance",
       "generated_at": "2026-11-21T22:00:09.091927"
+    },
+    {
+      "english": "I like this jacket, it’s comfy.",
+      "icelandic": "Mér líkar þessi jakkinn, hann er þægilegur.",
+      "transliteration": "mer líkar þessi jakkinn, hann er þægilegur.",
+      "category": "Clothes",
+      "generated_at": "2026-11-22T00:09:03.433532"
+    },
+    {
+      "english": "Is this hoodie warm enough for today?",
+      "icelandic": "Er þessi peysa hettan nógu hlý í dag?",
+      "transliteration": "er þessi peysa hettan nógu hlý í dag?",
+      "category": "Clothes",
+      "generated_at": "2026-11-22T00:09:03.433557"
+    },
+    {
+      "english": "These socks feel snug, not tight.",
+      "icelandic": "Þessar sokkar sitja vel, ekki þétt.",
+      "transliteration": "þessar sokkar sitja vel, ekki þétt.",
+      "category": "Clothes",
+      "generated_at": "2026-11-22T00:09:03.433559"
+    },
+    {
+      "english": "My coat smells fresh, just washed.",
+      "icelandic": "Yfirfrakkinn minn lyktar ferskt, nýþveginn.",
+      "transliteration": "yfirfrakkinn minn lyktar ferskt, nýþveginn.",
+      "category": "Clothes",
+      "generated_at": "2026-11-22T00:09:03.433560"
+    },
+    {
+      "english": "Where’s the fitting room, please?",
+      "icelandic": "Hvar er skreppið, vinsamlegast?",
+      "transliteration": "hvar er skreppið, vinsamlegast?",
+      "category": "Clothes",
+      "generated_at": "2026-11-22T00:09:03.433561"
     }
   ],
-  "last_updated": "2026-11-21T22:00:09.091932"
+  "last_updated": "2026-11-22T00:09:03.433563"
 }
