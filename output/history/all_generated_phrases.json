@@ -25304,7 +25304,42 @@
       "transliteration": "Ég vel frið, aftur og aftur.",
       "category": "Happiness",
       "generated_at": "2026-11-22T20:34:15.698557"
+    },
+    {
+      "english": "How much for this item, please?",
+      "icelandic": "Hvað kostar þessi vara, takk?",
+      "transliteration": "Hvaða kostar þessi vara, takk?",
+      "category": "Shopping",
+      "generated_at": "2026-11-22T22:17:55.198016"
+    },
+    {
+      "english": "Where can I find more sizes?",
+      "icelandic": "Hvar finn ég fleiri stærðir?",
+      "transliteration": "Hvar finn ég fleiri stærðir?",
+      "category": "Shopping",
+      "generated_at": "2026-11-22T22:17:55.198032"
+    },
+    {
+      "english": "Do you have it in black?",
+      "icelandic": "Er hún til í svörtu?",
+      "transliteration": "Er hún til í svörtu?",
+      "category": "Shopping",
+      "generated_at": "2026-11-22T22:17:55.198033"
+    },
+    {
+      "english": "Is there a matching pair available?",
+      "icelandic": "Er til samstæða pör, hérna?",
+      "transliteration": "Er til samstæða pör, hérna?",
+      "category": "Shopping",
+      "generated_at": "2026-11-22T22:17:55.198035"
+    },
+    {
+      "english": "Can I try it on, please?",
+      "icelandic": "Má ég prófa þetta, takk?",
+      "transliteration": "Má ég prófa þetta, takk?",
+      "category": "Shopping",
+      "generated_at": "2026-11-22T22:17:55.198036"
     }
   ],
-  "last_updated": "2026-11-22T20:34:15.698559"
+  "last_updated": "2026-11-22T22:17:55.198038"
 }
