@@ -25619,7 +25619,42 @@
       "transliteration": "vertu þolinmod med framburdinn",
       "category": "Success",
       "generated_at": "2026-11-24T21:48:09.428239"
+    },
+    {
+      "english": "You can do this, slowly now.",
+      "icelandic": "Þú getur þetta, hægt núna.",
+      "transliteration": "thu getur thessa, haegt n-u-na",
+      "category": "Confidence",
+      "generated_at": "2026-11-24T23:22:37.199005"
+    },
+    {
+      "english": "Relax your mouth, and say it.",
+      "icelandic": "Slakaðu á munninum, og segðu það.",
+      "transliteration": "slaka-dyu a mun-ninum, og seg-du tha-da",
+      "category": "Confidence",
+      "generated_at": "2026-11-24T23:22:37.199019"
+    },
+    {
+      "english": "It’s okay if it sounds different.",
+      "icelandic": "Það er allt í lagi þótt það hljómi öðruvísi.",
+      "transliteration": "tha er allt i lagi thott tha hljomi othru-vi-si",
+      "category": "Confidence",
+      "generated_at": "2026-11-24T23:22:37.199021"
+    },
+    {
+      "english": "Keep going, even with mistakes.",
+      "icelandic": "Haltu áfram, líka með mistökum.",
+      "transliteration": "haltu a-fram, lika með mis-teok-um",
+      "category": "Confidence",
+      "generated_at": "2026-11-24T23:22:37.199022"
+    },
+    {
+      "english": "Start with the first syllable.",
+      "icelandic": "Byrjaðu á fyrstu atkvæðinu.",
+      "transliteration": "byrja-du a fyrstu at-kveth-inu",
+      "category": "Confidence",
+      "generated_at": "2026-11-24T23:22:37.199023"
     }
   ],
-  "last_updated": "2026-11-24T21:48:09.428241"
+  "last_updated": "2026-11-24T23:22:37.199024"
 }
