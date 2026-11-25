@@ -25759,7 +25759,42 @@
       "transliteration": "sæl, njóttu stundarinnar",
       "category": "Greetings",
       "generated_at": "2026-11-25T07:04:40.344921"
+    },
+    {
+      "english": "I forgot my password again, sorry.",
+      "icelandic": "Ég gleymdi lykilorðinu aftur, afsakaðu.",
+      "transliteration": "Ég gleymdi lykilorðinu aftur, afsakaðu.",
+      "category": "Technology",
+      "generated_at": "2026-11-25T20:54:48.614291"
+    },
+    {
+      "english": "Please switch to airplane mode briefly.",
+      "icelandic": "Vinsamlegast kveiktu á flugstillingu stuttlega.",
+      "transliteration": "Vinsamlega kveiktu á flugstillingu stuttlega.",
+      "category": "Technology",
+      "generated_at": "2026-11-25T20:54:48.614306"
+    },
+    {
+      "english": "My phone shows No Service right now.",
+      "icelandic": "Síminn minn sýnir Enga þjónustu núna.",
+      "transliteration": "Síminn minn sýnir Enga þjónustu núna.",
+      "category": "Technology",
+      "generated_at": "2026-11-25T20:54:48.614309"
+    },
+    {
+      "english": "Wait a moment, the page loads.",
+      "icelandic": "Bíddu aðeins, síðan hleðst.",
+      "transliteration": "Bíddu aðeins, síðan hleðst.",
+      "category": "Technology",
+      "generated_at": "2026-11-25T20:54:48.614311"
+    },
+    {
+      "english": "I need to restart the router.",
+      "icelandic": "Ég þarf að endurræsa beinið.",
+      "transliteration": "Ég þarf að endurræsa beinið.",
+      "category": "Technology",
+      "generated_at": "2026-11-25T20:54:48.614312"
     }
   ],
-  "last_updated": "2026-11-25T07:04:40.344923"
+  "last_updated": "2026-11-25T20:54:48.614315"
 }
