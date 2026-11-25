@@ -25794,7 +25794,42 @@
       "transliteration": "Ég þarf að endurræsa beinið.",
       "category": "Technology",
       "generated_at": "2026-11-25T20:54:48.614312"
+    },
+    {
+      "english": "I can do this, one step.",
+      "icelandic": "Ég get þetta, eitt skref í einu.",
+      "transliteration": "eig etta, eit skref í einu",
+      "category": "Purpose",
+      "generated_at": "2026-11-25T22:54:32.000710"
+    },
+    {
+      "english": "Say it slowly, then speed up.",
+      "icelandic": "Segðu það hægt, svo hraðar.",
+      "transliteration": "segðu það heikt, svo hraðar",
+      "category": "Purpose",
+      "generated_at": "2026-11-25T22:54:32.000722"
+    },
+    {
+      "english": "Try again, even if it slips.",
+      "icelandic": "Reyndu aftur, þó það falli.",
+      "transliteration": "reyndu aftur, þó það falli",
+      "category": "Purpose",
+      "generated_at": "2026-11-25T22:54:32.000724"
+    },
+    {
+      "english": "Use simple words, every day.",
+      "icelandic": "Notaðu einföld orð, á hverjum degi.",
+      "transliteration": "notaðu einfeld orð, á hverjum degi",
+      "category": "Purpose",
+      "generated_at": "2026-11-25T22:54:32.000725"
+    },
+    {
+      "english": "Ask, if you don’t understand.",
+      "icelandic": "Spurðu, ef þú skilur ekki.",
+      "transliteration": "spyrðu, ef þú skilur ekki",
+      "category": "Purpose",
+      "generated_at": "2026-11-25T22:54:32.000727"
     }
   ],
-  "last_updated": "2026-11-25T20:54:48.614315"
+  "last_updated": "2026-11-25T22:54:32.000729"
 }
