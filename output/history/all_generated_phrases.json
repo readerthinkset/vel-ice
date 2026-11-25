@@ -25654,7 +25654,42 @@
       "transliteration": "byrja-du a fyrstu at-kveth-inu",
       "category": "Confidence",
       "generated_at": "2026-11-24T23:22:37.199023"
+    },
+    {
+      "english": "Turn left at the corner.",
+      "icelandic": "Beygðu til vinstri við hornið.",
+      "transliteration": "Beygdu til vinstri við hornid.",
+      "category": "Directions",
+      "generated_at": "2026-11-25T01:14:47.093726"
+    },
+    {
+      "english": "Go straight for two minutes.",
+      "icelandic": "Farðu beint í tvær mínútur.",
+      "transliteration": "Farddu beint i tvar minutur.",
+      "category": "Directions",
+      "generated_at": "2026-11-25T01:14:47.093741"
+    },
+    {
+      "english": "Take the second road to the right.",
+      "icelandic": "Taktu aðra götuna til hægri.",
+      "transliteration": "Taktu ađra gotuna til haegri.",
+      "category": "Directions",
+      "generated_at": "2026-11-25T01:14:47.093743"
+    },
+    {
+      "english": "Cross the bridge, then continue.",
+      "icelandic": "Farið yfir brúnna, svo haldið áfram.",
+      "transliteration": "Farið yfir brunna, svo haldið áfram.",
+      "category": "Directions",
+      "generated_at": "2026-11-25T01:14:47.093743"
+    },
+    {
+      "english": "Keep going until you see the sign.",
+      "icelandic": "Haltu áfram þar til þú sérð merkið.",
+      "transliteration": "Haldu áfram þar til thu serđ merkið.",
+      "category": "Directions",
+      "generated_at": "2026-11-25T01:14:47.093744"
     }
   ],
-  "last_updated": "2026-11-24T23:22:37.199024"
+  "last_updated": "2026-11-25T01:14:47.093747"
 }
