@@ -25689,7 +25689,42 @@
       "transliteration": "Haldu áfram þar til thu serđ merkið.",
       "category": "Directions",
       "generated_at": "2026-11-25T01:14:47.093744"
+    },
+    {
+      "english": "Good morning, I hope you're well.",
+      "icelandic": "Góðan dag, vona að þér líði vel.",
+      "transliteration": "Góðan dag, vona að þér líði vel.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-25T03:25:08.454462"
+    },
+    {
+      "english": "Thanks a lot, that helps me.",
+      "icelandic": "Takk kærlega, það hjálpar mér.",
+      "transliteration": "Takk kærlega, það hjálpar mér.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-25T03:25:08.454479"
+    },
+    {
+      "english": "Excuse me, where do I go?",
+      "icelandic": "Afsakið, hvert á ég að fara?",
+      "transliteration": "Af-sakið, hvert á ég að fara?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-25T03:25:08.454480"
+    },
+    {
+      "english": "I’d like a coffee, please.",
+      "icelandic": "Mig langar í kaffi, takk fyrir.",
+      "transliteration": "Mig langar í kaffi, takk fyrir.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-25T03:25:08.454481"
+    },
+    {
+      "english": "Do you have tea as well?",
+      "icelandic": "Er líka til te?",
+      "transliteration": "Er líka til te?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-25T03:25:08.454482"
     }
   ],
-  "last_updated": "2026-11-25T01:14:47.093747"
+  "last_updated": "2026-11-25T03:25:08.454483"
 }
