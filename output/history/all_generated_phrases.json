@@ -25724,7 +25724,42 @@
       "transliteration": "Er líka til te?",
       "category": "Basic Phrases",
       "generated_at": "2026-11-25T03:25:08.454482"
+    },
+    {
+      "english": "Good morning, have a smooth day.",
+      "icelandic": "Góðan daginn, eigðu rólegan dag.",
+      "transliteration": "góðan daginn, eigðu rólegan dag",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T07:04:40.344903"
+    },
+    {
+      "english": "Hello, great to see you here.",
+      "icelandic": "Halló, gott að sjá þig hér.",
+      "transliteration": "halló, gott að sjá þig hér",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T07:04:40.344917"
+    },
+    {
+      "english": "Hey, I hope you’re feeling okay.",
+      "icelandic": "Hæ, ég vona að þér líði vel.",
+      "transliteration": "hæ, ég vona að þér líði vel",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T07:04:40.344919"
+    },
+    {
+      "english": "Welcome, come on in, friend.",
+      "icelandic": "Velkominn, komdu bara inn, vinur.",
+      "transliteration": "velkominn, komdu bara inn, vinur",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T07:04:40.344920"
+    },
+    {
+      "english": "Hi there, enjoy the moment.",
+      "icelandic": "Sæl, njóttu stundarinnar.",
+      "transliteration": "sæl, njóttu stundarinnar",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T07:04:40.344921"
     }
   ],
-  "last_updated": "2026-11-25T03:25:08.454483"
+  "last_updated": "2026-11-25T07:04:40.344923"
 }
