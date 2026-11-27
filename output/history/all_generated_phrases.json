@@ -26004,7 +26004,28 @@
       "transliteration": "Straujaðu axlirnar, finndu losunina.",
       "category": "Body Parts",
       "generated_at": "2026-11-26T22:46:47.342391"
+    },
+    {
+      "english": "I pull the curtains open for daylight.",
+      "icelandic": "Ég dreg gardínurnar frá, fyrir dagsljós.",
+      "transliteration": "Ég dreg gardínurnar frá, fyrir dagsljós.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-27T11:42:50.556233"
+    },
+    {
+      "english": "I wash my face, feeling awake.",
+      "icelandic": "Ég þvo mér í andlitið, vaknaður.",
+      "transliteration": "Ég þvo mér í andlitið, vaknaður.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-27T11:42:50.556246"
+    },
+    {
+      "english": "I brush my teeth, slowly and carefully.",
+      "icelandic": "Ég bursta tennurnar, hægt og vandlega.",
+      "transliteration": "Ég bursta tennurnar, hægt og vandlega.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-27T11:42:50.556247"
     }
   ],
-  "last_updated": "2026-11-26T22:46:47.342394"
+  "last_updated": "2026-11-27T11:42:50.556249"
 }
